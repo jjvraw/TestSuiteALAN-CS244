@@ -1,0 +1,7 @@
+String: "hi there; {} }}}}"
+Identifier: 'however'
+'.'
+Identifier: 'lunch'
+'='
+Identifier: 'no'
+testscanner: commentnotclosed4.alan:2:20: error: comment_not_closed

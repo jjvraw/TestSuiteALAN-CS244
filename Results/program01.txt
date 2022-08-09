@@ -1,0 +1,27 @@
+'source'
+Identifier: 'program'
+'function'
+'('
+')'
+'begin'
+'relax'
+Identifier: 'ten'
+'='
+Number: 5
+'+'
+Number: 5
+Identifier: 'twenty_Five'
+'='
+Number: 5
+'*'
+Number: 5
+Identifier: 'equation'
+':='
+String: "fiffy\nfive"
+'*'
+'('
+Number: 34487938
+'/'
+Number: 100
+')'
+'end'

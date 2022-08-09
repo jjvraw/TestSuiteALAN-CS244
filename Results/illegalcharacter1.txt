@@ -1,0 +1,10 @@
+'source'
+Identifier: 'illegal_char'
+'begin'
+Identifier: 'this'
+'.'
+Identifier: 'that'
+Identifier: 'his'
+'.'
+Identifier: 'her'
+testscanner: illegalcharacter1.alan:5:1: error: illegal_character_':'_(ASCII_#32)

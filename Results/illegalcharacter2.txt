@@ -1,0 +1,9 @@
+Identifier: 'test'
+Identifier: 'script'
+':='
+'<>'
+'.'
+'-'
+'or'
+';'
+testscanner: illegalcharacter2.alan:4:10: error: illegal_character_'`'_(ASCII_#96)

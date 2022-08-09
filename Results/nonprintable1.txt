@@ -1,0 +1,2 @@
+String: "This should throw an error"
+testscanner: nonprintable1.alan:3:18: error: non-printable_character_(ASCII_#194)_in_string

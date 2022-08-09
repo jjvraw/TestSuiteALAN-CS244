@@ -1,0 +1,4 @@
+String: "string test"
+Identifier: 'string'
+'='
+testscanner: illegalescapecode2.alan:2:25: error: illegal_escape_code_'/b'_in_string

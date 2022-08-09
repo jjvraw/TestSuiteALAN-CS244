@@ -1,0 +1,5 @@
+'source'
+Identifier: 'trivial'
+'begin'
+'relax'
+'end'

@@ -1,0 +1,1 @@
+testscanner: errorprecedence.alan:1:43: error: non-printable_character_(ASCII_#194)_in_string

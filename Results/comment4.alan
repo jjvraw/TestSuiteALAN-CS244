@@ -1,0 +1,3 @@
+illegal 
+{\n \t \" \\ % ^}
+characters

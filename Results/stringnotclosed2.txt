@@ -1,0 +1,4 @@
+String: "testing"
+String: ""
+Identifier: 'string'
+testscanner: stringnotclosed2.alan:1:18: error: string_not_closed

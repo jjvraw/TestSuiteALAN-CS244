@@ -1,0 +1,4 @@
+Identifier: 'thisidentifiershouldbeallowed123'
+Identifier: 'all'
+Identifier: 'legal'
+testscanner: identifiertoolong.alan:2:11: error: identifier_too_long

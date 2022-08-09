@@ -1,5 +1,4 @@
 import os
-import unittest
 import subprocess
 import sys
 from dataclasses import dataclass
@@ -62,10 +61,10 @@ class ScannerTest:
     def display_result(self, file, res):
         self.CurrentResult.tests += 1
         if res:
-            print("\033[1;30;42m%-20s %9s\033[0m" % (file, "PASS"))
+            print("\033[1;30;42m%-30s %9s\033[0m" % (file, "PASS"))
             self.CurrentResult.passes += 1
         else:
-            print("\033[1;30;41m%-20s %9s\033[0m" % (file, "FAIL"))
+            print("\033[1;30;41m%-30s %9s\033[0m" % (file, "FAIL"))
             self.fails.insert(self.CurrentResult.failures - 1,
                               [file.replace(".alan", ""), self.out.stdout.decode() + self.out.stderr.decode()])
             self.CurrentResult.failures += 1

@@ -1,0 +1,14 @@
+Number: 123
+Number: 2147483647
+Number: 2147483647
+Number: 12
+Number: 12
+Number: 12
+Number: 233
+Number: 44444444
+Number: 20
+Number: 20
+Number: 2
+Number: 123
+Number: 2147483647
+testscanner: Number2.alan:16:30: error: number_too_large

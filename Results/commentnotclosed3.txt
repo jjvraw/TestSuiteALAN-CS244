@@ -1,0 +1,4 @@
+Identifier: 'string'
+'='
+String: "hello. sir123"
+testscanner: commentnotclosed3.alan:3:24: error: comment_not_closed
