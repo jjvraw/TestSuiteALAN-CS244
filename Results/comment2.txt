@@ -1,0 +1,3 @@
+Identifier: 'comment'
+Identifier: 'insde'
+String: "should be a string {literal} ignoring the {curly} {brackets}"

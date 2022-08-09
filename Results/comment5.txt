@@ -1,0 +1,3 @@
+Identifier: 'multi_line'
+Identifier: 'comments'
+testscanner: comment5.alan:4:9: error: comment not closed
