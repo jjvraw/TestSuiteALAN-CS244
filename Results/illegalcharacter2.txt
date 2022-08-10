@@ -6,4 +6,4 @@ Identifier: 'script'
 '-'
 'or'
 ';'
-testscanner: illegalcharacter2.alan:4:10: error: illegal character '`' (ASCII_#96)
+testscanner: illegalcharacter2.alan:4:10: error: illegal character '`' (ASCII #96)
