@@ -1,4 +1,4 @@
 String: "string test"
 Identifier: 'string'
 '='
-testscanner: illegalescapecode2.alan:2:25: error: illegal escape code '\b'_in_string
+testscanner: illegalescapecode2.alan:2:25: error: illegal escape code '\b' in string
