@@ -7,4 +7,4 @@ Identifier: 'that'
 Identifier: 'his'
 '.'
 Identifier: 'her'
-testscanner: illegalcharacter1.alan:5:1: error: illegal character ':' (ASCII_#32)
+testscanner: illegalcharacter1.alan:5:1: error: illegal character ':' (ASCII #32)
