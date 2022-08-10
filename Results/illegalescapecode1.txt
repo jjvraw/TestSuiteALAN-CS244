@@ -1,1 +1,1 @@
-testscanner: illegalescapecode1.alan:1:43: error: illegal_escape_code_'/b'_in_string
+testscanner: illegalescapecode1.alan:1:43: error: illegal_escape_code '\b' in string

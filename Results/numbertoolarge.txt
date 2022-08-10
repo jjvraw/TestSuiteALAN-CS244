@@ -6,4 +6,4 @@ Identifier: 'this'
 Identifier: 'should'
 Identifier: 'exceed'
 String: "the limit"
-testscanner: numbertoolarge.alan:4:43: error: number_too_large
+testscanner: numbertoolarge.alan:4:43: error: number too large

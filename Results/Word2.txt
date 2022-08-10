@@ -12,4 +12,4 @@ Identifier: 'onee'
 Identifier: 'coming'
 Identifier: 'upppp'
 Identifier: 'nownow'
-testscanner: Word2.alan:8:21: error: identifier_too_long
+testscanner: Word2.alan:8:21: error: identifier too long

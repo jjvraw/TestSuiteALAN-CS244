@@ -1,4 +1,4 @@
 Identifier: 'string'
 Identifier: 'text'
 '='
-testscanner: stringnotclosed3.alan:1:15: error: string_not_closed
+testscanner: stringnotclosed3.alan:1:15: error: string not closed
