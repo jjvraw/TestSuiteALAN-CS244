@@ -1,7 +1,7 @@
 'and'
 'array'
 'begin'
-'begin'
+'boolean'
 'call'
 'do'
 'else'
