@@ -81,6 +81,7 @@ if __name__ == '__main__':
     Util.make()
 
     scanner = ScannerTest(directory)
+
     scanner.test_scanner(argument[1])
     scanner.display_stats()
 

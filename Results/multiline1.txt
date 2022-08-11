@@ -1,0 +1,3 @@
+String: " testing simple escape codes \n \t \" \\ test "
+Identifier: 'multi'
+testscanner: multiline1.alan:2:13: error: non-printable character (ASCII #10) in string

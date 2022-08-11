@@ -1,3 +1,0 @@
-String: " testing simple escape codes \n \t \" \\ test "
-Identifier: 'multi'
-testscanner: multiline.alan:2:7: error: string not closed

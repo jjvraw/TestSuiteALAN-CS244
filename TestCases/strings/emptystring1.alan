@@ -1,0 +1,1 @@
+String empty_string = ""

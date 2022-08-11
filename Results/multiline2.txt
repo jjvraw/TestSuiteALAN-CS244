@@ -1,0 +1,7 @@
+Identifier: 'String'
+Identifier: 'string'
+Identifier: 'str'
+Identifier: 'test'
+Identifier: 'multi_line'
+'='
+testscanner: multiline2.alan:1:56: error: non-printable character (ASCII #10) in string

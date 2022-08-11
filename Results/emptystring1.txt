@@ -1,0 +1,4 @@
+Identifier: 'String'
+Identifier: 'empty_string'
+'='
+String: "(null)"
