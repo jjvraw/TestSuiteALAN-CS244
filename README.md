@@ -32,6 +32,10 @@ Clone the repository in the same directory which contains the "alan" directory a
 	`python3 scanner.py all`
 	- tests all above, and more.
 	
+4. **Official Test Script provided**
+	`python3 scanner.py official1`
+	- tests all above, and more.
+	
 --- 
 
 To add test cases, add xxx.alan file to appropriate folder in TestCases/ and xxx.txt to Results/
