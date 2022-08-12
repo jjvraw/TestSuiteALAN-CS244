@@ -34,7 +34,7 @@ Clone the repository in the same directory which contains the "alan" directory a
 	
 4. **Official Test Script provided**
 	`python3 scanner.py official`
-	- tests all above, and more.
+	- unit tests provided.
 	
 --- 
 
