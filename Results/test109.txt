@@ -1,0 +1,8 @@
+Identifier: 'This'
+Identifier: 'should'
+Identifier: 'produce'
+Identifier: 'an'
+Identifier: 'error'
+Identifier: 'right'
+Identifier: 'now'
+testscanner: test109.alan:2:11: error: comment not closed

@@ -1,0 +1,1 @@
+testscanner: test119.alan:1:41: error: illegal escape code '\b' in string

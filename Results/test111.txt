@@ -1,0 +1,7 @@
+Identifier: 'As'
+Identifier: 'jy'
+Identifier: 'ONNOSEL'
+Identifier: 'is'
+Identifier: 'moet'
+Identifier: 'jy'
+testscanner: test111.alan:4:11: error: comment not closed

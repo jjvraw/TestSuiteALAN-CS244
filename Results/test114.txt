@@ -1,0 +1,5 @@
+Identifier: 'An'
+Identifier: '_invalid_'
+Identifier: 'character'
+Identifier: 'follows'
+testscanner: test114.alan:1:32: error: illegal character '$' (ASCII #36)

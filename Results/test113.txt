@@ -1,0 +1,2 @@
+Number: 2147483647
+testscanner: test113.alan:2:1: error: number too large

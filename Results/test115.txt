@@ -1,0 +1,10 @@
+Identifier: 'This'
+Identifier: 'is'
+Identifier: 'usually'
+Identifier: 'valid'
+':='
+Identifier: 'But'
+Identifier: 'this'
+Identifier: 'is'
+'not'
+testscanner: test115.alan:2:16: error: illegal character ':' (ASCII #58)
