@@ -1,4 +1,4 @@
 String: "testing"
-String: "(null)"
+String: ""
 Identifier: 'string'
 testscanner: stringnotclosed2.alan:1:19: error: non-printable character (ASCII #10) in string
