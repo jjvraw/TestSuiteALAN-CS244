@@ -1,0 +1,20 @@
+source potential_headache1
+    function funky_func(boolean array neptune, integer array relop, integer array plants) to integer
+    begin
+    relax end
+    begin
+    boolean voltaren; 
+    call voltaren(123 = not true);
+    get honey [fire];
+    leave not true ; 
+    put "valid or not valid" {remember to comment out} .funky_func(true, false) ;
+    while true do
+    	if (neptune = planet) then
+    	    relax
+    	elsif (mercury <= 25) then
+    	    call bob()
+    	else 
+    	    put "eh"."mate".":*"
+    	end
+    end
+end

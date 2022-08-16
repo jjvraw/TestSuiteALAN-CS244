@@ -1,0 +1,1 @@
+alanc: empty.alan:1:0: error: expected 'source', but found end-of-file

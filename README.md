@@ -1,7 +1,20 @@
 # TestSuiteALAN
 
-Test suite for scanner. 
-Clone the repository in the same directory which contains the "alan" directory and run scanner.py inside the TestSuiteALAN directory in terminal with appropriate arguments shown below. 
+## How to Clone
+Go into the directory/folder which holds your alan folder.
+
+1. Then in termianl, in the directory type `clone https://github.com/jjvraw/TestSuiteALAN.git` 
+2. Navigate to directory `cd TestSuiteALAN`
+3. Run a script `python3 scanner.py all`
+
+---
+## For Testing Parser 
+1. **Run all tests**
+`python3 parser.py`
+
+---
+
+## For Testing Scanner
 
 1. **Comments**
 	`python3 scanner.py comments`
@@ -34,11 +47,10 @@ Clone the repository in the same directory which contains the "alan" directory a
 	
 4. **Official Test Script provided**
 	`python3 scanner.py official`
-	- unit tests provided.
-	
+	- unit tests provided.	
 --- 
 
-To add test cases, add xxx.alan file to appropriate folder in TestCases/ and xxx.txt to Results/
+To add test cases, add xxx.alan file to appropriate folders in TestCases/ and xxx.txt to Results/
 where xxx is the same name.
 	
 	

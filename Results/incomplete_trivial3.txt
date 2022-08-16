@@ -1,0 +1,1 @@
+alanc: incomplete_trivial3.alan:3:6: error: expected ':=', but found ','

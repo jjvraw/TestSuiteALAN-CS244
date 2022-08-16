@@ -6,20 +6,17 @@ import difflib as dl
 
 
 class Util:
-    @staticmethod
-    def get_argument():
-        return sys.argv
 
     @staticmethod
-    def get_directory(argument):
-        return os.listdir("./" + "TestCases/scanner/" + argument[1] + "/")
+    def get_directory():
+        return os.listdir("./" + "TestCases/parser/" + "/")
 
 
     @staticmethod
     def make():
         os.chdir("../alan/src")
-        print("--- make scanner " + ("-" * 63))
-        os.system("make testscanner")
+        print("--- make testparser " + ("-" * 63))
+        os.system("make testparser")
         print("-" * 80)
         os.chdir("../../TestSuiteALAN")
 
@@ -50,11 +47,11 @@ class ScannerTest:
     def __init__(self, directory):
         self.list = directory
 
-    def test_scanner(self, argument):
+    def test_scanner(self):
         self.list.sort()
         for i in self.list:
             i = i.replace(".alan", "")
-            self.out = subprocess.run(['../alan/bin/testscanner', './TestCases/scanner/' + argument + "/" + i + '.alan'], capture_output=True)
+            self.out = subprocess.run(['../alan/bin/alanc', './TestCases/parser/' + "/" + i + '.alan'], capture_output=True)
             with open('./Results/' + i + '.txt') as f:
                 result = f.read()
             self.display_result(i + '.alan', result == (self.out.stdout.decode() + self.out.stderr.decode()))
@@ -77,13 +74,12 @@ class ScannerTest:
 
 if __name__ == '__main__':
 
-    argument = Util.get_argument()
-    directory = Util.get_directory(argument)
+    directory = Util.get_directory()
     Util.make()
 
     scanner = ScannerTest(directory)
 
-    scanner.test_scanner(argument[1])
+    scanner.test_scanner()
     scanner.display_stats()
 
     print("-" * 80)

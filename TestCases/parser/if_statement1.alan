@@ -1,0 +1,17 @@
+source if_statement1
+
+    function mercury(integer athini, boolean array gabey) to integer
+    begin
+        integer venus, mars, saturn;
+        boolean array neptune, earth; 
+        
+        if (cur = 0) or (cur = 1) then
+            put "hi"
+        else
+            hip [insane or not false] := 123
+        end
+    end
+
+begin
+   relax
+end

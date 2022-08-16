@@ -1,0 +1,1 @@
+alanc: incomplete_trivial2.alan:4:5: error: expected ';', but found 'integer'
