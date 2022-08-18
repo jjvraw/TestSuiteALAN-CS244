@@ -9,8 +9,12 @@ Go into the directory/folder which holds your alan folder.
 
 ---
 ## For Testing Parser 
-1. **Run all tests**
+1. **Run test cases**
 `python3 parser.py`
+
+2. **Run 10k generated test cases**
+`python3 parser.py tenthousand`
+	- thanks Ian.
 
 ---
 
