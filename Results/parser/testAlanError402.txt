@@ -1,0 +1,1 @@
+alanc: testAlanError402.alan:3:23: error: expected identifier, but found 'leave'

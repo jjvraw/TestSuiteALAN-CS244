@@ -1,0 +1,10 @@
+source abba abba () to integer array 
+begin
+    call abba () 
+; call abba () 
+
+end
+
+begin
+    boolean array abba ; boolean abba , abba abba ;     relax 
+end

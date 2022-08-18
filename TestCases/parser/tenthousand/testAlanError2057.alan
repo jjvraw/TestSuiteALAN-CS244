@@ -1,0 +1,21 @@
+source abba function abba (to boolean array 
+begin
+    boolean array abba ;     boolean abba ;     relax 
+end
+function abba (boolean array abba ) 
+begin
+    relax 
+end
+
+begin
+    get abba [-true and false * 100or not 100] 
+; while -true - false and not abba * false + true * true / true do     put "hello" 
+; while -true rem false - true / abba - not false 100* false = not false + false * abba rem abba () do     relax 
+end
+
+
+end
+
+put "hello" 
+
+end

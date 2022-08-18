@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba [-abba and not not abba true ] := array not false 
+; abba := array -100rem not true rem false 
+
+end

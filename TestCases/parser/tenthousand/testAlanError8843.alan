@@ -1,0 +1,16 @@
+source abba function abba () to boolean 
+begin
+    integer array abba ;     put "hello" .."hello" 
+; get abba [-abba () ] 
+
+end
+function abba (integer array abba , integer abba , integer array abba ) to boolean 
+begin
+    integer array abba , abba , abba ;     boolean abba ;     while false - true * 100/ not not false     relax 
+end
+
+
+end
+
+begin
+    integer array abba ;     boolean array abba ;     get abba [-true * true rem not true - ] 

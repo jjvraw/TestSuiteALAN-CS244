@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    leave ; leave 
+; put "hello" ."hello" 
+
+end
+
+begin
+    abba := array not true 
+; leave 
+; call abba () 

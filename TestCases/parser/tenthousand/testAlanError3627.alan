@@ -1,0 +1,13 @@
+source abba function abba () 
+begin
+    get abba [-not abba rem not true / true - not false * true * false ] 
+
+end
+function abba () 
+begin
+    
+end
+
+begin
+    relax 
+end

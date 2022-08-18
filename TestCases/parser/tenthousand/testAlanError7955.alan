@@ -1,0 +1,10 @@
+abba function () 
+begin
+    integer abba ;     relax 
+end
+
+begin
+    get abba 
+; put "hello" ."hello" 
+
+end

@@ -1,0 +1,12 @@
+source abba function abba () to integer 
+begin
+    integer abba , abba , abba ;     relax 
+end
+function abba ) to integer 
+begin
+    integer abba , abba ;     call abba () 
+end
+
+begin
+    integer array abba , abba , abba ;     integer array abba ;     relax 
+end

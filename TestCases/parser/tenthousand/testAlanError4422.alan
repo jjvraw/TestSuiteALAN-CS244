@@ -1,0 +1,14 @@
+source abba 
+begin
+    boolean abba ;     leave 
+; while -false / true rem abba do     while false + false do     relax 
+end
+
+; put "hello" .."hello" 
+; call abba () 
+
+end
+
+; put "hello" .
+
+end

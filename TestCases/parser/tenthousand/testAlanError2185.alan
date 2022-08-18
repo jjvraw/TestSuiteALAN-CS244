@@ -1,0 +1,14 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; false and false * false = 100- 100/ not not abba / not true then
+    if -not false / abba [-100* not false ] * abba - true and abba () <= -not 100+ 100+ false and not 100true then
+    relax else     relax 
+end
+
+
+end
+
+; call abba () 
+
+end

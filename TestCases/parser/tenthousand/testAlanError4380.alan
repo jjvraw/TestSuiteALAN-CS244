@@ -1,0 +1,10 @@
+source abba function () to boolean array 
+begin
+    get abba 
+
+end
+
+begin
+    abba [-abba and 100+ not 100] := array -true * true / abba 
+
+end

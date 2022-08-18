@@ -1,0 +1,14 @@
+source abba function abba (integer array abba ) to 
+begin
+    call abba () 
+end
+
+begin
+    integer array abba , abba ;     put ."hello" 
+; if -100and abba () rem not not true or not abba / false rem not not abba + abba then
+    leave 
+
+end
+
+
+end

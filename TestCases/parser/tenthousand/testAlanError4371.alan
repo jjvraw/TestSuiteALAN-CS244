@@ -1,0 +1,10 @@
+source function abba () to boolean array 
+begin
+    relax 
+end
+
+begin
+    abba := false + not not abba and not not 100and false 
+; call abba () 
+
+end

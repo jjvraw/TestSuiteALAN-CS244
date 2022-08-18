@@ -1,0 +1,1 @@
+alanc: testAlanError9689.alan:4:60: error: expected ']', but found 'false'

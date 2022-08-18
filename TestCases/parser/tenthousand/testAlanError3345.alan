@@ -1,0 +1,14 @@
+source abba 
+begin
+    while 100rem false do     put "hello" ."hello" ."hello" 
+; put "hello" ."hello" 
+; while -not not abba do     leave 
+; leave 
+
+end
+
+
+end
+
+
+end

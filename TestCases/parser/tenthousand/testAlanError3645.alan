@@ -1,0 +1,13 @@
+source abba function abba (boolean abba , boolean abba ) to boolean array     relax 
+end
+function abba (boolean abba ) 
+begin
+    relax 
+end
+
+begin
+    abba array -false 
+; abba := array -100rem not not + not true 
+; put "hello" ."hello" ."hello" 
+
+end

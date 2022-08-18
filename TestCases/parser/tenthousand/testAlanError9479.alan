@@ -1,0 +1,11 @@
+source abba function abba (boolean abba , boolean array abba , integer array abba ) 
+begin
+    put "hello" 
+; put "hello" 
+
+end
+
+begin
+    boolean array , abba ;     abba [-true rem false and 100] := array false rem true / not not not true 
+
+end

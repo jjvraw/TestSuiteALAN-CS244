@@ -1,0 +1,1 @@
+alanc: testAlanError1140.alan:1:12: error: expected identifier, but found 'put'

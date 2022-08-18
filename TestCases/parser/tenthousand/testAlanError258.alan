@@ -1,0 +1,17 @@
+source abba function abba (integer abba , boolean array abba ) to boolean 
+begin
+    boolean array abba , abba ;     leave 
+; leave 
+; put "hello" ."hello" 
+
+end
+
+begin
+    boolean array abba , abba , abba ;     integer abba , abba ;     leave 
+; call abba () 
+if -100rem false then
+    relax else     relax 
+end
+
+
+end

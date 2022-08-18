@@ -1,0 +1,10 @@
+abba function ) 
+begin
+    relax 
+end
+
+begin
+    call abba () 
+; abba := array false 
+
+end

@@ -1,0 +1,18 @@
+source abba function abba () 
+begin
+    put "hello" ."hello" 
+; leave 
+
+end
+function abba (boolean array abba ) to integer array 
+begin
+    integer array abba , abba , abba ;     while 100< 100rem not 100do     
+end
+
+; put "hello" ."hello" ."hello" 
+
+end
+
+begin
+    relax 
+end

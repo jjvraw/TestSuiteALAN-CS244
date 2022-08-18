@@ -1,0 +1,21 @@
+source abba function abba () 
+begin
+    integer array abba ;     relax 
+end
+function abba () to integer 
+begin
+    integer array abba ;     call abba () 
+; call abba () 
+; if -100rem not false or abba () * 100* not true then
+    relax else     abba := array false - not abba () 
+; leave 
+; call () 
+
+end
+
+
+end
+
+begin
+    relax 
+end

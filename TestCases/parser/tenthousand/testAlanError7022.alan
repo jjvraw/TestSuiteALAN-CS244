@@ -1,0 +1,20 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+function abba (boolean array abba , boolean array ) to boolean array 
+begin
+    relax 
+end
+
+begin
+    abba [-100] 
+; get abba ; if 100+ true rem not not not false - not not abba [100/ true ] then
+    relax else get abba [-false ] 
+; leave 
+; get abba [-true ] 
+
+end
+
+
+end

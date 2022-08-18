@@ -1,0 +1,1 @@
+alanc: testAlanError7838.alan:5:39: error: expected 'begin', but found 'get'

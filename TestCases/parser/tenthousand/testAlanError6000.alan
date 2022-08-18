@@ -1,0 +1,8 @@
+source abba 
+begin
+    integer array abba ;     call abba () 
+; while -abba () + true / false and 100+ true / 100rem not not true do     relax 
+end
+
+
+end

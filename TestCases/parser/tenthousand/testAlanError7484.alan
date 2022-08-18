@@ -1,0 +1,11 @@
+source abba 
+begin
+    if -false * false * true true / abba rem false then
+    relax     abba [abba * not 100and false + false and false ] := array -not not abba and abba * true + false and true * false + abba [true true - 100/ false and false ] 
+leave 
+; call abba ) 
+
+end
+
+
+end

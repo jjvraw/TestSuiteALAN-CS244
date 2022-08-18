@@ -1,0 +1,1 @@
+alanc: testAlanError1031.alan:3:76: error: expected statement, but found 'not'

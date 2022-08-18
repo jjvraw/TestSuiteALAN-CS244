@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    call abba () 
+
+end
+
+begin
+    get abba [false / not false / 100or not false * not not not true - not true rem not abba ] 
+
+end

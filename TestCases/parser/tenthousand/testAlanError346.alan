@@ -1,0 +1,7 @@
+source 
+begin
+    boolean abba , abba ;     put "hello" 
+; call abba () 
+; [abba ] := array -100rem 100and true or false and not not true 
+
+end

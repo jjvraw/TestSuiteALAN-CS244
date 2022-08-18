@@ -1,0 +1,1 @@
+alanc: testAlanError2156.alan:4:57: error: expected 'end', but found 'not'

@@ -1,0 +1,10 @@
+source abba function abba (integer array abba ) 
+begin
+    get abba [abba [not abba * true or not true rem 100- false rem abba ] and not false / not not false + 100/ false or abba () and 100* not true ] 
+; get abba [not true and abba ] ; leave 
+
+end
+
+begin
+    relax 
+end

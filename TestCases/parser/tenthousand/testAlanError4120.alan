@@ -1,0 +1,9 @@
+source abba function abba ()     boolean abba , abba , abba ;     abba := array false false and false / not abba [abba / false + true / 100] true rem true 
+
+end
+
+begin
+    leave 
+; call abba () 
+
+end

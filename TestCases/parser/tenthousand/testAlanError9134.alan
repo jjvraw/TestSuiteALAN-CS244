@@ -1,0 +1,13 @@
+source abba 
+begin
+integer array abba ;     if not true rem true - abba [true and 100* 100] and true * not false - abba () / 100and 100then
+    leave 
+else     leave 
+; call abba () 
+
+end
+
+; call abba () 
+; leave 
+
+end

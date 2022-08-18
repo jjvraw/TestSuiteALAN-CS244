@@ -1,0 +1,4 @@
+source abba 
+begin
+    abba , abba , abba ;     boolean array ; relax 
+end

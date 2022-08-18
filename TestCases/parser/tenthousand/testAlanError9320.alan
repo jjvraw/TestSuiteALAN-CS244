@@ -1,0 +1,11 @@
+source abba function abba (
+begin
+    get abba [-not 100and false rem abba - false or 100and not false rem not true ] 
+; leave 
+call abba () 
+
+end
+
+begin
+    relax 
+end

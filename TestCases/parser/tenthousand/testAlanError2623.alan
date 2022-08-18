@@ -1,0 +1,12 @@
+source abba 
+begin
+    get abba [false and false / abba ] 
+; while not true * true / 100or not abba [abba or 100* 100+ true ] <= 100and true do     put 
+; call abba () 
+; get abba [-true ] 
+
+end
+
+leave 
+
+end

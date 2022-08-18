@@ -1,0 +1,13 @@
+source abba function abba (integer array abba , boolean abba , boolean array abba ) 
+begin
+    boolean array abba , abba , abba ;     relax 
+end
+
+begin
+    abba [true + not 100and false rem 100- abba / false ] := array 100- not abba * not 100rem not false 
+; call abba () 
+; while abba - 100>= true or not false rem abba () and abba () do     relax 
+end
+
+
+end

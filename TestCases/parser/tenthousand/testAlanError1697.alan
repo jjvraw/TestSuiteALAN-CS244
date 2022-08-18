@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba [not 100* abba () + not true rem not 100* abba ] := array true * abba rem not abba [not false ] 
+; leave 
+
+end

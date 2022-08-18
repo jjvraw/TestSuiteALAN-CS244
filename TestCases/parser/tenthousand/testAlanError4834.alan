@@ -1,0 +1,11 @@
+source abba 
+begin
+    while -abba = -true rem false * true or false * not false do     abba := array -not true and 100
+; abba := array 100/ abba [false or abba + not () * not abba [100or not not 100rem false / not not not true ] * abba ] rem 100- not true rem true / abba () or not not true rem 100not true 
+; abba := array true + abba () - 100rem not not abba 
+
+end
+
+; leave 
+
+end

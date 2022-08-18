@@ -1,0 +1,17 @@
+source abba function abba (boolean array abba ) 
+begin
+    boolean array abba ;     relax 
+end
+
+begin
+    boolean abba , abba ;     leave 
+; if true / 100and abba [not 100] then
+    relax else     call abba () 
+; abba := array true rem 100not false + false 
+; get abba 
+
+end
+
+; get abba [-abba * 100] 
+
+end

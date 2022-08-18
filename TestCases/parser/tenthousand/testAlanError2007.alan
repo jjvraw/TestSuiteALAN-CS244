@@ -1,0 +1,10 @@
+source abba abba (integer abba 
+begin
+boolean array abba ;     put "hello" ."hello" 
+; leave 
+
+end
+
+begin
+    boolean array abba , abba ;     relax 
+end

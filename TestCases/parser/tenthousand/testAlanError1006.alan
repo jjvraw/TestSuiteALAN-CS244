@@ -1,0 +1,11 @@
+source abba 
+begin
+    get abba [-not false / abba [-100rem abba * not abba + not abba () rem not 100* 100] rem not 100+ not false + abba * not true and not not 100] 
+; if false and 100/ = not not not abba [-not not 100rem false rem true ] or not not not not false or 100and not not abba () and not 100then
+    put "hello" 
+; get abba [-100and abba () ] 
+
+end
+
+
+end

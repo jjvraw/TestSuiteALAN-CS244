@@ -1,0 +1,5 @@
+source abba 
+begin
+    get abba 
+get abba [not / not not abba () rem false or false rem true + not true and abba ] 
+end

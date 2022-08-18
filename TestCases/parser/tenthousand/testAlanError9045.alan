@@ -1,0 +1,7 @@
+source 
+begin
+    abba := array -not true rem false and not 100+ abba + not abba abba () 
+; call abba () 
+; leave 
+
+end

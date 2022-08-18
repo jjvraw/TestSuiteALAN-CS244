@@ -1,0 +1,14 @@
+source abba function abba (integer array abba ) 
+begin
+    get abba 
+; if -not not false then
+    relax else     put "hello" 
+; call abba () 
+; leave 
+
+end
+
+
+begin
+    relax 
+end

@@ -1,0 +1,22 @@
+source abba function abba () to boolean array 
+begin
+    get abba 
+; abba := array -not true 
+; leave 
+
+end
+function abba () 
+begin
+    while -false / abba < 100/ 100* abba () do     put "hello" 
+; put "hello" ."hello" ."hello" 
+; leave 
+
+end
+
+; call abba () 
+
+end
+
+begin
+    boolean array abba ;     relax 
+end

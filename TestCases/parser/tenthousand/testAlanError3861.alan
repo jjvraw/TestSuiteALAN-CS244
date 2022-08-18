@@ -1,0 +1,8 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; while -false or true * not false / false <= -abba rem abba do     relax 
+end
+
+
+end

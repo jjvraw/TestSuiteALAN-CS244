@@ -1,0 +1,18 @@
+source abba function abba (integer abba ) 
+begin
+    abba := array abba () - true * not false - 100/ not abba * 100
+leave 
+"hello" 
+function abba 
+begin
+    integer abba ;     integer abba , abba ;     put "hello" ."hello" ."hello" 
+; get abba 
+; leave 
+
+end
+
+begin
+    abba ;     array abba , abba , abba ;     leave 
+; put "hello" ."hello" ."hello" 
+
+end

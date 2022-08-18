@@ -1,0 +1,12 @@
+source abba function abba () to boolean 
+begin
+    boolean abba ;     relax 
+end
+function abba () to boolean 
+begin
+    abba [not false * 100- false / false / true ] := 100
+end
+
+begin
+    relax 
+end

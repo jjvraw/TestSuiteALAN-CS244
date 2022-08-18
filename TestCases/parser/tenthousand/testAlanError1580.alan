@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    call abba () 
+function abba () 
+begin
+    relax 
+end
+
+begin
+    array abba ;     relax 

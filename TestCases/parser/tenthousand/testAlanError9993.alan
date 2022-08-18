@@ -1,0 +1,6 @@
+source abba 
+begin
+    array abba ;     get abba [-false / abba [abba () * not + abba + false and true and 100] ] 
+; leave ; put "hello" 
+
+end

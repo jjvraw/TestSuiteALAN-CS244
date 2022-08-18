@@ -1,0 +1,1 @@
+alanc: testAlanError9011.alan:9:69: error: expected 'end', but found 'true'

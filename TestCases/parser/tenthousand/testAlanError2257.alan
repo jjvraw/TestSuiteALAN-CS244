@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array abba , abba , abba ;     ;     put "hello" ."hello" ; leave 
+:= array -100
+
+end

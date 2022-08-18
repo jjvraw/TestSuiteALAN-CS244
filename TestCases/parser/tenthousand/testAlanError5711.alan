@@ -1,0 +1,17 @@
+source abba 
+begin
+    leave 
+; get abba [true + 100and false and false ] 
+; if -true rem false rem false - false * false and false or 100<= -true rem true rem abba - not not false / not true and 100then
+    put "hello" 
+; if -abba <= -100/ false then
+    relax else     put "hello" .
+; call abba () 
+
+end
+
+else     relax 
+end
+
+
+end

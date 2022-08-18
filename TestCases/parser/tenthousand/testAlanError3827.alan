@@ -1,0 +1,12 @@
+source abba function abba () to boolean array 
+begin
+    boolean array abba ;     get abba 
+; call abba () 
+; get abba 
+
+begin
+    call abba () 
+; abba := array false rem abba rem abba () or abba () and abba and not not not abba 
+abba array false * not rem 100- 100rem abba and true or true / abba (* true 
+
+end

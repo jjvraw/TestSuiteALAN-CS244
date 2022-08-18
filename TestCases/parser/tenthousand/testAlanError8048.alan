@@ -1,0 +1,18 @@
+source abba function abba () to boolean 
+begin
+    boolean array abba ;     get abba 
+
+end
+function abba () 
+begin
+    integer abba ;     leave 
+end
+
+begin
+    boolean abba , abba ;     while -100or false * not not false - false and 100<> -100* true do     get abba [100or true rem not 100rem not false ] 
+
+end
+
+; call abba () 
+
+end

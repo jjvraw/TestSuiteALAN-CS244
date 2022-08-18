@@ -1,0 +1,21 @@
+source abba function abba ()     boolean array abba abba , abba ;     boolean array abba , abba     abba := array 100
+; get abba 
+end
+function abba () 
+begin
+    put "hello" ."hello" ."hello" 
+
+end
+
+begin
+    call abba () 
+; abba := not 100or abba () * not abba () 
+; if -100<= -100/ abba and then
+    relax else     get abba 
+; call abba () 
+; call abba (
+
+end
+
+
+end

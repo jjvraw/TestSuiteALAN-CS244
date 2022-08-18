@@ -1,0 +1,7 @@
+source abba 
+begin
+    "hello" ."hello" 
+; abba [-not false and abba ] := array not 100* true + true rem not false 
+; put "hello" ."hello" ."hello" 
+
+end

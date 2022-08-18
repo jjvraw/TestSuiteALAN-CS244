@@ -1,0 +1,11 @@
+source abba function abba ()     relax 
+end
+
+begin
+    leave 
+; abba := array -100rem abba 
+; while -true and not false - false and true / abba () do     relax 
+end
+
+
+end

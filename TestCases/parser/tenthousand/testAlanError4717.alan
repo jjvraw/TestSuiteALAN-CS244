@@ -1,0 +1,10 @@
+source abba function abba () to boolean array 
+begin
+    leave 
+; leave 
+
+end
+
+begin
+    relax 
+end

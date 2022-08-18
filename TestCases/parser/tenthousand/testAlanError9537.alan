@@ -1,0 +1,4 @@
+source abba 
+begin
+    get abba [-true rem abba [abba () ] or not not 100or not 100
+; put "hello" 

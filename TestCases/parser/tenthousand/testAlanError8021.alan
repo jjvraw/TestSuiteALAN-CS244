@@ -1,0 +1,15 @@
+source abba function abba () to boolean array 
+begin
+    integer abba ;     get abba 
+; get abba [true / abba ] 
+; abba [-abba - false / false or true rem abba () ] := array true 
+
+end
+function abba () 
+begin
+    boolean array abba , abba , abba ;     relax 
+end
+
+begin
+    integer array abba , , abba ;     relax 
+end

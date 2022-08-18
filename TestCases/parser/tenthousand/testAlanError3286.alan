@@ -1,0 +1,14 @@
+source abba function () to integer 
+begin
+    put "hello" ."hello" ."hello" 
+
+end
+
+begin
+    integer array abba ;     get abba 
+; while true and not not 100+ 100<= not not true rem abba rem true do     call abba () 
+
+end
+
+
+end

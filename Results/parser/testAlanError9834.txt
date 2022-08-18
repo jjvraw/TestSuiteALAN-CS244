@@ -1,0 +1,1 @@
+alanc: testAlanError9834.alan:11:142: error: expected 'end', but found ']'

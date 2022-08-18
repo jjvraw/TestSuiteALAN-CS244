@@ -1,0 +1,29 @@
+source abba function abba () to boolean array 
+begin
+    relax 
+end
+
+begin
+    boolean array abba ;     if -true * true - not true * not not false - not false rem not true * false then
+    relax else     put "hello" ."hello" ."hello" 
+; abba [false and not 100* not false ] := array -rem false + abba () or not not 100and false 
+
+end
+
+; get abba [-100rem not true rem 100or true * true ] 
+; while abba () / not not not not abba [not not not 100+ 100] * not abba - not not false * false and true < 100* not abba + not 100/ true - false do     put "hello" ."hello" .
+; put "hello" 
+; if -false and true / 100or abba () and 100rem abba () or false then
+    leave 
+; if abba     relax else     relax 
+end
+
+; leave 
+
+end
+
+
+end
+
+
+end

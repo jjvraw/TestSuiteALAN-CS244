@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba [not 100/ not true rem false + not not false * 100] := array -not true * not not not true rem not 100- false or 100* abba 100+ false / abba * not not true ] rem true 
+
+end

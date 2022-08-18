@@ -1,0 +1,22 @@
+source abba function abba () 
+begin
+    integer array abba ;     call abba () 
+
+end
+function abba (boolean abba , integer abba ) 
+begin
+    boolean abba , , abba ;     call abba () 
+; leave ; leave 
+
+end
+
+begin
+    integer array abba ;     boolean array abba ;     abba () 
+; while -abba and not not abba [-[true or false or abba ] ] + 100<= -not 100- not abba () or true do     call abba () 
+; call abba () 
+; leave 
+
+end
+
+
+end

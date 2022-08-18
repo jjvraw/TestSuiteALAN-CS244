@@ -1,0 +1,10 @@
+source abba function abba () to boolean 
+begin
+get abba [false + false / not false ] 
+; abba () 
+
+end
+
+begin
+    boolean array abba ; relax 
+end

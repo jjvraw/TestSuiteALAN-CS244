@@ -1,0 +1,1 @@
+alanc: testAlanError330.alan:3:42: error: expected factor, but found '['

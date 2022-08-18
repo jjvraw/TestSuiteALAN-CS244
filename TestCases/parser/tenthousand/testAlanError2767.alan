@@ -1,0 +1,11 @@
+source abba function abba (boolean array abba ) to array 
+begin
+    leave ; abba := array false 
+
+end
+function abba () to boolean 
+begin
+    boolean abba , abba , abba ;     relax 
+begin
+    array abba , abba ;     relax 
+end

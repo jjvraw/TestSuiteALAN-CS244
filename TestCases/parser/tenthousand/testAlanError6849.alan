@@ -1,0 +1,11 @@
+source abba function abba () to integer 
+begin
+    relax 
+end
+
+begin
+    integer abba ;     while abba / 100true * false - not false * not abba * abba <= abba / true rem 100do     relax 
+end
+
+; put "hello" 
+end

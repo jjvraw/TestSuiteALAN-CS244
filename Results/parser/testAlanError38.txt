@@ -1,0 +1,1 @@
+alanc: testAlanError38.alan:5:8: error: expected factor, but found '>='

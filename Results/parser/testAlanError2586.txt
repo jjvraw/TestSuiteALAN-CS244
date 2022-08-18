@@ -1,0 +1,1 @@
+alanc: testAlanError2586.alan:8:164: error: expected 'do', but found 'relax'

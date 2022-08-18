@@ -1,0 +1,9 @@
+source abba 
+begin
+    abba := array -not false * false rem false 
+; while -true / 100+ 100true / true and 100do     relax 
+end
+
+; leave 
+
+end

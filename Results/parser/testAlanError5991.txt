@@ -1,0 +1,1 @@
+alanc: testAlanError5991.alan:3:41: error: expected expression or string, but found '.'

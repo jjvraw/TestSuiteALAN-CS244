@@ -8,8 +8,12 @@ import difflib as dl
 class Util:
 
     @staticmethod
-    def get_directory():
-        return os.listdir("./" + "TestCases/parser/" + "/")
+    def get_argument():
+        return sys.argv
+
+    @staticmethod
+    def get_directory(argument):
+        return os.listdir("./" + "TestCases/parser/" + argument + "/")
 
 
     @staticmethod
@@ -47,11 +51,11 @@ class ScannerTest:
     def __init__(self, directory):
         self.list = directory
 
-    def test_scanner(self):
+    def test_scanner(self, argument):
         self.list.sort()
         for i in self.list:
             i = i.replace(".alan", "")
-            self.out = subprocess.run(['../alan/bin/alanc', './TestCases/parser/' + "/" + i + '.alan'], capture_output=True)
+            self.out = subprocess.run(['../alan/bin/alanc', './TestCases/parser/' + argument + '/' + i + '.alan'], capture_output=True)
             with open('./Results/parser/' + i + '.txt') as f:
                 result = f.read()
             self.display_result(i + '.alan', result == (self.out.stdout.decode() + self.out.stderr.decode()))
@@ -74,12 +78,23 @@ class ScannerTest:
 
 if __name__ == '__main__':
 
-    directory = Util.get_directory()
+    argument = Util.get_argument()
+
+    if len(argument) == 1:
+        arg = ""
+    else :
+        arg = argument[1]
+
+    directory = Util.get_directory(arg)
+
+    if arg == "" :
+        directory.remove("tenthousand")
+
     Util.make()
 
     scanner = ScannerTest(directory)
 
-    scanner.test_scanner()
+    scanner.test_scanner(arg)
     scanner.display_stats()
 
     print("-" * 80)

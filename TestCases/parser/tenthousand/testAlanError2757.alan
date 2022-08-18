@@ -1,0 +1,17 @@
+source abba function abba () to integer array 
+begin
+    boolean abba ;     integer array abba ;     call abba () ; leave 
+
+end
+
+begin
+    call abba () 
+; put "hello" ."hello" 
+; while -not not false and not not 100and false - not not * false not 100do     get abba 
+; abba := array -not not 100rem not abba () - 100
+; abba := array -false * abba rem not false 
+
+end
+
+
+end

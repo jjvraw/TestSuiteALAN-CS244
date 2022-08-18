@@ -1,0 +1,1 @@
+alanc: testAlanError7690.alan:3:101: error: expected 'then', but found 'relax'

@@ -1,0 +1,18 @@
+source abba function abba ) 
+begin
+    call abba () 
+
+end
+function abba () 
+begin
+    boolean array abba , abba , ;     integer abba , abba ;     get abba [false / false * 100] 
+; while -not false rem 100or abba do     call abba () 
+
+end
+
+
+end
+
+begin
+    boolean array abba ;     boolean array abba , abba ;     relax 
+end

@@ -1,0 +1,5 @@
+abba 
+begin
+    call abba () 
+; abba := array -false rem true and abba or false * not not not 100
+end

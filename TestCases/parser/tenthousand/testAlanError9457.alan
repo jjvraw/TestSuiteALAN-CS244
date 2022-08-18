@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer abba ;     boolean array abba ;     leave 
+; call abba () 
+; abba := array -not abba - not false rem 100
+
+end

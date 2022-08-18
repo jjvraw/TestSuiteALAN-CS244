@@ -1,0 +1,1 @@
+alanc: testAlanError3576.alan:10:50: error: expected ';', but found 'get'

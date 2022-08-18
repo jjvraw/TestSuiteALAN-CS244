@@ -1,0 +1,1 @@
+alanc: testAlanError1163.alan:3:28: error: expected ';', but found 'boolean'

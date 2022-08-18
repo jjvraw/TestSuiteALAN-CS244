@@ -1,0 +1,1 @@
+alanc: testAlanError5058.alan:13:60: error: expected ';', but found 'put'

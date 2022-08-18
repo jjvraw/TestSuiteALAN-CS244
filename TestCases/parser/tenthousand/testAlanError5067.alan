@@ -1,0 +1,6 @@
+source abba 
+begin
+    integer array abba , abba     put "hello" 
+; abba := array not abba () * not false * true - not not false - true / not not true 
+
+end

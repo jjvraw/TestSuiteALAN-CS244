@@ -1,0 +1,1 @@
+alanc: testAlanError8400.alan:5:63: error: expected ']', but found numeric literal

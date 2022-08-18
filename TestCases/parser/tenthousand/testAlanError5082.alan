@@ -1,0 +1,8 @@
+source abba function (array abba , integer abba ) 
+begin
+    integer array abba , abba , abba ;     relax 
+end
+
+begin
+    integer array abba ;     relax 
+end

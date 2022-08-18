@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array abba ;     put "hello" ."hello" ."hello" 
+; abba [-100/ not abba ] := array -false 
+
+end

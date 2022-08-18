@@ -1,0 +1,10 @@
+source abba function abba () to boolean 
+begin
+    get abba [-false / not 100rem false - abba () + false ] 
+
+begin
+    integer array abba ;     leave 
+; get abba 
+; call abba () 
+
+end

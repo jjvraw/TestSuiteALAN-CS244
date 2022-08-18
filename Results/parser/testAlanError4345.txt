@@ -1,0 +1,1 @@
+alanc: testAlanError4345.alan:3:36: error: expected ';', but found 'integer'

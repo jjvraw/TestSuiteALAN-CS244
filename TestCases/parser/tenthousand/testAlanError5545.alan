@@ -1,0 +1,7 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; call abba () 
+; abba not not 100* not true ] := array not false 
+
+end

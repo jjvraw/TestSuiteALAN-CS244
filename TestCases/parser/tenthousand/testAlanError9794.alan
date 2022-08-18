@@ -1,0 +1,13 @@
+source abba function abba () boolean 
+begin
+    if -not false * true and 100- not then
+    abba := array -false and abba [false or abba [100and false or false * not 100* false ] / 100and not true ] 
+else     relax 
+end
+
+
+end
+
+begin
+    relax 
+end

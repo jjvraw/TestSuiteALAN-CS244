@@ -1,0 +1,9 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; leave 
+; while -100or true / 100* not true do     relax 
+end
+
+
+end

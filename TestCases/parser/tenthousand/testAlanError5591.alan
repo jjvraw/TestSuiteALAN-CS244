@@ -1,0 +1,15 @@
+source abba function abba () to integer 
+begin
+    if -false - false / abba or not 100rem and abba [-not true * not false / not false + not 100and not not true + not false rem not not not 100and false ] <= -false and true * not not abba + true or not true then
+    else     call abba () 
+
+end
+
+; call abba () 
+
+end
+
+begin
+    put "hello" 
+
+end

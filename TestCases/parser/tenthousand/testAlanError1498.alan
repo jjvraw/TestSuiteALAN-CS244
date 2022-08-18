@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer abba ;     leave 
+; get abba [-100/ 100+ abba / not not true ] 
+; put "hello" ."hello" ."hello" 
+
+end

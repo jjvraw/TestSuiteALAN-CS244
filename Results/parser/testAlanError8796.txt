@@ -1,0 +1,1 @@
+alanc: testAlanError8796.alan:7:69: error: expected statement, but found string literal

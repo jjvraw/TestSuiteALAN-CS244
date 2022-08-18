@@ -1,0 +1,10 @@
+source function () 
+begin
+    integer abba , abba ; put "hello" ."hello" ."hello" 
+
+end
+
+begin
+    abba [100true ] := array -not 100and not not abba 
+
+end

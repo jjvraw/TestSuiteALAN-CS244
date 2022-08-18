@@ -1,0 +1,10 @@
+source abba 
+begin
+    while -not 100<= -not true * false * 100do     relax 
+end
+
+; while true and true - true / false / abba + abba () rem abba do     relax 
+end
+
+
+end

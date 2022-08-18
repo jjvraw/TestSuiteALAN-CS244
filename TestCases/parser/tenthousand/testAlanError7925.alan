@@ -1,0 +1,11 @@
+source abba function abba () to boolean 
+begin
+    if false and false * 100>= true or 100and not abba rem false     relax 
+end
+
+
+end
+
+begin
+    relax 
+end

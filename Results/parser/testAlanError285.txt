@@ -1,0 +1,1 @@
+alanc: testAlanError285.alan:11:21: error: expected factor, but found 'then'

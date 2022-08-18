@@ -1,0 +1,14 @@
+source abba function abba () 
+begin
+    integer abba ;     relax 
+end
+
+begin
+abba := array -100* not false and true 
+; if -100then
+    get abba 
+
+end
+
+; get abba 
+end

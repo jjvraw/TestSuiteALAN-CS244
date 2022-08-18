@@ -1,0 +1,17 @@
+source abba function abba () to integer array 
+begin
+    boolean abba ;     leave 
+
+end
+function abba (boolean ) to integer 
+begin
+    boolean abba , abba ;     integer array abba , abba ;     put "hello" ."hello" 
+
+end
+
+begin
+    while -abba () >= -true and abba do     relax 
+end
+
+
+end

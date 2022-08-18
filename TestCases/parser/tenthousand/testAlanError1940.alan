@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean abba ;     abba ;     leave 
+; get abba 
+; put "hello" ."hello" ."hello" 
+
+end

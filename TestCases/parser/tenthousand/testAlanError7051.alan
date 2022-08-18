@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean abba ;     put "hello" ."hello" 
+; get abba [-not 100/ true / abba [true * true 100rem true and false or not false / false ] or not 100and 100and not true - not not abba ) ] 
+
+end

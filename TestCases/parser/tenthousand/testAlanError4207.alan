@@ -1,0 +1,10 @@
+source abba 
+begin
+    abba := array -not false * 100
+; if 100* 100+ 100/ not 100or true then
+    put "hello" ."hello" .
+
+end
+
+
+end

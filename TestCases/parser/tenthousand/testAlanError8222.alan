@@ -1,0 +1,7 @@
+source abba 
+begin
+    array abba , abba , abba ;     array abba , abba     get abba [not abba rem true * 100] 
+; call abba () 
+; get abba [-not not 100* true rem not false or 100] 
+
+end

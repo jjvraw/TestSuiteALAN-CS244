@@ -1,0 +1,9 @@
+source abba function abba (integer array abba , integer abba ) to integer 
+begin
+    integer array abba , abba ;     relax 
+end
+
+begin
+    integer array abba , abba ;     boolean abba ;     get abba [-true rem not 100+ 100] 
+; put "hello" 
+end

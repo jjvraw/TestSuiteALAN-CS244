@@ -1,0 +1,5 @@
+source abba 
+begin
+    leave 
+; abba := array -100and 100and abba [-abba () / true rem 100- false / not [not true and 100- abba * abba [false ] rem not not not not 100] 
+end

@@ -1,0 +1,5 @@
+source abba 
+begin
+    integer array abba ;     put "hello" ."hello" 
+; abba := array not 100not not false rem true + false * not 100
+end

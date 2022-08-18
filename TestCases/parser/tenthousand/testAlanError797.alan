@@ -1,0 +1,10 @@
+source abba function abba (integer abba , integer array abba ) 
+begin
+    boolean abba , abba ;     put "hello" 
+
+end
+
+begin
+    integer array abba ;     boolean abba , abba , abba ;     put ."hello" ."hello" 
+; abba := array not 
+end

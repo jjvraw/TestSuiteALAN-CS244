@@ -1,0 +1,6 @@
+source abba 
+begin
+    get abba 
+; get abba [abba - 100and true / abba () ] 
+
+end

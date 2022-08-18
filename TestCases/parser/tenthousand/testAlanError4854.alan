@@ -1,0 +1,17 @@
+source abba function abba (boolean abba , boolean abba ) 
+begin
+    integer abba , abba ;     relax 
+end
+function abba (integer abba ) 
+begin
+    integer array abba ;     relax 
+end
+
+begin
+    if not false + false rem not true / not true + not not true * false / false then
+    relax else     relax 
+end
+
+; put "hello" ."hello" ."hello" 
+
+end

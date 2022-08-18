@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean ;     get abba [false / false rem true - abba ] 
+; call abba (
+
+end

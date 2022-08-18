@@ -1,0 +1,20 @@
+source abba function abba () to boolean 
+begin
+    integer array abba ;     leave 
+; put "hello" ."hello" 
+; "hello" ."hello" 
+
+end
+function abba (integer abba , integer abba , integer abba ) to integer array 
+begin
+    integer array abba , , abba ;     call abba () 
+; while not true / false and true - not not 100false - true * 100do     
+end
+
+
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+
+end

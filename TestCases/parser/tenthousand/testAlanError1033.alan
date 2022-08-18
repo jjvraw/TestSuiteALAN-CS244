@@ -1,0 +1,11 @@
+source abba 
+begin
+    if -false rem false and false <> -abba [not true rem not abba () or abba and not true or false ] or abba [true * true - true or not not not true rem true ] or not abba () then
+    relax else     leave 
+; abba [-abba () / not 100/ false or true - abba [-100* not not false ] ] := array -100or true rem 100/ true 
+; abba [-not not not false and not not not not 100* not abba () + not false rem not not true + true * not 100/ 100] 
+
+end
+
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError8556.alan:8:50: error: expected identifier, but found 'while'

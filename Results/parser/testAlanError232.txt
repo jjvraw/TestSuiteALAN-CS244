@@ -1,0 +1,1 @@
+alanc: testAlanError232.alan:6:16: error: expected ')', but found 'array'

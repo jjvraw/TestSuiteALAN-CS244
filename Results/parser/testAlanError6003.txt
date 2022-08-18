@@ -1,0 +1,1 @@
+alanc: testAlanError6003.alan:4:51: error: expected ':=', but found identifier

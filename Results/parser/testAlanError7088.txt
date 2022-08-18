@@ -1,0 +1,1 @@
+alanc: testAlanError7088.alan:22:1: error: expected statement, but found ';'

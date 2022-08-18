@@ -1,0 +1,5 @@
+source abba 
+begin
+abba := array false - not abba rem false 
+
+end

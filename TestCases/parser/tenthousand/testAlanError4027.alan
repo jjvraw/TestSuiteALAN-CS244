@@ -1,0 +1,20 @@
+source abba function abba (integer abba ) to integer 
+begin
+    relax 
+end
+function abba (boolean abba , boolean abba ) to integer 
+begin
+    call abba () 
+leave 
+
+end
+
+begin
+    abba := array not abba [-abba and not abba () ] + / not false / true 
+; abba () 
+; if 100then
+    relax 
+end
+
+
+end

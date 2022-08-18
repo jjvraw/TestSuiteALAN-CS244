@@ -1,0 +1,9 @@
+source abba 
+begin
+    if false / 100- 100or abba and not true * true then
+    relax 
+end
+
+; abba := -false * 100/ abba or 100/ 100
+
+end

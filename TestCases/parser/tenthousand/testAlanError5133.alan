@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    integer abba , abba , abba ;     relax 
+end
+
+begin
+    abba := array true - false - not 100rem false 
+; leave 
+
+end

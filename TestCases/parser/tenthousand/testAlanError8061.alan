@@ -1,0 +1,9 @@
+source abba 
+begin
+    if -100and not not abba = abba then
+    put "hello" 
+else     relax 
+end
+
+
+end

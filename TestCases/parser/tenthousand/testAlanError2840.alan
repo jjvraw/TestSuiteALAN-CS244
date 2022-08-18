@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := array 100- true + not not not false 
+
+end

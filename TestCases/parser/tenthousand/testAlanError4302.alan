@@ -1,0 +1,15 @@
+source abba function () to boolean 
+begin
+    abba := array not not abba [false / abba () or abba () ] 
+; leave 
+; get abba [-not abba or not abba [-false or not true * true + not true ] and abba ] 
+
+end
+function abba (boolean abba , boolean abba ) 
+begin
+    relax 
+end
+
+begin
+    relax 
+end

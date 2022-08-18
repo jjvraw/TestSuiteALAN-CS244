@@ -1,0 +1,6 @@
+source abba 
+begin
+    leave 
+; get abba [not abba [-true or abba ] rem 100and not abba [true and not not abba / 100- false - abba * abba / true ] or not false ] 
+
+end

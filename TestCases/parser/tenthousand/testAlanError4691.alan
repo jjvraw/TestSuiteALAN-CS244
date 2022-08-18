@@ -1,0 +1,11 @@
+source abba function abba (boolean array abba ) to integer 
+begin
+    integer array abba ; abba := array abba [not true + abba - not false rem 100rem false 
+get abba 
+; put "hello" ."hello" 
+
+end
+
+begin
+    relax 
+end

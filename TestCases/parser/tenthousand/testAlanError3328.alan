@@ -1,0 +1,7 @@
+source abba 
+begin
+    abba [-true ] := array false rem 100- abba () / 100* 100
+put "hello" ."hello" 
+; put "hello" 
+
+end

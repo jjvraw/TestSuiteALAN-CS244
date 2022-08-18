@@ -1,0 +1,1 @@
+alanc: testAlanError1716.alan:1:37: error: expected type, but found 'leave'

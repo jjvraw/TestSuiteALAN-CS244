@@ -1,0 +1,1 @@
+alanc: testAlanError6864.alan:21:19: error: expected 'then', but found identifier

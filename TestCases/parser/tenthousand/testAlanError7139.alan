@@ -1,0 +1,9 @@
+source abba function abba () to boolean 
+begin
+    integer array abba , abba , abba ;     relax 
+end
+    get abba 
+call abba () 
+; get abba [-true and abba or not true ] 
+
+end

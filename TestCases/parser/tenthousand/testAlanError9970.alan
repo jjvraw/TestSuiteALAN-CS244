@@ -1,0 +1,6 @@
+abba 
+begin
+    integer ;     put "hello" ."hello" ."hello" 
+; leave 
+; get abba [-abba [-false / abba () * true + not abba [100* not true or abba and abba [-[-not not 100* abba () * 100or true ] rem abba [-100and 100] + false * not abba [-false * false and false ] * 100or 100* not not not not not not true ] * abba ] ] 
+end

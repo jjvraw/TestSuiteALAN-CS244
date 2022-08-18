@@ -1,0 +1,12 @@
+source abba 
+begin
+    boolean array abba ;     get abba 
+; get abba [-100and not false * true or abba () / not true rem 100] 
+; if >= 100- abba () rem true rem not not true then
+    put "hello" 
+; abba := array -false * abba and - not abba rem / 100- abba rem 100
+
+end
+
+
+end

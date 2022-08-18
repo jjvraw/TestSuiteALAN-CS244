@@ -1,0 +1,1 @@
+alanc: testAlanError392.alan:5:75: error: expected 'then', but found 'get'

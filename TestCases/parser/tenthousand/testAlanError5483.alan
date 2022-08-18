@@ -1,0 +1,19 @@
+source abba function abba () 
+begin
+    leave 
+call abba () 
+; call abba () 
+
+end
+abba () to boolean 
+begin
+    boolean abba , abba ;     call abba () 
+
+end
+
+begin
+    integer array abba , abba ; boolean array abba , abba , abba ;     put "hello" 
+; while abba () and not true - not 100<> 100- abba () * true do     relax 
+end
+
+end

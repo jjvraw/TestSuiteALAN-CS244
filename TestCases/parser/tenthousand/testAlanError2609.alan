@@ -1,0 +1,16 @@
+source abba 
+begin
+    if -true + not 100+ not not not 100/ not false <> -false and true + not 100+ 100then
+    leave 
+
+end
+
+; if false or true / not not not 100* false >= true then
+    relax else     leave 
+; leave 
+; put "hello" 
+end
+
+; put "hello" ."hello" ."hello" 
+
+end

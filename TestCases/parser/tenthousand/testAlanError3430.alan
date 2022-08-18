@@ -1,0 +1,6 @@
+abba 
+begin
+    get abba [-not 100* false / not true true ] 
+; get abba [-not true and not not false / abba () or 100] 
+
+end

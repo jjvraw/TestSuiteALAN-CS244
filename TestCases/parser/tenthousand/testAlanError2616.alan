@@ -1,0 +1,11 @@
+source abba function abba () to integer 
+begin
+    put "hello" ."hello" ."hello" 
+; abba := array -not abba () * abba () rem 100
+; put "hello" ."hello" 
+
+end
+
+begin
+    relax 
+end

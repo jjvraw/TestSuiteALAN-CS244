@@ -1,0 +1,9 @@
+source abba function abba () to boolean 
+begin
+    
+end
+
+begin
+    integer abba ;     call abba () 
+
+end

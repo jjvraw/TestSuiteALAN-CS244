@@ -1,0 +1,5 @@
+abba 
+begin
+    abba [100* false and not false ] := array -100
+
+end

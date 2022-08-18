@@ -1,0 +1,7 @@
+source abba 
+begin
+    put "hello" 
+; call abba () 
+; get abba [-100* abba ] 
+
+end

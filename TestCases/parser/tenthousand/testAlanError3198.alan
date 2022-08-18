@@ -1,0 +1,11 @@
+source abba function abba () to boolean 
+begin
+    boolean abba , abba , abba ;     relax 
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; abba := array not false - not 100+ abba () 
+abba [-abba ) and 100+ abba and not 100] := array false rem not () 
+
+end

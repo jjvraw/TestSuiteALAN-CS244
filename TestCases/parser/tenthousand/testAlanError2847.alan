@@ -1,0 +1,17 @@
+source abba function abba ) 
+begin
+    boolean array abba ;     boolean abba , abba , abba ;     relax 
+end
+function abba (boolean abba ) to integer array 
+begin
+    abba := array false / not false 
+; call abba () ; put "hello" 
+
+end
+
+begin
+    integer abba ;     boolean abba ;     put "hello" ."hello" 
+; 
+; "hello" "hello" 
+
+end

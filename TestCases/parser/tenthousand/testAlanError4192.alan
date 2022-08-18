@@ -1,0 +1,11 @@
+source abba function abba () to integer array 
+begin
+    relax 
+end
+
+begin
+    call abba () 
+; put "hello" 
+; get abba [not 100] 
+
+end

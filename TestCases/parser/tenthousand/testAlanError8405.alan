@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer abba ;     get abba 
+get abba 
+; leave 
+
+end

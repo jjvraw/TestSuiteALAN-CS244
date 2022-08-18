@@ -1,0 +1,9 @@
+source abba 
+begin
+    integer abba ;     abba := not 100- not false * false and abba + true * not not false 
+; if 100rem true - 100rem false / 100> 100or not 100/ abba false or true * false then
+    relax 
+end
+
+
+end

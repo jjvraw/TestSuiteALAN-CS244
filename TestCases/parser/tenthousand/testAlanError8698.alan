@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba := array -not true and 100
+; leave 
+
+end

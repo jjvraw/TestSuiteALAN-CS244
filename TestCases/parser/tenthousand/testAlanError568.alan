@@ -1,0 +1,21 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    if false and 100rem not not not abba or true * [-not abba and not not not abba rem not false or not 100] <= -true or not not not not 100and not abba then
+    relax 
+end
+
+; abba [-100or false rem 100- true * true ] := array -true 
+; if * not true or not abba () * false not abba () then
+    relax 
+end
+
+
+end

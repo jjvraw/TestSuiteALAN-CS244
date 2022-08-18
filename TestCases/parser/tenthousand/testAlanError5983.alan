@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean array , abba , abba ;     put "hello" 
+; abba := array true and 100/ true 
+; put "hello" 
+
+end

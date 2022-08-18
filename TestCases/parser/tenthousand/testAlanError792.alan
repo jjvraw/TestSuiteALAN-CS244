@@ -1,0 +1,16 @@
+source abba function abba (boolean abba ) 
+begin
+    integer array abba , abba ;     call abba () 
+
+end
+function abba () 
+begin
+    integer abba ;     relax 
+end
+
+begin
+    abba := array 100/ abba () 
+; abba := array not not not 100/ abba or not abba [-100] or false and / 100
+; 
+
+end

@@ -1,0 +1,13 @@
+source abba 
+begin
+    abba ;     boolean abba , abba ;     put "hello" ."hello" 
+; get abba 
+; if abba / not false not not 100+ 100> -abba [not 100rem true or false * abba - abba ] then
+    abba := array -true and true / 100+ 100* not not 100rem 100- false / not true 
+else     abba := array -100rem false / not not not false 
+; get abba 
+
+end
+
+
+end

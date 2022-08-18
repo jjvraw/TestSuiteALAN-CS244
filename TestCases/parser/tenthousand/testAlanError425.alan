@@ -1,0 +1,7 @@
+source abba 
+begin
+    put "hello" 
+; abba := -not not abba + not abba [not abba rem not not true and true or not abba () * false rem not true ] rem not abba [-false rem not 100and true or abba () * true ] 
+; put "hello" ."hello" 
+
+end

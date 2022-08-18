@@ -1,0 +1,7 @@
+abba 
+begin
+get abba [-not 100* and 100+ false ] 
+; call abba () 
+; call abba () 
+
+end

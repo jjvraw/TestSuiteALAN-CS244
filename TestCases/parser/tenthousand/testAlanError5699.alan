@@ -1,0 +1,17 @@
+source abba function abba () 
+begin
+    integer abba ;     relax 
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" 
+; if -false / false false / false then
+    relax else     relax 
+end
+
+
+end

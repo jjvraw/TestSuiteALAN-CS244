@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    get abba [-100- true or 100* not not not 100* not abba [-not abba -abba [-not false - abba [not false rem false / 100] * 100] - true ] / not false rem ] ] 
+; get abba 
+
+end
+
+begin
+    boolean ;     relax 
+end

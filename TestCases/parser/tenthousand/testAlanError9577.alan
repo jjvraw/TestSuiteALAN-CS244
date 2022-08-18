@@ -1,0 +1,11 @@
+source abba 
+begin
+    -not abba () and not false do     relax 
+end
+; get abba 
+; if -false rem true then
+    relax 
+end
+
+
+end

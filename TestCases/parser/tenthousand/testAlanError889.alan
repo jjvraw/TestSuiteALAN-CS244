@@ -1,0 +1,5 @@
+source abba 
+begin
+    array abba ;     get abba [not 100and true rem false ] 
+
+end

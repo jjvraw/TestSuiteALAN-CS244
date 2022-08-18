@@ -1,0 +1,15 @@
+source abba function abba (boolean array abba , boolean abba ) 
+begin
+    integer abba , abba ;     integer abba , abba , abba ;     relax 
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    leave 
+; abba := array true + 100
+; get abba 
+
+end

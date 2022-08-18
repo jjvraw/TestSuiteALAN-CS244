@@ -1,0 +1,10 @@
+source abba 
+begin
+if abba * false rem false <= -true or not false - not not abba [-100] then
+    relax 
+end
+
+; put ."hello" 
+; call abba () 
+
+end

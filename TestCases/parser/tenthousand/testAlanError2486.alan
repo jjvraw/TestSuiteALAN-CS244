@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := array -true / true * abba (
+
+end

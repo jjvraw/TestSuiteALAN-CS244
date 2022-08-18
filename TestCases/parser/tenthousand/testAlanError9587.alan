@@ -1,0 +1,9 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; -false abba < not true * abba () do     call abba ) 
+
+end
+
+
+end

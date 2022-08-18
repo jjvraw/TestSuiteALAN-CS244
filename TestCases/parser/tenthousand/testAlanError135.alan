@@ -1,0 +1,13 @@
+source abba 
+begin
+    put "hello" 
+; if -false rem false + not 100rem abba () then
+    get abba 
+; -not false do     relax 
+end
+
+
+end
+
+
+end

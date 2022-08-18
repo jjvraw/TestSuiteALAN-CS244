@@ -1,0 +1,22 @@
+source abba function abba () to boolean 
+begin
+    integer abba ;     integer abba , abba ;     while not false do     relax 
+end
+
+; leave 
+put "hello" 
+
+end
+function abba () 
+begin
+    put "hello" ."hello" 
+; put "hello" 
+
+end
+
+begin
+    boolean abba ; call abba () 
+; leave 
+; put "hello" 
+
+end

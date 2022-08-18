@@ -1,0 +1,7 @@
+source abba 
+begin
+    get abba [-not true / 100rem not true + not 100or true ] 
+; call abba () 
+; get abba 
+
+end

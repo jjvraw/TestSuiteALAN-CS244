@@ -1,0 +1,1 @@
+alanc: testAlanError2136.alan:7:1: error: expected ']', but found ';'

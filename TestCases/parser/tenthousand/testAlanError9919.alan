@@ -1,0 +1,12 @@
+source abba 
+begin
+    boolean array abba ;     if -false and true = -100* false * abba () - true or not true / abba () * abba then
+    leave 
+; abba := array -not false * false or true / 100and not not not not false 
+else     abba [not false and true - false or not not not not not not true * 100and not true ] := array abba / false and 100- abba () 
+; call abba () 
+
+end
+
+
+end

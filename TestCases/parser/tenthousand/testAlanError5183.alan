@@ -1,0 +1,6 @@
+source abba 
+begin
+    call abba () 
+; abba := array -not abba - abba () / abba [-not true * false - abba false rem 100] / true 
+
+end

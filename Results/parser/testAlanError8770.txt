@@ -1,0 +1,1 @@
+alanc: testAlanError8770.alan:1:27: error: expected '(', but found 'boolean'

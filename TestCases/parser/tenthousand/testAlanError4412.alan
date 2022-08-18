@@ -1,0 +1,13 @@
+source abba function abba () 
+begin
+    abba := array 100
+
+end
+function abba () 
+begin
+    put "hello" 
+
+end
+
+begin
+    relax 

@@ -1,0 +1,6 @@
+source abba 
+begin
+    leave 
+; get abba [-abba and not - abba and true and not false + true / not not false / not abba ] 
+
+end

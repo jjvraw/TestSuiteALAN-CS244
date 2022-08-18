@@ -1,0 +1,11 @@
+source abba 
+begin
+    abba [-true + false rem 100/ false or 100rem abba / abba ] := array 100
+; while -not true + 100* abba / not 100- 100do     get abba 
+; -not false rem not not 100- true - not false / abba / false ] := array -not not 100- not 100and abba [-true ] rem abba 
+
+end
+
+; call abba () 
+
+end

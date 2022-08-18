@@ -1,0 +1,13 @@
+source abba 
+begin
+    if -abba and false or true * not true rem 100< abba or abba then
+abba := array -false and true and not not not 100
+; if -not true and false and abba or false / 100- false / abba * 100then
+    leave 
+
+
+end
+
+; put "hello" ."hello" ."hello" 
+
+end

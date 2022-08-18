@@ -1,0 +1,1 @@
+alanc: testAlanError4306.alan:4:60: error: expected factor, but found 'do'

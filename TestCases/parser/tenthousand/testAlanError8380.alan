@@ -1,0 +1,15 @@
+source abba function abba () 
+begin
+    leave 
+; while 100* true - true * true / true + not not true * 100do     leave 
+; put "hello" ."hello" 
+
+end
+
+; abba [-abba [-false ] ] := array -100or not not not abba [-abba + not false * not not not not 100* not not not not not false ] / true 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

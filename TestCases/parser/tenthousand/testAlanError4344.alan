@@ -1,0 +1,8 @@
+source abba 
+begin
+    boolean array abba ;     abba [-not 100or not 100] := array true - abba () * not 100and not not abba ; call () 
+; while false >= not not not true + not false / abba do     relax 
+end
+
+
+end

@@ -1,0 +1,7 @@
+source abba 
+begin
+    get abba 
+; put "hello" 
+; abba [100or false + abba rem abba ] 
+
+end

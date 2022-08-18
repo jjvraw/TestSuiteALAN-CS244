@@ -1,0 +1,7 @@
+source abba 
+begin
+    while true + 100* not - true rem not 100    relax 
+end
+
+
+end

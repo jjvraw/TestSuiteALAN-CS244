@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    abba := array -false rem true 
+; leave 
+; abba [-100or abba () and true and not true ] := array -abba and abba () and false - not not true or abba and 100rem true 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

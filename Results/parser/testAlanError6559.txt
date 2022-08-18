@@ -1,0 +1,1 @@
+alanc: testAlanError6559.alan:3:110: error: expected 'do', but found identifier

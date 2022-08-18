@@ -1,0 +1,1 @@
+alanc: testAlanError5969.alan:3:48: error: expected ';', but found 'if'

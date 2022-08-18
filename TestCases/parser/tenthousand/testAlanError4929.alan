@@ -1,0 +1,8 @@
+source abba 
+begin
+    while abba rem false - true / abba () rem not true or abba and true do     relax 
+end
+
+; abba [abba * false - false ] := -not false rem false or 100/ not abba * not false + abba () / not false rem 100
+
+end

@@ -1,0 +1,18 @@
+source abba 
+begin
+    if -false + false rem or abba / true then
+    abba [not 100rem 100* abba or 100rem 100/ 100+ 100/ not false ] := array not false and false ; if 100- not true then
+    abba := array -100* abba () 
+; if -not false + false and 100< -false - 100then
+    relax 
+end
+
+; put "hello" 
+else     relax 
+end
+
+else     relax 
+end
+
+
+end

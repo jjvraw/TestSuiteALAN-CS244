@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba -false and false rem true or false / abba [-false and not not false - abba [-and not not not true or 100] ] - not abba () / false / false ] 
+; put "hello" 
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError6543.alan:3:56: error: expected 'do', but found 'leave'

@@ -1,0 +1,1 @@
+alanc: testAlanError6182.alan:4:1: error: expected expression or string, but found 'if'

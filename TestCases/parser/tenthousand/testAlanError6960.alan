@@ -1,0 +1,26 @@
+source abba function abba (boolean array abba ) to integer array 
+begin
+    integer array abba ;     abba := array -abba [not not false and 100* 100+ * 100* 100+ abba rem abba ] * not 100/ not abba or not not true rem abba and true 
+; while 100/ true + not abba rem not not abba * false = false not false - true and abba [-100] do     if true + not not not abba rem not 100not not 100<> true * 100or false - false * true then
+    call abba () 
+
+end
+
+; call abba () 
+; if not not not not 100* abba then
+    relax 
+end
+
+
+end
+
+
+end
+function abba (integer array abba , boolean array , boolean abba ) 
+begin
+    relax 
+end
+
+begin
+    boolean array abba , abba ;     relax 
+end

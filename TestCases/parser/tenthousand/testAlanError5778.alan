@@ -1,0 +1,14 @@
+source abba function abba () to boolean 
+begin
+    abba () 
+; call abba () 
+; put "hello" ."hello" 
+
+end
+
+begin
+    call abba () 
+; put "hello" ."hello" ."hello" 
+; call abba () 
+
+end

@@ -1,0 +1,18 @@
+source abba function abba () 
+begin
+    integer array abba ;     relax 
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    get 
+; if -false or false or abba * abba * not not 100< not false not not true / abba - false rem abba then
+    abba := array -not not true * false or abba () / abba () rem abba [100or not not abba [not abba () * abba true ] rem not 100] 
+
+end
+
+
+end

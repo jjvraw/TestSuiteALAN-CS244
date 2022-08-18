@@ -1,0 +1,10 @@
+source abba function abba (integer array abba , boolean array abba ) to integer array 
+begin
+    get abba [true - 100or true and not 100rem 100] 
+
+end
+
+begin
+    integer abba ;     integer array abba ;     leave 
+
+end

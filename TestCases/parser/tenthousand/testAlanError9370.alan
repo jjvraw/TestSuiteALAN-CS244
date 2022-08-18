@@ -1,0 +1,9 @@
+source abba 
+begin
+    put "hello" ."hello" 
+; false * not 100- false and true / true = not not true and false do     relax 
+end
+
+; leave 
+
+end

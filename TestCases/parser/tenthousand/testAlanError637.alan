@@ -1,0 +1,9 @@
+source abba 
+begin
+    while 100+ abba () * rem false - not true do     relax 
+end
+
+; abba [or false - abba () ] := array -true * not true or 100and not abba + true 
+; put "hello" ."hello" 
+
+end

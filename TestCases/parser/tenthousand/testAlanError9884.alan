@@ -1,0 +1,12 @@
+source abba function abba (boolean abba , boolean abba ) 
+begin
+    boolean array abba , abba ;     integer abba ;     call abba () 
+; leave 
+; put "hello" ."hello" 
+
+end
+
+begin
+    boolean abba , abba ;     call abba () 
+
+end

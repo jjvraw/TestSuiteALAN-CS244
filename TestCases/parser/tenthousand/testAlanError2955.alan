@@ -1,0 +1,10 @@
+source function abba (array abba , boolean abba ) to boolean 
+begin
+    boolean abba ;     relax 
+end
+
+begin
+    put "hello" ."hello" 
+; put "hello" ."hello" 
+
+end

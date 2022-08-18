@@ -1,0 +1,19 @@
+source abba function abba () to integer 
+begin
+    while -abba ()     relax 
+end
+
+
+end
+function abba () to boolean 
+begin
+    get abba [rem not true - true / not 100] ; while -100/ not not abba () * not abba + 100rem not do     relax 
+end
+
+
+end
+
+begin
+    get abba [-abba [not 100and not abba [-false rem abba * not 100or false and not 100] and false ] and true ] 
+
+end

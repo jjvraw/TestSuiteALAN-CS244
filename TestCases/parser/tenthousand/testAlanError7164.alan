@@ -1,0 +1,7 @@
+source 
+begin
+    integer array abba ;     abba := array -not abba () / not not 100
+; call abba () 
+; call abba () 
+
+end

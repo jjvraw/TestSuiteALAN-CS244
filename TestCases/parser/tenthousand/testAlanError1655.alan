@@ -1,0 +1,8 @@
+abba 
+begin
+    call abba () 
+; call abba () 
+; if 100rem false < -true rem abba + true * 100+ not false / 100and abba then
+    relax 
+end
+

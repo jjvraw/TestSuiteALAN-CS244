@@ -1,0 +1,20 @@
+source abba function abba () to integer array 
+begin
+    put "hello" 
+; if -false / abba <= -not false and true - not abba * true + not false then
+    abba [false / true - abba (rem abba [100and 100rem true ] * 100] := array -not true and 
+; 
+else     leave 
+
+end
+
+; put "hello" ."hello" ."hello" 
+
+end
+function abba () 
+begin
+integer array , abba ;     boolean array abba ;     relax 
+begin
+    boolean array abba ;     integer abba , abba ;     put "hello" ."hello" 
+
+end

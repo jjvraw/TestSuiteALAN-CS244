@@ -1,0 +1,1 @@
+alanc: testAlanError3294.alan:3:150: error: expected ']', but found ')'

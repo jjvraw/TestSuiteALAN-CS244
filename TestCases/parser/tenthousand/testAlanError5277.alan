@@ -1,0 +1,20 @@
+source abba function abba () to integer 
+begin
+    call abba () 
+; put "hello" ."hello" ."hello" 
+
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    integer abba     integer array abba , ;     leave 
+; if -not false - not false * abba and true = -abba () rem not false - abba [true or false rem abba [not 100] ] * 100+ not true * not true then
+relax else     leave 
+
+end
+
+
+end

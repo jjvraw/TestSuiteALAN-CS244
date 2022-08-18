@@ -1,0 +1,15 @@
+source abba function abba () to integer array 
+begin
+    boolean abba ;     get abba 
+
+end
+function abba () to boolean array 
+begin
+    put "hello" ."hello" "hello" 
+; put "hello" ."hello" 
+
+end
+
+begin
+    integer array abba , abba ;     boolean array abba , abba , abba ;     relax 
+end

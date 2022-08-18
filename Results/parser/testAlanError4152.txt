@@ -1,0 +1,1 @@
+alanc: testAlanError4152.alan:8:1: error: expected statement, but found 'else'

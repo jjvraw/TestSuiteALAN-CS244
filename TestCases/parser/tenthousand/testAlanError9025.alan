@@ -1,0 +1,20 @@
+source abba function () 
+begin
+    if not abba [-true rem not - abba [-not not abba [100or 100/ abba [abba () or abba [abba - 100/ abba [true / 100/ true - false * not 100/ not true ] * abba ] ] ] ] / abba or true ] >= true * false then
+    leave 
+; call abba () 
+
+end
+
+
+end
+function abba (boolean abba , integer abba , integer abba ) 
+begin
+    integer abba ;     get abba 
+; leave 
+
+end
+
+begin
+    boolean array abba , abba ;     relax 
+end

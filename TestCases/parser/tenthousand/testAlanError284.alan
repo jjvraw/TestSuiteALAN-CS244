@@ -1,0 +1,19 @@
+source abba abba (integer abba , boolean array abba ) to boolean 
+begin
+    relax 
+end
+function abba () 
+begin
+    integer array abba , abba , abba ;     boolean abba , abba , abba ;     relax 
+end
+
+begin
+    integer abba ;     integer abba , abba ;     call abba () 
+; leave 
+; if false rem true then
+    get abba [-not 100* not not true and abba [false rem false + not not not not 100rem not true ] ] 
+
+end
+
+
+end

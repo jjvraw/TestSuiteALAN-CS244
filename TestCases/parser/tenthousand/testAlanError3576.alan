@@ -1,0 +1,29 @@
+source abba function abba () to boolean array 
+begin
+    put "hello" ."hello" ."hello" 
+; abba [false rem false rem true - false or not not false ] := array true * 100
+; put "hello" ."hello" 
+
+end
+function abba (boolean abba ) 
+begin
+boolean array abba ;     boolean abba , abba     get abba 
+; not 100/ 100/ not false + true then
+    call abba () 
+; if 100rem not abba () - 100>= 100then
+    relax else     relax 
+end
+
+
+end
+
+; put "hello" ."hello" 
+
+end
+
+begin
+    put "hello" 
+; leave 
+; put "hello" 
+
+end

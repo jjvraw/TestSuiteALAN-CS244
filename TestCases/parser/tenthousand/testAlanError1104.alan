@@ -1,0 +1,3 @@
+source abba     abba [not not not not 100] := array true and false * true 
+
+end

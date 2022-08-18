@@ -1,0 +1,21 @@
+source abba function abba () to boolean array 
+begin
+    relax 
+end
+function abba () to boolean array 
+begin
+    relax 
+end
+
+begin
+    boolean abba     boolean array ;     call abba () 
+; if 100+ 100not 100and not false - 100* not 100then
+    relax 
+end
+
+; if 100* false then
+    relax 
+end
+
+
+end

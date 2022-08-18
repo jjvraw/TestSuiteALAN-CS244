@@ -1,0 +1,1 @@
+alanc: testAlanError6895.alan:22:1: error: expected 'end', but found 'leave'

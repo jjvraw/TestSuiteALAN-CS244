@@ -1,0 +1,7 @@
+source abba 
+begin
+    leave 
+; "hello" ."hello" 
+; get abba [true and not true ] 
+
+end

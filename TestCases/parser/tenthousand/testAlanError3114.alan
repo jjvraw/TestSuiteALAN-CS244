@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba := array -not 100/ and not abba + true rem not false + true 
+; get [-true / not not not not not true ] 
+
+end

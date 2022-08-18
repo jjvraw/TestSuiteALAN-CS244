@@ -1,0 +1,16 @@
+source abba 
+begin
+    put "hello" "hello" ."hello" 
+; if -100<> -false 100then
+    call abba () 
+else     abba := array -abba + 100
+
+end
+
+; while abba > -abba * abba () * not abba [not 100+ true and false * 100] + not 100rem true and true + not not not 100rem true do     put "hello" 
+
+
+end
+
+
+end

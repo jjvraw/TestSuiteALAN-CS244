@@ -1,0 +1,18 @@
+source abba 
+begin
+    leave 
+; if -abba rem true then
+    relax else     abba := array -false or false * not abba 
+; leave 
+; if true true * not false + not 100and not false then
+    relax 
+end
+
+
+end
+
+; while -not 100and + not true / true do     relax 
+end
+
+
+end

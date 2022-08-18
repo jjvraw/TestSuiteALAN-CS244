@@ -1,0 +1,13 @@
+source abba function abba (integer array abba , boolean abba ) to integer array 
+begin
+    call abba () 
+; call abba () ; get abba 
+
+end
+
+begin
+    integer array abba , abba ; boolean abba , abba ;     abba [true rem false - 100or not not false ] := array -100and false or not true + not 100/ not true 
+; leave 
+; abba := array -false * not not true * false - not / 100* false 
+
+end

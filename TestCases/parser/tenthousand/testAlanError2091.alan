@@ -1,0 +1,9 @@
+source abba function abba (
+begin
+    integer array abba ;     relax 
+end
+
+begin
+    get abba [not not 100rem false * 100- false ] 
+
+end

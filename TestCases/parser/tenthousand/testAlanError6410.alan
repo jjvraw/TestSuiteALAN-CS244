@@ -1,0 +1,9 @@
+source abba function abba () to integer array 
+begin
+    leave 
+
+end
+
+begin
+    relax 
+end

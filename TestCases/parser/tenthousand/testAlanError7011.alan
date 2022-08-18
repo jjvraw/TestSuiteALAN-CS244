@@ -1,0 +1,11 @@
+source abba 
+begin
+    if not not not not not not true / not not not abba () rem 100then
+call abba () 
+; put "hello" ."hello" ."hello" ; abba [false / 100rem 100- false - not false and not 100] := array false rem false or abba () * not false and not abba 
+
+end
+
+call abba () 
+
+end

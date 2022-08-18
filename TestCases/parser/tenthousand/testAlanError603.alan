@@ -1,0 +1,11 @@
+source abba 
+begin
+    call abba () 
+; call abba () 
+; if abba [-/ abba ] and false - true and true rem not 100+ not not not false < -100true and 100then
+    put "hello" 
+
+end
+
+
+end

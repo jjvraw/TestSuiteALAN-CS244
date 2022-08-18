@@ -1,0 +1,17 @@
+source abba function abba () to integer array 
+begin
+    relax 
+end
+function abba () 
+begin
+    if -100* not true 100- not abba [true ] then
+    put "hello" ."hello" ."hello" 
+; put "hello" ."hello" ."hello" else     relax 
+end
+
+
+end
+
+begin
+    relax 
+end

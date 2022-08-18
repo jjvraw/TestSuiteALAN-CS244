@@ -1,0 +1,25 @@
+source abba function abba () to integer array 
+begin
+    relax 
+end
+function abba () to integer array 
+begin
+    if not not not 100<= -not true and not abba [true / 100/ not false + abba / not not true or not abba rem not true ] rem true - abba then
+    leave 
+else     get abba 
+
+end
+
+; while true / 100- 100< true / true - not false do     call abba () 
+; get abba 
+; put "hello" ."hello" 
+
+end
+
+leave 
+
+end
+
+begin
+integer abba , , abba ;     boolean abba ;     relax 
+end

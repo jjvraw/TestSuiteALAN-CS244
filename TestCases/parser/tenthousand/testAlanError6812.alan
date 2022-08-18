@@ -1,0 +1,7 @@
+source abba 
+begin
+    put "hello" ."hello" 
+; call abba () 
+; put "hello" ."hello" ."hello" 
+
+end

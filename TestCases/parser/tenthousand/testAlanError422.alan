@@ -1,0 +1,18 @@
+source function abba () 
+begin
+    boolean abba ;     relax 
+end
+function abba () to boolean 
+begin
+boolean abba , abba ;     relax 
+end
+
+begin
+    call abba () 
+; leave 
+; abba * false rem - true / abba + false / not not abba < not abba / not abba and abba - 100or not not 100do     leave 
+
+end
+
+
+end

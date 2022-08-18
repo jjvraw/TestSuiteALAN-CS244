@@ -1,0 +1,21 @@
+source function abba (boolean abba ) 
+begin
+    leave 
+
+end
+function abba () 
+begin
+    if false rem not not false * not abba + 100rem abba > not not not not false - false * false * not 100+ true then
+    relax 
+end
+
+; call abba () 
+
+end
+
+begin
+    integer abba , abba , abba ;     integer abba , abba , abba ;     leave 
+; put "hello" ."hello" ."hello" 
+; call abba () 
+
+end

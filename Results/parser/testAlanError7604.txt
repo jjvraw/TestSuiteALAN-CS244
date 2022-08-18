@@ -1,0 +1,1 @@
+alanc: testAlanError7604.alan:1:61: error: expected type, but found 'array'

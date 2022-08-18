@@ -1,0 +1,6 @@
+source abba 
+begin
+    integer array abba , abba ; call abba () 
+; abba := array -abba [100rem 100+ true / 100and 100] and false / false - not abba [abba () and not true + not 100rem not abba [false or false * false rem abba () or true ] ] 
+
+end

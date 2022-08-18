@@ -1,0 +1,10 @@
+source abba function () to integer array 
+begin
+    relax 
+end
+
+begin
+    abba [-true rem abba / + () rem not false and false or false rem true and false ] := array -abba rem false - false rem true + true ; := array -false / 100and not 
+; get 
+
+end

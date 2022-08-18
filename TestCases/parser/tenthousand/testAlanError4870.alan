@@ -1,0 +1,5 @@
+source abba 
+begin
+    integer abba ;     get abba [not false / 100+ abba / 100] 
+
+end

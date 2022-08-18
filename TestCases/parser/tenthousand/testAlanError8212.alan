@@ -1,0 +1,17 @@
+source abba function abba () to integer 
+begin
+    call abba () 
+
+end
+function abba () 
+begin
+    get abba 
+
+end
+
+begin
+    "hello" ."hello" 
+; put "hello" ."hello" 
+; 
+
+end

@@ -1,0 +1,11 @@
+source abba function abba () to integer array 
+begin
+    leave 
+; abba := array abba false 
+; call abba () 
+
+end
+
+begin
+    relax 
+end

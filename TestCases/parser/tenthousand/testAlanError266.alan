@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := -100* abba * not abba or abba rem not false and false or 100and false and 
+
+end

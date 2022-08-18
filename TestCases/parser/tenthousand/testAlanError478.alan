@@ -1,0 +1,6 @@
+source abba 
+begin
+    get abba 
+; abba [-true / 100or not true abba () ] := array -abba 
+
+end

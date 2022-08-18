@@ -1,0 +1,13 @@
+function abba () 
+begin
+    boolean abba ;     relax 
+end
+
+begin
+    leave 
+; abba [-100and not abba ] := array true / not not not false 
+; while 100or true * false + false >= -true / abba [-false rem true ] or not true or not true / not not abba / true do     relax 
+end
+
+
+end

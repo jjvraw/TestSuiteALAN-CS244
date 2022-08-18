@@ -1,0 +1,5 @@
+source abba 
+begin
+    get abba [-100rem abba or true * not false and not abba ] 
+
+end

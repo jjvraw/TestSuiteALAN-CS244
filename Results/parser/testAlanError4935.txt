@@ -1,0 +1,1 @@
+alanc: testAlanError4935.alan:4:1: error: expected expression or string, but found 'function'

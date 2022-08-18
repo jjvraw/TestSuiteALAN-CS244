@@ -1,0 +1,10 @@
+source function abba (to boolean     abba [-100or true + false ] := array not 100/ abba () / 100or true and false / false + true / not true rem false 
+; call abba () 
+; abba [false and false + not not true ] 
+
+end
+
+begin
+call abba () 
+
+end

@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer array abba ;     put "hello" 
+; get abba [abba [-false * not not 100/ true + abba () ] * not true * false or true and not not true / abba or false rem not false ] 
+; leave 
+
+end

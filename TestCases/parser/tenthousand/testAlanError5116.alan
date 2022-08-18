@@ -1,0 +1,3 @@
+source abba 
+begin
+    integer abba ;     get abba [abba and not 100rem false - 100rem 100] 

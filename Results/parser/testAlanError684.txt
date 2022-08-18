@@ -1,0 +1,1 @@
+alanc: testAlanError684.alan:8:1: error: expected ')', but found 'begin'

@@ -1,0 +1,11 @@
+source abba function abba (boolean array abba , array abba , integer array abba ) 
+begin
+    get [false and 100rem abba ] 
+; put "hello" ."hello" 
+; leave 
+
+end
+
+begin
+    integer abba , abba , abba ;     integer array abba , abba , abba     relax 
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError1062.alan:1:17: error: expected 'begin', but found 'put'

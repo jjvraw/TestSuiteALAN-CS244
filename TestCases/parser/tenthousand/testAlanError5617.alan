@@ -1,0 +1,13 @@
+source abba function abba () 
+begin
+    relax 
+end
+    while -abba [true rem not not abba and 100] * not abba [-rem true - false rem not not 100and not true ] <> -100+ 100* abba + not false do     relax 
+end
+
+; leave 
+; while not not 100* true and not not false or 100/ rem 100<= -not not not true or not abba or true do     relax 
+end
+
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError5370.alan:8:1: error: expected 'end', but found 'call'

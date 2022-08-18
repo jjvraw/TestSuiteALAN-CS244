@@ -1,0 +1,1 @@
+alanc: testAlanError9449.alan:12:5: error: expected 'begin', but found 'call'

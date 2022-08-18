@@ -1,0 +1,6 @@
+source abba 
+begin
+    array abba , abba ;     put "hello" ."hello" 
+abba := array not true and not false and not true 
+
+end

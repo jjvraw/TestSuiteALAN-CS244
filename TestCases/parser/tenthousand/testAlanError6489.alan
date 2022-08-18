@@ -1,0 +1,24 @@
+source abba function abba () 
+begin
+    abba := array -abba 
+; call abba (
+
+end
+function abba () 
+begin
+    call abba () 
+; if -false and not not not true and false then
+    relax else     leave 
+; call abba () 
+
+end
+
+; get abba 
+
+end
+
+begin
+    call abba () ; abba := array -false rem abba or true - not not false 
+; get abba [abba or not false ] 
+
+end

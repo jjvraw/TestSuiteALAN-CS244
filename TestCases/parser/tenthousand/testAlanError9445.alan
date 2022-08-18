@@ -1,0 +1,9 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; abba := array not not not not not abba / abba [-100and true rem not 100or not 100* not abba [not abba () and not not 100or not not not not abba ] * 100] abba - true / false and true or not abba and not true * abba 
+; while false >= -abba * abba * true do     relax 
+end
+
+
+end

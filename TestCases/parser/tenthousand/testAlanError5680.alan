@@ -1,0 +1,10 @@
+source function abba (integer array abba , boolean abba ) 
+begin
+    abba := array not true or 100* not false * abba 
+; abba := not not abba () 
+
+end
+
+begin
+    relax 
+end

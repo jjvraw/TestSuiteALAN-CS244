@@ -1,0 +1,6 @@
+source abba 
+begin
+    integer abba ;     get abba 
+; abba := array -false / abba () - not not abba and abba / true + false 
+
+end

@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer array abba ;     
+; put "hello" 
+; call abba () 
+
+end

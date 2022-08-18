@@ -1,0 +1,5 @@
+source abba 
+begin
+    boolean abba ;     abba := array false rem not true and false + false rem not not abba 
+
+end

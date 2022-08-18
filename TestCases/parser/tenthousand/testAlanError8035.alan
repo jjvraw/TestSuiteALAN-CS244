@@ -1,0 +1,18 @@
+source abba function abba () 
+begin
+    call abba () 
+; put "hello" ."hello" ."hello" 
+; while false rem 100* not false do     if -false - abba + true then
+    relax 
+end
+
+; call abba () 
+
+end
+
+
+end
+
+begin
+    relax 
+end

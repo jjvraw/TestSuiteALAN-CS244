@@ -1,0 +1,11 @@
+source abba function abba (boolean abba ) 
+begin
+    relax 
+end
+
+begin
+    put "hello" 
+; call abba () 
+; abba := array not not not true / not not 100and true or not 100
+
+end

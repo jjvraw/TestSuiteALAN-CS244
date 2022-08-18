@@ -1,0 +1,1 @@
+alanc: testAlanError5798.alan:7:91: error: expected factor, but found '<'

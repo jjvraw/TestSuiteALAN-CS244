@@ -1,0 +1,10 @@
+source abba function abba () to array 
+begin
+    array abba , abba , abba ;     boolean array abba , abba , ; relax 
+end
+
+begin
+    get abba [-100rem 100] 
+; get abba 
+
+end

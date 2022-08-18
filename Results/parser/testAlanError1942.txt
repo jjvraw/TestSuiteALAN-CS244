@@ -1,0 +1,1 @@
+alanc: testAlanError1942.alan:3:111: error: expected 'do', but found numeric literal

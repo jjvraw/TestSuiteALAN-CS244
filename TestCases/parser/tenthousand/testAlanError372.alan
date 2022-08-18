@@ -1,0 +1,7 @@
+source abba 
+begin
+    get abba [not 100] 
+; leave 
+; call abba () 
+
+end

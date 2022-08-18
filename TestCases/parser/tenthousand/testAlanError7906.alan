@@ -1,0 +1,17 @@
+source abba function abba (array abba , integer abba ) 
+begin
+    call abba () 
+
+end
+function abba (integer array abba , integer array abba , integer array abba ) to boolean array 
+begin
+    boolean array abba , , abba ;     boolean abba , abba , abba ; put "hello" ."hello" 
+; call abba () 
+; abba [-not not true ] := array -not not not abba [100] - true - false / not not not 100
+
+end
+    leave 
+; get abba 
+; get abba 
+
+end

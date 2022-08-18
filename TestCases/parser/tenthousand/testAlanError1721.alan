@@ -1,0 +1,37 @@
+source abba function abba () to boolean 
+begin
+    call abba (
+; put "hello" ."hello" ."hello" 
+
+end
+function abba (integer abba boolean abba , integer array ) to boolean array 
+begin
+    call abba () 
+; if -true * not false or not not not false > false - not abba abba () then
+    if -- abba / not abba [-abba () rem false rem 100] or not true < -false * not abba ) then
+    put "hello" ."hello" ."hello" 
+; abba [-abba () rem 100or not true ] := array -abba () - 100
+
+end
+
+; call abba () 
+; while abba + not true / not not 100<> not 100true rem abba - abba and true and not not not not abba - 100do     abba ; call abba () 
+
+end
+
+else     put "hello" 
+; put "hello" ."hello" 
+; call abba () 
+
+end
+
+; get abba 
+
+end
+
+begin
+    boolean abba , abba , abba ;     boolean abba ;     abba := array false * false rem not not 100- false * abba () * not true - not 
+; abba [abba rem 100rem false ] := array and abba or not not false * false rem not true + true 
+; leave 
+
+end

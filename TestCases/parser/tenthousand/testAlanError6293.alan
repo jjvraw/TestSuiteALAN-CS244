@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba [true rem true and not abba () + false - true * true ] := array not true and true - true 
+; call abba () 
+
+end

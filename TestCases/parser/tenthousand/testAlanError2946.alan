@@ -1,0 +1,12 @@
+source abba abba () to boolean 
+begin
+    boolean abba ;     relax 
+end
+function abba () to boolean 
+begin
+    
+end
+
+begin
+    boolean array abba , abba ;     boolean array abba , abba abba ;     relax 
+end

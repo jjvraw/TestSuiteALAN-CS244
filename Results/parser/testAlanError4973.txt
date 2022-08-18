@@ -1,0 +1,1 @@
+alanc: testAlanError4973.alan:12:19: error: expected ']', but found 'false'

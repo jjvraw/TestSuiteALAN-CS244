@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+    abba := array -true and abba or false rem true / false 
+
+end
+
+begin
+    call abba () 
+; 
+; call abba () 
+
+end

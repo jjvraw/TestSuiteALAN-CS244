@@ -1,0 +1,19 @@
+source abba function abba (integer abba , integer array abba ) to array 
+begin
+    integer array abba , abba     integer abba ;     relax 
+end
+function abba (integer abba , integer array abba , boolean array abba ) to integer array 
+begin
+    boolean abba , abba ;     integer abba ;     relax 
+end
+
+begin
+    abba , abba , abba ; integer array abba , abba ;     if abba rem not 100= false and true or abba [false / false / abba then
+    get abba [not not abba rem true ] 
+else     relax 
+end
+
+put "hello" ."hello" 
+; put "hello" 
+
+end

@@ -1,0 +1,5 @@
+abba     put "hello" .."hello" 
+; abba := array -true rem abba [100or true / true not 100] - false 
+; get abba 
+
+end

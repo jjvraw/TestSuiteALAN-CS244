@@ -1,0 +1,8 @@
+source abba function abba (integer array abba ) to boolean 
+begin
+    put "hello" 
+; get abba [100- 100] 
+
+begin
+    relax 
+end

@@ -1,0 +1,7 @@
+source 
+begin
+get abba 
+; put "hello" ."hello" ."hello" 
+; abba array -100
+
+end

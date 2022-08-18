@@ -1,0 +1,8 @@
+source abba function abba () 
+begin
+    get abba [true * false ] ; get abba [-true * 100rem 100] 
+end
+
+begin
+    boolean abba ;     integer array abba , abba , abba ;     relax 
+end

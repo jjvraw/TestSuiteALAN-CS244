@@ -1,0 +1,1 @@
+alanc: testAlanError6642.alan:7:1: error: expected 'end', but found 'call'

@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    put "hello" ."hello" 
+; abba := array true + true and abba / 100
+
+end
+
+begin
+    boolean abba ;     relax 
+end

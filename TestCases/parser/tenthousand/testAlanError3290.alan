@@ -1,0 +1,12 @@
+source abba 
+begin
+    if -not not not not not not not not 100* true rem 100+ abba () * false / true or true * not not not not true / abba >= not abba + false * true - / not not not not false rem false then
+    call () 
+; abba := true or 100and not true rem 100+ not not 100/ false 
+; put "hello" ."hello" 
+else     relax 
+end
+
+; call abba () 
+
+end

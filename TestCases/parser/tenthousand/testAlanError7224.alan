@@ -1,0 +1,11 @@
+source abba 
+begin
+    if -not 100then
+    leave 
+else     put "hello" 
+
+end
+
+; put "hello" 
+
+end

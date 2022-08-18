@@ -1,0 +1,12 @@
+abba 
+begin
+    if true * false >= false rem not not not true * not not - not not true / true / false then
+    leave 
+; call abba () 
+; [-false rem 100and abba () ] := array false rem true + not abba () + abba [100and false rem 100] 
+
+end
+
+; abba [-false and 100- true rem not true ] := array 100- 100* not 100+ not not abba () * 100
+
+end

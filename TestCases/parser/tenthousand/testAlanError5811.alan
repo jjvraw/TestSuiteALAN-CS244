@@ -1,0 +1,20 @@
+source abba function abba (boolean array abba , integer abba , boolean array abba ) 
+begin
+    relax 
+end
+function abba (integer array abba , integer abba ) 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; while -true * false - * not 100* true = 100/ abba or true do     relax 
+end
+
+; if true + abba * abba () rem false = 100- true then
+    relax 
+end
+
+
+end

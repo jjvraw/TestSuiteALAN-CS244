@@ -1,0 +1,1 @@
+alanc: testAlanError4855.alan:9:10: error: expected factor, but found '-'

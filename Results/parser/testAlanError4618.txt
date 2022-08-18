@@ -1,0 +1,1 @@
+alanc: testAlanError4618.alan:3:56: error: expected identifier, but found 'relax'

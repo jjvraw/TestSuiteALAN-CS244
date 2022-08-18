@@ -1,0 +1,22 @@
+source abba function abba (boolean array abba ) 
+begin
+    put "hello" 
+; call abba () 
+call abba () 
+
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    integer array abba , abba , abba ;     if -false rem true * not 100<> false rem and true or abba () and true then
+    
+; call abba () 
+
+end
+
+; get abba [abba * true ] 
+
+end

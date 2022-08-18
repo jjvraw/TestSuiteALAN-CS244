@@ -1,0 +1,7 @@
+source abba 
+begin
+    get abba [100and not abba () + 100and abba rem true ] 
+; abba [100] := array -not 100+ abba () * 100
+; put "hello" ."hello" "hello" 
+
+end

@@ -1,0 +1,5 @@
+source abba 
+begin
+    get abba [not abba () and false - false ] 
+
+end

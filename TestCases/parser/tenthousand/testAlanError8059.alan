@@ -1,0 +1,15 @@
+source abba function abba (integer abba , boolean array abba , boolean array ) to boolean 
+begin
+    boolean array abba , abba ;     relax 
+end
+
+begin
+    boolean array abba ;     if -not not false and not abba * true + not true or abba () / not false / not false then
+    relax else     get abba [not true / not abba - ] 
+; put "hello" 
+; call abba () 
+
+end
+
+
+end

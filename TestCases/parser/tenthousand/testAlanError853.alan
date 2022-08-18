@@ -1,0 +1,16 @@
+source abba function abba (boolean array abba ) to integer array 
+begin
+    integer abba ;     put "hello" ."hello" 
+; while 100rem false do     abba [-100+ true or 100* not true ] := array false / false - 100* not abba () or abba [-true ] rem true / 100
+; leave 
+
+end
+
+; call abba () 
+
+end
+
+begin
+    call abba () 
+
+end

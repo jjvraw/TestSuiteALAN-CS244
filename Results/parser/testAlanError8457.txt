@@ -1,0 +1,1 @@
+alanc: testAlanError8457.alan:21:15: error: expected '(', but found 'integer'

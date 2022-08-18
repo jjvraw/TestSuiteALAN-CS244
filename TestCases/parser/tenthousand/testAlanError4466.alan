@@ -1,0 +1,19 @@
+source abba function abba (boolean , boolean array ) to boolean array 
+begin
+    relax 
+end
+function abba (boolean array abba , integer array abba ) 
+begin
+    put "hello" ."hello" ."hello" 
+; while true rem abba > -not 100/ not true do     get abba 
+
+end
+
+; abba [true and 100or true / true and abba or true ] := array true rem abba () rem 100
+
+end
+
+begin
+    boolean array abba ;     put "hello" 
+
+end

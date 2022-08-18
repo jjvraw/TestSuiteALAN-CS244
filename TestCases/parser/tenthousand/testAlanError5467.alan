@@ -1,0 +1,11 @@
+source abba 
+begin
+    integer array abba ;     call abba () 
+; if false and true + true <> true or 100or not not rem 100and not false then
+    relax else     put "hello" 
+; abba := array -true 
+
+end
+
+
+end

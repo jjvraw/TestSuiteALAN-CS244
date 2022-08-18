@@ -1,0 +1,16 @@
+source abba function abba () 
+begin
+    call abba () 
+; call abba () 
+; get abba [abba ] 
+
+end
+function abba () 
+begin
+    call abba () 
+
+end
+
+begin
+    relax 
+end

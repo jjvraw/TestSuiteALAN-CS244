@@ -1,0 +1,19 @@
+source abba function (integer array abba , boolean abba ) to boolean 
+begin
+    abba := array -true 
+
+end
+
+begin
+    get abba 
+; put "hello" ."hello" 
+; if -not true / abba - not 100or not 100then
+    relax     while not not * not true rem true do     relax 
+end
+
+; put "hello" 
+; call abba () 
+end
+
+
+end

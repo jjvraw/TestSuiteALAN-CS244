@@ -1,0 +1,1 @@
+alanc: testAlanError1359.alan:3:37: error: expected 'end', but found 'function'

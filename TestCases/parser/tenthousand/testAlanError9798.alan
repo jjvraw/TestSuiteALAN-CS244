@@ -1,0 +1,9 @@
+source abba abba () to boolean 
+begin
+    abba [-100+ false / false * not 100] := array -true rem not true / true - not 100and false / true - 100/ false 
+
+end
+
+begin
+    relax 
+end

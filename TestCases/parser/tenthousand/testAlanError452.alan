@@ -1,0 +1,17 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+function abba () 
+begin
+    put "hello" ."hello" 
+; call abba () 
+; abba array false / 100rem true + not true - false 
+
+end
+
+begin
+    integer abba ;     integer abba , abba ;     leave 
+; call abba () 
+
+end

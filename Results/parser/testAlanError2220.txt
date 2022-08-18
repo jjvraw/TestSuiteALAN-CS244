@@ -1,0 +1,1 @@
+alanc: testAlanError2220.alan:4:55: error: expected factor, but found ')'

@@ -1,0 +1,1 @@
+alanc: testAlanError1475.alan:4:37: error: expected factor, but found ';'

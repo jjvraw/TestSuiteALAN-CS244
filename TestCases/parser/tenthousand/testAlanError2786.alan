@@ -1,0 +1,8 @@
+source abba 
+begin
+    boolean array ;     integer array abba ;     abba := array -false - not false 
+; abba := array false and abba () ; while true * false do     relax 
+end
+
+
+end

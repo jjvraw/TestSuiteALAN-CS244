@@ -1,0 +1,1 @@
+alanc: testAlanError9952.alan:16:8: error: expected ':=', but found '('

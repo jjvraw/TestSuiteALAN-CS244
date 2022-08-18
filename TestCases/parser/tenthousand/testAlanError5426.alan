@@ -1,0 +1,10 @@
+source abba function abba () to integer 
+begin
+    relax 
+end
+
+begin
+    leave 
+; := array -true + not not false * not false 
+
+end

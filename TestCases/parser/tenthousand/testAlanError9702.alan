@@ -1,0 +1,13 @@
+source abba 
+begin
+    if 100+ 100/ true and false - * 100then
+    relax else     abba := array abba and not true * not abba + 100
+call abba () 
+; abba := array -true - 100* abba () 
+
+end
+
+; get abba 
+; call abba () 
+
+end

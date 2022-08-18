@@ -1,0 +1,15 @@
+source abba function abba () 
+begin
+    get abba [-not false * false ] 
+; if false + abba () rem true then
+    leave 
+; get abba 
+
+end
+
+
+end
+
+begin
+    relax 
+end

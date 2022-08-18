@@ -1,0 +1,16 @@
+source abba function abba (integer abba , boolean abba ) 
+begin
+    put "hello" ."hello" ."hello" 
+; put "hello" ."hello" "hello" 
+; get abba [false and 100/ true or not 100rem abba + not false rem not not abba / true ] 
+
+end
+
+begin
+    if 100then
+    relax 
+end
+
+; get abba [-not 100* not false rem true or () ] 
+
+end

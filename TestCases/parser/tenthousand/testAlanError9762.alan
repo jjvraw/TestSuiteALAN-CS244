@@ -1,0 +1,11 @@
+source abba function abba (integer abba ) 
+begin
+get abba [not and 100* 100- true * true - true * not abba 
+
+end
+
+begin
+    put "hello" 
+; get abba [100+ true and 100] 
+
+end

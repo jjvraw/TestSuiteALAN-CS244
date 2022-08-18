@@ -1,0 +1,10 @@
+source abba function abba integer abba ) to boolean 
+begin
+    get abba [abba * not not 100] 
+; call abba () 
+
+end
+
+begin
+    relax 
+end

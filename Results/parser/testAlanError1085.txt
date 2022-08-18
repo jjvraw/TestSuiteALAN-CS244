@@ -1,0 +1,1 @@
+alanc: testAlanError1085.alan:1:1: error: expected 'source', but found identifier

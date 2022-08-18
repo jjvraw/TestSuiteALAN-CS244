@@ -1,0 +1,1 @@
+alanc: testAlanError7353.alan:4:78: error: expected 'then', but found 'leave'

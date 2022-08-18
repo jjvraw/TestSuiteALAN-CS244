@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    leave 
+; while -not not 100and true or not abba () and <> -not false and 100/ false + true not false rem 100* not abba do     relax 
+end
+
+
+end

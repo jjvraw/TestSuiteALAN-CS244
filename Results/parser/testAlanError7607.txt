@@ -1,0 +1,1 @@
+alanc: testAlanError7607.alan:7:100: error: expected factor, but found '-'

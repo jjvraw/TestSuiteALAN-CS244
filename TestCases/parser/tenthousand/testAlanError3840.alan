@@ -1,0 +1,9 @@
+source abba 
+begin
+    array abba , abba ;     boolean array abba , abba ;     call abba () 
+; if abba [-100] then
+    relax else     relax 
+end
+
+; abba := array not abba [abba and false not false * 100- 100] and false 
+end

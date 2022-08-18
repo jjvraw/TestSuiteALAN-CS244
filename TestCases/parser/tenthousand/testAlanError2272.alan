@@ -1,0 +1,10 @@
+source abba function abba (integer abba ) 
+begin
+    call abba () 
+; call abba () 
+
+end
+
+begin
+    relax 
+end

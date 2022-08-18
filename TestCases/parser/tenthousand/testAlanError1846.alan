@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array abba , abba , abba ;     put "hello" "hello" 
+; := array true * abba * true or 100/ false and 100
+
+end

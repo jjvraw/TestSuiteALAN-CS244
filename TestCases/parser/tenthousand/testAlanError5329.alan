@@ -1,0 +1,11 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+function abba () to integer array 
+begin
+    relax 
+begin
+    abba [true - abba [abba [-abba ] and not not abba and true or true not 100rem not not and not 100] rem false ] := array -not not not not true + not not not not 100
+
+end

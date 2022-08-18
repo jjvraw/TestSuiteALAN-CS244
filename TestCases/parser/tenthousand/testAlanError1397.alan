@@ -1,0 +1,4 @@
+source abba     integer abba , abba , abba ;     get abba [-100and not false ] 
+; get abba [abba and 100or not false ] 
+
+end

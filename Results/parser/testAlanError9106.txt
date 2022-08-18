@@ -1,0 +1,1 @@
+alanc: testAlanError9106.alan:7:44: error: expected factor, but found 'or'

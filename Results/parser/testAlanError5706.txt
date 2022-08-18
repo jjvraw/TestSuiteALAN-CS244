@@ -1,0 +1,1 @@
+alanc: testAlanError5706.alan:3:70: error: expected 'do', but found 'if'

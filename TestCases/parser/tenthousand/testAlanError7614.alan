@@ -1,0 +1,9 @@
+source 
+begin
+    get abba [-false * abba () * not false or true or true * abba rem false ] 
+; while -false / true / true do abba [-not abba + not abba * true ] := array 100/ not true * false + 100
+
+end
+
+
+end

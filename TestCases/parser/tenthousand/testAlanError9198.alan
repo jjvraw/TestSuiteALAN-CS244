@@ -1,0 +1,10 @@
+source abba function abba (boolean array abba ) 
+begin
+    put "hello" 
+; [not false or 100* true ] := array -not not false and abba or not false and false * not false + not not not abba () ; abba [-not abba ] := array true or true and not true 
+
+end
+
+begin
+    relax 
+end

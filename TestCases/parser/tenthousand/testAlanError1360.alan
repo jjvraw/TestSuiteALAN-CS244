@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean abba ;     "hello" ."hello" ."hello" 
+; leave 
+; get abba 
+end

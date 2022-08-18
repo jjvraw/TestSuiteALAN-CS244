@@ -1,0 +1,1 @@
+alanc: testAlanError4406.alan:6:1: error: expected 'end', but found 'get'

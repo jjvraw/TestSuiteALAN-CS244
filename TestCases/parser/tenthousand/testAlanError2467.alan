@@ -1,0 +1,10 @@
+source abba function abba () to integer 
+begin
+    abba abba ;     relax 
+end
+
+begin
+    put "hello" ."hello" 
+; abba [-not false or not true rem true / not false - 100/ 100] := array not true / not not false not false 
+
+end

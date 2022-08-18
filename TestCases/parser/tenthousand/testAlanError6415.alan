@@ -1,0 +1,15 @@
+source abba function abba () to integer 
+begin
+    if 100rem not not 100or false * true and 100> false then
+    relax 
+end
+
+; put "hello" 
+
+end
+
+begin
+    put 
+; call abba () 
+
+end

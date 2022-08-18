@@ -1,0 +1,1 @@
+alanc: testAlanError6886.alan:4:22: error: expected 'then', but found ')'

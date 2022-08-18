@@ -1,0 +1,1 @@
+alanc: testAlanError2391.alan:3:71: error: expected factor, but found '*'

@@ -1,0 +1,1 @@
+alanc: testAlanError5696.alan:3:55: error: expected ';', but found 'leave'

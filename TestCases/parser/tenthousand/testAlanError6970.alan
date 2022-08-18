@@ -1,0 +1,22 @@
+source abba function abba (integer array abba ) 
+begin
+    boolean array abba     put "hello" ."hello" ."hello" 
+; put "hello" ."hello" ."hello" 
+; leave 
+
+end
+function abba () 
+begin
+    boolean abba     leave 
+
+end
+
+begin
+    while -false - abba () - true / true > -abba * abba + false do     relax 
+end
+
+; while -abba [false + abba rem false ] / 100and 100or abba and not abba () do     relax 
+end
+
+
+end

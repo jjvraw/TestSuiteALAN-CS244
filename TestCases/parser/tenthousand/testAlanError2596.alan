@@ -1,0 +1,9 @@
+source abba function abba () 
+begin
+    get abba 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

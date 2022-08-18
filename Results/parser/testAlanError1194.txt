@@ -1,0 +1,1 @@
+alanc: testAlanError1194.alan:4:38: error: expected 'do', but found 'true'

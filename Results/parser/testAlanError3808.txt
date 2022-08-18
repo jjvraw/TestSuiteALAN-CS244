@@ -1,0 +1,1 @@
+alanc: testAlanError3808.alan:3:140: error: expected ']', but found '<>'

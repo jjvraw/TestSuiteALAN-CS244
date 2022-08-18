@@ -1,0 +1,19 @@
+source abba function abba () 
+begin
+    abba := array -100* - abba 
+; if -true then
+    abba := -not true * not abba - abba * true and false 
+; if false * true and 100then
+    put "hello" ."hello" ."hello" 
+else     relax 
+end
+
+else     get abba 
+
+end
+
+
+end
+
+begin
+    relax 

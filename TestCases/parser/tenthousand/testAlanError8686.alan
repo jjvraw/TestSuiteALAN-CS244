@@ -1,0 +1,7 @@
+source abba 
+begin
+    get abba 
+; get abba [-not abba and 100- false ] 
+; := array false rem not false rem not not not false - 100* false 
+
+end

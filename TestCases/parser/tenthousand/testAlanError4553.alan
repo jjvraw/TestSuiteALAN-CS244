@@ -1,0 +1,7 @@
+source abba function abba () to boolean array 
+begin
+    integer array , abba ;     relax 
+end
+
+begin
+    integer abba , abba , abba ;     boolean array abba , abba ;     relax 

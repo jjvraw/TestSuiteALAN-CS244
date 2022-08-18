@@ -1,0 +1,7 @@
+source abba 
+begin
+    abba := array and not false 
+; abba [not not not false and 100/ true ] := array -false rem not false and not not abba or abba () 
+; leave 
+
+end

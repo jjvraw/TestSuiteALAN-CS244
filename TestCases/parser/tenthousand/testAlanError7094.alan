@@ -1,0 +1,6 @@
+source abba function abba () to integer     relax 
+end
+
+begin
+    integer abba , abba ;     relax 
+end

@@ -1,0 +1,14 @@
+source abba function abba () to integer array 
+begin
+    integer abba ;     relax 
+end
+function abba () 
+begin
+    integer abba , abba ;     relax 
+end
+    boolean abba ;     integer abba , abba , abba ;     call abba () 
+; put "hello" 
+; if false + abba () <= abba () + abba () * not abba () or abba / not not not abba [not 100* false - not not not false / abba and not true ] * not false then
+    relax 
+end
+

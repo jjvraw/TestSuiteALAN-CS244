@@ -1,0 +1,16 @@
+source abba 
+begin
+    integer abba ;     call abba () 
+; if -abba false false * 100/ not not false - not true rem false rem false then
+    relax else     leave 
+; if 100and abba * true > not 100* abba () + not 100rem false rem true or true rem not true then
+    relax else     relax 
+end
+
+; call abba () 
+
+end
+
+; get abba 
+
+end

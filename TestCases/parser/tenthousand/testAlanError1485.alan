@@ -1,0 +1,14 @@
+source abba function abba () 
+begin
+    get abba [true rem abba / not false - abba [not 100/ false + true ] rem abba / abba () or 100] 
+
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    boolean array abba , abba ;     get abba 
+
+end

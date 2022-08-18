@@ -1,0 +1,1 @@
+alanc: testAlanError3396.alan:6:39: error: expected 'begin', but found 'leave'

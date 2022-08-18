@@ -1,0 +1,1 @@
+alanc: testAlanError1319.alan:6:3: error: expected statement, but found '['

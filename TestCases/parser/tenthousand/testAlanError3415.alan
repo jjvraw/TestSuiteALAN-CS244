@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+    call abba () 
+; call abba () 
+
+end
+
+begin
+    leave 
+abba () 
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError4833.alan:2:1: error: expected 'source', but found 'begin'

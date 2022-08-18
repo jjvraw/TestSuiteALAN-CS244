@@ -1,0 +1,1 @@
+alanc: testAlanError5692.alan:3:46: error: expected 'do', but found 'relax'

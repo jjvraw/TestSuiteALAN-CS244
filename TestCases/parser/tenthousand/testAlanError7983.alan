@@ -1,0 +1,12 @@
+source abba 
+begin
+    integer array abba ;     abba := array true and false + 100or not 100/ false and false 
+; if -not * abba - false - 100/ not false / not false then
+    put "hello" ."hello" 
+; put "hello" ."hello" ."hello" 
+
+end
+
+; leave 
+
+end

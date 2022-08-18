@@ -1,0 +1,8 @@
+source abba function () to boolean array 
+begin
+    get abba [not abba [-not abba and not 100and false + true and not abba () ] * true ] 
+; leave 
+
+end
+    relax 
+end

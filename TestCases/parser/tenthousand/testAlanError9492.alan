@@ -1,0 +1,15 @@
+source abba function abba (boolean abba , integer array abba ) to boolean array 
+begin
+    put "hello" 
+; abba := array -abba [false * abba ] or false / not not false and not not true + true 
+
+end
+function abba (boolean array abba , integer array abba ) to integer 
+begin
+    boolean abba , abba ;     relax 
+end
+
+begin
+    boolean array abba ;     boolean array abba , abba ;     leave 
+
+end

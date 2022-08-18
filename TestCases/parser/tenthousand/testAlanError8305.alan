@@ -1,0 +1,7 @@
+abba 
+begin
+    integer array abba ;     put "hello" 
+; leave 
+; leave 
+
+end

@@ -1,0 +1,7 @@
+source abba 
+begin
+    leave 
+abba [100* false rem not not not false ] := array true * false and abba [100rem abba abba ] 
+; put "hello" ."hello" 
+
+end

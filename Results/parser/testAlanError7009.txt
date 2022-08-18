@@ -1,0 +1,1 @@
+alanc: testAlanError7009.alan:5:1: error: expected expression or string, but found 'end'

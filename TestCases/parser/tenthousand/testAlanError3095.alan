@@ -1,0 +1,13 @@
+source abba function abba () 
+begin
+    boolean abba ;     put "hello" ."hello" ."hello" 
+; abba := array -false 
+
+end
+
+begin
+    boolean , abba ;     put "hello" 
+; put "hello" ."hello" 
+; get abba [-abba () ] 
+
+end

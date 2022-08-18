@@ -1,0 +1,1 @@
+alanc: testAlanError5147.alan:3:49: error: expected 'then', but found 'true'

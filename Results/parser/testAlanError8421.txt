@@ -1,0 +1,1 @@
+alanc: testAlanError8421.alan:1:13: error: expected 'begin', but found identifier

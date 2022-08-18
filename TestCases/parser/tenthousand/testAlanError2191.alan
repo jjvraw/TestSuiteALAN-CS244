@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array ;     integer abba ;     call abba () 
+; leave 
+
+end

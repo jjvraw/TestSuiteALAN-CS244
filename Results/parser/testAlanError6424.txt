@@ -1,0 +1,1 @@
+alanc: testAlanError6424.alan:3:50: error: expected ';', but found identifier

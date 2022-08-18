@@ -1,0 +1,16 @@
+source abba function abba () 
+begin
+    relax 
+end
+function abba (boolean abba , boolean array ) 
+begin
+    get abba 
+; abba := array 100and abba * abba - 100* true and not not 100+ true rem false and abba ) 
+; put "hello" 
+
+end
+
+begin
+    call abba () 
+
+end

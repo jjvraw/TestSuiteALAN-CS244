@@ -1,0 +1,1 @@
+alanc: testAlanError2661.alan:3:46: error: expected 'do', but found 'not'

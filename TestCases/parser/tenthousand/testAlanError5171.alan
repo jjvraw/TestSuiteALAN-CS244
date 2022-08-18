@@ -1,0 +1,17 @@
+source abba function abba () to boolean array 
+begin
+    get abba [true rem not abba [true * 100+ abba [-true rem not true ] + not false ] + 100100/ not true or abba [-false rem abba () / true ] ] 
+; if not true and 100rem abba or false and true * 100or true then
+    relax 
+end
+
+; leave 
+
+end
+
+begin
+    boolean array , abba , abba ;     abba 
+; call abba () 
+; call () 
+
+end

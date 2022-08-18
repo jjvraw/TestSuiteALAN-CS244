@@ -1,0 +1,1 @@
+alanc: testAlanError2366.alan:3:96: error: expected 'end', but found numeric literal

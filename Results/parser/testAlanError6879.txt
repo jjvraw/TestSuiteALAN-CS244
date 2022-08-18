@@ -1,0 +1,1 @@
+alanc: testAlanError6879.alan:3:13: error: expected factor, but found '/'

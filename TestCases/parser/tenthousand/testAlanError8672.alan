@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    abba [true 100/ 100] := array -abba * false or 100or 100* not not not true 
+; leave 
+; leave 
+
+end

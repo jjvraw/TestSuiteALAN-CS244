@@ -1,0 +1,11 @@
+source abba 
+begin
+    while true <> -not false and 100- false rem not false or not 100and 100do     put "hello" 
+; abba := array -100* 100
+
+end
+
+; leave 
+; put "hello" ."hello" 
+
+end

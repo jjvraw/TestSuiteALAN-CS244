@@ -1,0 +1,25 @@
+source abba function abba () to boolean array 
+begin
+    put "hello" ."hello" 
+end
+function abba () 
+begin
+    call abba () 
+
+end
+
+begin
+    integer abba , abba , abba ;     integer array abba , abba ;     call abba () 
+; if abba () rem true - not not not not 100+ not true then
+    relax else     if -abba () * abba * not true or abba [false / not true or false ] * not not abba () and 100<> -abba / or 100then
+    relax 
+end
+
+
+end
+
+; while -true + 100* true * not true do     relax 
+end
+
+
+end

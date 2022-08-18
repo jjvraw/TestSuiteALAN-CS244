@@ -1,0 +1,14 @@
+source abba function abba (integer array abba ) to boolean 
+begin
+    relax 
+end
+function () to integer 
+begin
+    boolean array abba ;     abba [abba () * 100/ not abba ] 
+; put "hello" ."hello" 
+
+end
+
+begin
+    boolean array abba , abba , abba ;     integer abba , abba , abba ;     relax 
+end

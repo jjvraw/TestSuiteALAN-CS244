@@ -1,0 +1,1 @@
+alanc: testAlanError2187.alan:7:82: error: expected ')', but found 'and'

@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; get abba -abba () / not not true or not 100and abba () and abba [or not abba / not true rem abba or not true and not abba ] 
+
+end

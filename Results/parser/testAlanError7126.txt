@@ -1,0 +1,1 @@
+alanc: testAlanError7126.alan:5:159: error: expected 'then', but found 'if'

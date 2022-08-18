@@ -1,0 +1,1 @@
+alanc: testAlanError4891.alan:3:98: error: expected 'do', but found ']'

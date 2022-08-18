@@ -1,0 +1,9 @@
+source abba 
+begin
+    -abba rem true + 100< -not abba * abba [-false ] / false - not true - abba [-not false + not false rem true / 100] then
+    relax 
+end
+
+; abba [abba [-true and false and not true or true rem abba [-100100rem abba [true ] ] rem not not true or not 100/ not false ] / 100* 100] := true * abba and false or true 
+
+end

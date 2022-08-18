@@ -1,0 +1,1 @@
+alanc: testAlanError1430.alan:5:49: error: expected 'do', but found 'while'

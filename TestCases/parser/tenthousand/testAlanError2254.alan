@@ -1,0 +1,16 @@
+source abba function abba () 
+begin
+    put "hello" ."hello" ."hello" 
+; while -false rem true do     put "hello" ."hello" 
+; call abba (
+; call abba () 
+
+end
+
+; leave 
+
+end
+
+begin
+    relax 
+end

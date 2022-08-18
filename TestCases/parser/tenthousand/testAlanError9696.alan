@@ -1,0 +1,15 @@
+source abba function abba (integer array , boolean array abba ) to boolean array 
+begin
+    get abba 
+
+end
+function abba () 
+begin
+    call abba () 
+; call abba () 
+
+end
+
+begin
+    boolean array abba , , abba ;     boolean array abba ;     
+end

@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    boolean abba ;     relax 
+end
+
+begin
+    while true rem true and not true do     relax 
+end
+
+
+end

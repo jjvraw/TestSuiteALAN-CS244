@@ -1,0 +1,16 @@
+source abba function abba (boolean array abba , boolean abba , boolean array abba ) to array 
+begin
+    integer abba ;     integer abba , abba , abba ;     leave 
+; := array -abba () * not abba * false 
+; put "hello" ."hello" 
+
+end
+function abba () to integer array 
+begin
+    relax 
+end
+
+begin
+    boolean array abba , abba , abba ;     leave 
+
+end

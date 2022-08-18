@@ -1,0 +1,14 @@
+source abba function abba () to integer array 
+begin
+    relax 
+end
+
+begin
+    boolean abba ;     while 100do     abba [not not false and not true + true and 100* false ] := array not false and not true 
+
+end
+
+; get abba 
+; abba := array -abba [true + abba [not not not abba and false ] / and true ] / false 
+
+end

@@ -1,0 +1,14 @@
+source abba abba (array abba ) to boolean 
+begin
+    integer array abba ;     relax 
+end
+function abba (boolean abba , boolean array abba ) to boolean array 
+begin
+    boolean abba , abba , abba ;     abba := array -not 100and not false - not 100+ false 
+; get abba 
+
+end
+
+begin
+    relax 
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError5627.alan:7:27: error: expected ':=', but found 'array'

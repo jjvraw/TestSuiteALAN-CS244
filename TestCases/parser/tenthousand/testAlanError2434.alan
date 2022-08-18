@@ -1,0 +1,22 @@
+source abba function abba () to boolean array 
+begin
+    if false rem not 100< -not not true + false * or not 100/ 100rem true then
+    call abba () 
+; leave 
+
+end
+
+
+end
+abba (integer array abba ) 
+begin
+    boolean array abba , abba ;     call abba () ; leave 
+
+end
+
+begin
+    abba := array -100abba () and not not - false rem 100* abba 
+leave 
+; get abba not not abba [false / abba rem not not true - true / 100* not true ] and abba rem false ] 
+
+end

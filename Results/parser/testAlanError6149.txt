@@ -1,0 +1,1 @@
+alanc: testAlanError6149.alan:3:38: error: expected identifier, but found ','

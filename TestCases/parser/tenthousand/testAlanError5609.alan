@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := array abba rem + true * false * 100
+
+end

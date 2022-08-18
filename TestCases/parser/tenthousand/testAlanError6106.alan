@@ -1,0 +1,11 @@
+source function abba (integer abba , integer abba ) 
+begin
+    boolean array abba , abba , abba ;     relax 
+end
+
+begin
+    integer abba , abba , abba ;     call abba () 
+put "hello" 
+; abba := array 100* false * false - false * 100
+
+end

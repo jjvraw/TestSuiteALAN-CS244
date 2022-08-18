@@ -1,0 +1,9 @@
+source abba function abba (integer abba , integer abba , boolean abba ) 
+begin
+relax 
+end
+
+begin
+    abba := array true not 100/ false / or 100
+
+end

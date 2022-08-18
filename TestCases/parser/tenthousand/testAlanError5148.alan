@@ -1,0 +1,17 @@
+source abba function abba () to boolean array 
+begin
+    call abba () 
+; get abba [-not not not false ] 
+
+end
+function abba () to boolean array 
+begin
+    call abba () 
+; call abba () 
+
+end
+
+begin
+    get abba 
+
+end

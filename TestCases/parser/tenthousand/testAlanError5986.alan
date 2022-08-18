@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer abba ;     put "hello" ."hello" 
+; abba := array -abba + false and not false and - true / true * abba () 
+; call abba () 
+
+end

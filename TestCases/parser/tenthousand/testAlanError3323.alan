@@ -1,0 +1,14 @@
+source abba function abba () to integer 
+begin
+    integer abba ;     leave 
+; call abba () 
+; leave 
+
+end
+
+begin
+    integer array abba , abba , ;     boolean array abba ;     abba := array not true / false or not true * false + not not true 
+; put "hello" ."hello" ."hello" 
+; abba () 
+
+end

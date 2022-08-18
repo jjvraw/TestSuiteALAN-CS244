@@ -1,0 +1,1 @@
+alanc: testAlanError2202.alan:12:24: error: expected identifier, but found 'integer'

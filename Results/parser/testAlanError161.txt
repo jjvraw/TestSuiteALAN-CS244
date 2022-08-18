@@ -1,0 +1,1 @@
+alanc: testAlanError161.alan:5:33: error: expected 'begin', but found '-'

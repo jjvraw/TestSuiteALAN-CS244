@@ -1,0 +1,11 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; while -not abba [not true and not false + not abba () * true or not not true / abba () ] and false or not not true / false * 100- not not not not false do     call abba () 
+get abba [-not false and not false or not false / not 100abba (and true ] 
+
+end
+
+; abba [abba [-true / true or true / not not abba [not true + true rem not abba ] rem abba ] and not not abba () + () or abba ] := array -not not 100/ not abba + not or abba * not abba () and abba () 
+
+end

@@ -1,0 +1,14 @@
+source abba function (integer array , integer abba , boolean array abba ) to boolean 
+begin
+    abba [abba - true ] := array -true or true + false 
+
+end
+function abba (integer ) 
+begin
+    put "hello" 
+
+end
+
+begin
+    integer array abba , abba , abba     boolean abba , abba ;     relax 
+end

@@ -1,0 +1,15 @@
+source abba () 
+begin
+    relax 
+end
+
+begin
+    integer array abba ;     put "hello" ."hello" ."hello" 
+; leave 
+; if -true or abba () / true / true <> false and not not not true + not 100/ 100then
+    abba := -false + false and false 
+; abba := array -false or or false 
+; leave 
+else     relax 
+end
+

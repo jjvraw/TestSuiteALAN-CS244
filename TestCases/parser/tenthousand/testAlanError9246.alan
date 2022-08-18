@@ -1,0 +1,8 @@
+source abba 
+begin
+    integer abba ;     if not abba * 100+ false - abba / true then
+    relax 
+end
+
+
+end

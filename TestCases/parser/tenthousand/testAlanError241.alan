@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer abba ;     boolean abba ;     get abba [not false - true or 100] 
+; put "hello" ."hello" "hello" 
+; call abba () 
+
+end

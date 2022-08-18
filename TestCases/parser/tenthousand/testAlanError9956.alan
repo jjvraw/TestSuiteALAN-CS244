@@ -1,0 +1,11 @@
+source abba function abba (integer abba , integer array abba ) 
+begin
+    put ."hello" 
+; get abba 
+; abba := array not not 100rem not 100or false rem true 
+
+end
+
+begin
+    integer array abba , abba ;     relax 
+end

@@ -1,0 +1,14 @@
+source abba function abba (boolean abba , integer abba , integer array abba ) 
+begin
+    put "hello" 
+abba [-abba * false and abba [-true and not 100/ false ] ] := array -true * false / false 
+; leave 
+
+end
+
+begin
+abba , abba ;     call abba () 
+; get abba [true or true not not abba [false * abba - false * not abba ] and 100] 
+; call abba () 
+
+end

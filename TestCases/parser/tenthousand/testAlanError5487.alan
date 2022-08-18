@@ -1,0 +1,14 @@
+source abba 
+begin
+    call abba () 
+; while -not not not 100* abba * not false - false / 100do     put "hello" ."hello" 
+
+end
+
+; if abba < abba [-abba [-not true - not not false * 100or true and abba -abba () ] ] + true + not true * not 100] then
+    get abba [true and 100or not not not 100- not 100/ abba [-false - not abba ] ] 
+
+end
+
+
+end

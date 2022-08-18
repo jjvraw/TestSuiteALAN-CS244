@@ -1,0 +1,1 @@
+alanc: testAlanError5145.alan:1:51: error: expected 'begin', but found 'while'

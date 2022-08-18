@@ -1,0 +1,1 @@
+alanc: testAlanError8797.alan:8:1: error: expected statement, but found 'end'

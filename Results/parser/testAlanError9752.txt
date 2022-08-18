@@ -1,0 +1,1 @@
+alanc: testAlanError9752.alan:12:13: error: expected 'then', but found 'not'

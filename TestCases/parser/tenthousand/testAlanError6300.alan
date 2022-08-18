@@ -1,0 +1,21 @@
+source abba function abba () 
+begin
+    put "hello" 
+; if abba or not 100<> -false * abba [not false / not not 100or abba [-not abba () and 100+ 100and false * not false ] and false and not false + abba () ] not abba or false - not abba then
+    relax 
+end
+
+; -not 100+ false rem false - false and 100<> -false + true / not true do     relax 
+end
+
+
+end
+function abba (boolean array abba , integer array abba , boolean abba ) 
+begin
+    call abba () 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

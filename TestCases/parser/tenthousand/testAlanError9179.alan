@@ -1,0 +1,20 @@
+source abba function abba (integer array abba , boolean array abba , integer abba ) to integer 
+begin
+    integer abba , abba ;     boolean array abba , abba ;     get abba 
+; get abba [false / false ] 
+; get abba [abba - true / not abba / true ] 
+
+end
+function abba (integer array abba , integer abba ) to boolean array 
+begin
+integer array abba ;     get [not not true rem not not true or true / true ] 
+; call abba () 
+; get abba 
+end
+
+begin
+    boolean abba , abba ;     array abba ,     put "hello" ."hello" 
+; abba := array not true rem false or abba 
+; get abba 
+
+end

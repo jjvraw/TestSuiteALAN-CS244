@@ -1,0 +1,14 @@
+source abba 
+begin
+    if abba - false 100<> -true then
+    leave 
+; while -not not true or true / abba () - true >= abba and abba / not false do     relax 
+end
+
+
+end
+
+; abba := array true * not true + not false / not false or 100rem not not 100/ 100
+; put "hello" ."hello" ."hello" 
+
+end

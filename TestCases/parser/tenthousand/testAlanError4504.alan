@@ -1,0 +1,17 @@
+source abba function abba (boolean array abba , integer abba ) 
+begin
+    relax 
+end
+function abba (integer array abba ) 
+begin
+    if -100- false * abba [-not true * 100false rem abba * 100] or 100and true then
+    relax 
+end
+
+; call abba () 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

@@ -1,0 +1,8 @@
+source abba function abba () 
+begin
+    put "hello" 
+call abba () 
+
+begin
+    relax 
+end

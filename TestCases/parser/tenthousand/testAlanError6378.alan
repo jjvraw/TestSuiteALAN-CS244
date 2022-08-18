@@ -1,0 +1,18 @@
+source abba function abba () 
+begin
+    call abba () 
+
+end
+function abba () to 
+begin
+    boolean abba , , abba ;     integer abba , abba ;     relax 
+end
+
+begin
+    if true rem 100rem not abba or true * 100then
+    relax 
+end
+
+; leave 
+
+end

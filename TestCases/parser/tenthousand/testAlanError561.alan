@@ -1,0 +1,13 @@
+source abba function (integer array abba , integer array ) to integer array 
+begin
+integer abba ;     relax 
+end
+
+begin
+    while not 100<> not false / abba [-false ] / true do     get abba 
+; put "hello" ."hello" 
+
+end
+
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError8307.alan:1:49: error: expected type, but found ','

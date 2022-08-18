@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    leave 
+; abba [-true rem not true rem not not or true / abba () rem not not not abba [-true + not true ] or abba rem 100and true ] := array 100* not not not true rem not true 
+; put "hello" ."hello" 
+
+end

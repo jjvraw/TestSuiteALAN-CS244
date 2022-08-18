@@ -1,0 +1,9 @@
+source abba function () 
+begin
+    relax 
+end
+
+begin
+    abba := array 100and 100/ 100or false and 100
+
+end

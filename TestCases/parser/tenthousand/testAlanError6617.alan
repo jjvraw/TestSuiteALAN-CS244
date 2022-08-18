@@ -1,0 +1,10 @@
+source abba abba () 
+begin
+    "hello" ."hello" 
+; call abba () 
+
+end
+
+begin
+    boolean abba , abba ;     relax 
+end

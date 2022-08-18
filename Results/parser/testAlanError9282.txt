@@ -1,0 +1,1 @@
+alanc: testAlanError9282.alan:2:1: error: expected type, but found 'begin'

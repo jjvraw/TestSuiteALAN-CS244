@@ -1,0 +1,1 @@
+alanc: testAlanError2843.alan:8:24: error: expected 'end', but found string literal

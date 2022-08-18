@@ -1,0 +1,5 @@
+source abba 
+begin
+    boolean abba ;     abba [not 100* false and not not true or 100/ not abba * false ] := array -100and not not 100
+
+end

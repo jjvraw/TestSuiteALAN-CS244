@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := array not not not 100- false * not abba () 
+
+end

@@ -1,0 +1,10 @@
+source 
+begin
+    if not 100rem true <> -100rem 100* true + true and not 100/ false then
+    relax else     relax 
+end
+
+; call abba () 
+; leave 
+
+end

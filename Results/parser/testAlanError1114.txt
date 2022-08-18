@@ -1,0 +1,1 @@
+alanc: testAlanError1114.alan:3:130: error: expected factor, but found 'and'

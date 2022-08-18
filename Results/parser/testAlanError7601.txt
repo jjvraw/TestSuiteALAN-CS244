@@ -1,0 +1,1 @@
+alanc: testAlanError7601.alan:1:34: error: expected 'begin', but found 'relax'

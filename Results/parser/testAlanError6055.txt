@@ -1,0 +1,1 @@
+alanc: testAlanError6055.alan:3:42: error: expected ';', but found 'relax'

@@ -1,0 +1,14 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    while -not false * not false / 100- true and 100or true do     abba := array -true / abba * not abba () 
+; call abba () 
+; call abba () 
+end
+
+; abba := array -not not false 
+
+end

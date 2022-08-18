@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba [true / true * not true ] := array -not true rem not 100
+; get abba 
+; "hello" ."hello" ."hello" 

@@ -1,0 +1,6 @@
+source abba 
+begin
+    put "hello" ."hello" ."hello" 
+; get abba [-not not not abba () / not not false * 100or not not true rem true * true ] 
+
+end

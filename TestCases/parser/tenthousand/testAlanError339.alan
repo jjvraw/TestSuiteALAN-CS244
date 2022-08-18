@@ -1,0 +1,18 @@
+source abba function () to boolean array 
+begin
+    call abba () 
+
+end
+function abba () 
+begin
+    if -abba () false then
+    relax 
+end
+
+; leave 
+
+end
+
+begin
+    relax 
+end

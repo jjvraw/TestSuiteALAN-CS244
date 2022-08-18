@@ -1,0 +1,16 @@
+source abba function abba (integer abba , boolean array abba , integer array abba ) 
+begin
+    integer array abba     put "hello" ."hello" 
+; leave 
+
+end
+
+begin
+    if 100* abba * false or 100rem not abba then
+    relax else     abba := array -abba 
+; leave 
+; put "hello" ."hello" ."hello" 
+
+; leave 
+
+end

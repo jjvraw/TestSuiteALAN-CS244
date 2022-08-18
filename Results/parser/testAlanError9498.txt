@@ -1,0 +1,1 @@
+alanc: testAlanError9498.alan:6:1: error: expected identifier, but found 'end'

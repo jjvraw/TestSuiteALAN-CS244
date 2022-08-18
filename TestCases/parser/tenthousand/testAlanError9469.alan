@@ -1,0 +1,5 @@
+source abba 
+begin
+    abba := array -100* abba () * 100- false and not false or not not false 
+
+end

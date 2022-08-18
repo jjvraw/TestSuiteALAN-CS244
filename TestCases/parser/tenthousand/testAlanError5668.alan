@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+relax 
+end
+
+begin
+    call abba () 
+; while 100or abba * 100or not abba / not abba / not not abba do     relax 
+end
+
+
+end

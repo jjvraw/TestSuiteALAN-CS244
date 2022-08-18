@@ -1,0 +1,10 @@
+source abba function abba ) 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; abba [100rem false + not not abba / false or not abba [not true + not not false / false rem not not 100+ not abba (rem 100] ] := not true and 100and not not false 
+
+end

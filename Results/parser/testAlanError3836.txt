@@ -1,0 +1,1 @@
+alanc: testAlanError3836.alan:5:1: error: expected factor, but found 'end'

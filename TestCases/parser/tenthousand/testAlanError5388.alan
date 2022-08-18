@@ -1,0 +1,11 @@
+source abba function abba ) 
+begin
+    put "hello" ."hello" 
+; put "hello" ."hello" 
+
+end
+
+begin
+    abba := array 100100- false and abba and false 
+
+end

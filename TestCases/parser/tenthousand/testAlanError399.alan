@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean abba , abba , abba ; leave 
+; get abba [-not true ] 
+; get abba -- not true or not not ] 
+
+end

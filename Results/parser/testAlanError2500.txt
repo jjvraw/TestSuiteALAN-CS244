@@ -1,0 +1,1 @@
+alanc: testAlanError2500.alan:3:29: error: expected statement, but found end-of-file

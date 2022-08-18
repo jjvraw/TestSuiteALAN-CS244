@@ -1,0 +1,4 @@
+source abba 
+begin
+    abba := array -100and abba 
+end

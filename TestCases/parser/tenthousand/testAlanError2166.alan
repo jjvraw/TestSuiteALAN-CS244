@@ -1,0 +1,12 @@
+source abba function abba () to integer 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" 
+; while not false * not not not not not true or not not abba and not false < not false and 100do     
+end
+
+
+end

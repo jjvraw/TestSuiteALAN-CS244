@@ -1,0 +1,8 @@
+source abba 
+begin
+    abba [not not false / true or true * not abba + false * true / false ] := array -not true and false + not not 100- false * false rem not not abba 
+; while not not false rem abba rem not true < -not not not true do relax 
+end
+
+
+end

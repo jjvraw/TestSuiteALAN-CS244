@@ -1,0 +1,1 @@
+alanc: testAlanError5212.alan:7:29: error: expected ';', but found 'call'

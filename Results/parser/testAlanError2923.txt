@@ -1,0 +1,1 @@
+alanc: testAlanError2923.alan:11:18: error: expected 'begin', but found 'boolean'

@@ -1,0 +1,8 @@
+source abba 
+begin
+    while -abba () rem 100abba do     relax 
+end
+
+; get abba [-* 100] 
+
+end

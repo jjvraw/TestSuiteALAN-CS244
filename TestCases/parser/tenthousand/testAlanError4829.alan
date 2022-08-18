@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    put "hello" ."hello" ."hello" 
+; get abba [false rem 100or false ] 
+
+end
+
+begin
+    integer array abba ;     integer abba ;     leave 
+
+end

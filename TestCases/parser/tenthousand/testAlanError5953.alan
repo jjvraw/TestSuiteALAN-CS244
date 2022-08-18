@@ -1,0 +1,6 @@
+source abba 
+begin
+    put "hello" ."hello" 
+; get abba [-true * 100and not not not true - true rem true * true ] 
+; abba := array true 
+end

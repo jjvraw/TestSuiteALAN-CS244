@@ -1,0 +1,11 @@
+source abba 
+begin
+    if not 100and true - false = true + false rem 100rem true + not abba [-false * abba false - false and 100/ false ] rem true rem then
+    relax else     put "hello" ."hello" 
+; leave 
+; abba := array abba () rem abba () 
+
+end
+
+
+end

@@ -1,0 +1,14 @@
+source abba function abba (boolean array abba , boolean abba ) to integer array 
+begin
+    relax 
+end
+function abba (boolean array abba , integer abba , integer abba ) 
+begin
+    relax 
+end
+
+begin
+    put "hello" ."hello" 
+; get abba [true and 100rem not 100- false ] 
+
+end

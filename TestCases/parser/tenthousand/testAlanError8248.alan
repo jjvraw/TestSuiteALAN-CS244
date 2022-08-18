@@ -1,0 +1,16 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    put "hello" 
+; array 100and false + not 100+ not false rem not false and abba () 
+; if -100/ 100and not abba () + false / true and not false or 100rem true >= not true then
+    leave 
+; leave 
+
+end
+
+
+end

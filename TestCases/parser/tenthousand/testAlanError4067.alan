@@ -1,0 +1,11 @@
+source abba abba () 
+begin
+    get 
+; abba := array abba () + not abba () and abba 
+; get abba [-true + 100/ not not 100/ 100- false * not not not true and false ] 
+
+end
+
+begin
+    relax 
+end

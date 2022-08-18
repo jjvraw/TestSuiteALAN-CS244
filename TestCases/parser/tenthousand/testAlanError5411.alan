@@ -1,0 +1,23 @@
+source abba function abba () to integer array 
+begin
+    integer array abba , abba , abba ;     integer abba ;     abba := array true or abba 
+; put "hello" 
+; call abba () 
+
+end
+function abba (boolean array abba , boolean array abba , boolean abba ) to integer array 
+begin
+    relax 
+end
+
+begin
+    integer abba , abba , abba ;     boolean array abba ;     put "hello" ."hello" 
+; if -false and not 100+ 100rem 100- false * 100rem 100then
+    call abba () 
+; leave 
+else     relax 
+end
+
+; leave 
+
+end

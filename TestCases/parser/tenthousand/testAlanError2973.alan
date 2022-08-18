@@ -1,0 +1,7 @@
+source abba function abba () to boolean array 
+begin
+    abba := array true * not not false rem - 100- true / true * false 
+
+begin
+    integer array abba , ;     relax 
+end

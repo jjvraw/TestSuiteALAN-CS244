@@ -1,0 +1,1 @@
+alanc: testAlanError8662.alan:3:5: error: expected statement, but found 'array'

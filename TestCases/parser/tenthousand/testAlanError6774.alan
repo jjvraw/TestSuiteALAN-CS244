@@ -1,0 +1,19 @@
+source abba function abba () to boolean 
+begin
+    boolean array abba ;     if 100then
+leave 
+
+end
+
+
+end
+function abba () to boolean 
+begin
+    call abba () 
+; get abba 
+
+end
+
+begin
+    relax 
+end

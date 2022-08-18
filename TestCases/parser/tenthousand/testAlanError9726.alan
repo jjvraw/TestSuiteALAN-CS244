@@ -1,0 +1,5 @@
+source abba 
+begin
+    integer array abba ;     abba := array false 
+
+end

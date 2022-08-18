@@ -1,0 +1,9 @@
+source abba function abba () to integer 
+begin
+    get abba 
+; put "hello" ."hello" ."hello" 
+
+end
+    call abba () 
+
+end

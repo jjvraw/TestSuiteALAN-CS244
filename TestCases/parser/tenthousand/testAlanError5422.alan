@@ -1,0 +1,9 @@
+source abba function abba () 
+begin
+    boolean abba ;     put "hello" 
+
+end
+
+begin
+    boolean array abba , abba ;     relax 
+end

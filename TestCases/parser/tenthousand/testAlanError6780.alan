@@ -1,0 +1,11 @@
+source abba 
+begin
+    get abba 
+; while not false + not abba do     relax 
+end
+
+; while 100- abba or not not false / not 100do     relax 
+end
+
+
+end

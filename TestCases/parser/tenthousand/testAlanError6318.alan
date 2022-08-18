@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array abba , abba ;     put "hello" 
+get abba [not not true or not 100/ true ] 
+
+end

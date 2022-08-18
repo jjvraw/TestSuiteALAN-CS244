@@ -1,0 +1,1 @@
+alanc: testAlanError9366.alan:5:16: error: expected ')', but found 'rem'

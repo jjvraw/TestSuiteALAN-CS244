@@ -1,0 +1,13 @@
+source abba function abba () to boolean array 
+begin
+    integer abba ;     relax 
+end
+
+begin
+    if -100* false then
+relax else     leave 
+
+end
+
+
+end

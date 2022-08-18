@@ -1,0 +1,16 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+function abba () to boolean 
+begin
+    while -100/ false * not not not not abba () or not 100* true >= -abba + not not abba () do     relax 
+end
+
+
+end
+
+begin
+    put "hello" ."hello" 
+
+end

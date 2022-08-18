@@ -1,0 +1,19 @@
+source abba function () to boolean 
+begin
+    boolean array abba ; integer array abba , abba ;     relax 
+end
+abba (boolean array abba ) to boolean 
+begin
+    boolean array abba , abba ;     boolean array abba , abba ; relax 
+end
+
+begin
+    integer array abba ;     boolean array abba ;     if not not abba rem abba then
+    leave 
+; call abba () 
+; get abba 
+else     relax 
+end
+
+
+end

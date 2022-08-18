@@ -1,0 +1,1 @@
+alanc: testAlanError4877.alan:5:52: error: expected type, but found identifier

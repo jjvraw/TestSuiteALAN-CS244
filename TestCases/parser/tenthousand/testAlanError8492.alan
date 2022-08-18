@@ -1,0 +1,16 @@
+source abba function abba ()     if not false / false then
+    relax else     abba [not false / not true or true and not false / not abba ] := array true rem not false or false * abba 
+; leave 
+; leave 
+
+end
+
+; leave 
+
+end
+function abba (abba , integer array abba , integer array abba ) to integer array 
+begin
+    relax 
+begin
+    integer abba ;     integer array abba , abba ;     relax 
+end

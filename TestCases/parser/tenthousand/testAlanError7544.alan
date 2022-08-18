@@ -1,0 +1,12 @@
+source function abba (boolean array abba , integer array abba , boolean abba ) 
+begin
+    boolean abba ;     put "hello" ."hello" ."hello" 
+; get abba 
+
+end
+
+begin
+    abba [-false / not true ] := array -false 
+; 
+
+end

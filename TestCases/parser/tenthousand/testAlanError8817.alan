@@ -1,0 +1,11 @@
+source abba function abba () to 
+begin
+    get abba [true * abba - not not abba ] 
+
+end
+
+begin
+    leave 
+; leave 
+
+end

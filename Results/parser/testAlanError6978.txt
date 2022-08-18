@@ -1,0 +1,1 @@
+alanc: testAlanError6978.alan:7:15: error: expected '(', but found ')'

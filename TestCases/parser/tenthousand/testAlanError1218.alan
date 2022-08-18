@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+    relax 
+end
+
+begin
+    get abba 
+; while -abba () rem not 100< -false and 100or true do     relax 
+end
+
+
+end

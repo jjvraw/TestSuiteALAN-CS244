@@ -1,0 +1,10 @@
+source abba function abba (boolean array abba , boolean abba ) to integer array 
+begin
+    abba := array -100
+; leave 
+
+end
+
+begin
+    integer array abba ;     relax 
+end

@@ -1,0 +1,10 @@
+source abba 
+begin
+    boolean array abba ;     if -abba [and false or not abba [false rem false + true / 100and 100- not abba / 100] rem true ] = false - [abba () rem 100or 100/ not not 100* not false + true rem false ] rem 100then
+    relax 
+end
+
+; put "hello" 
+; get abba [not true rem not 100rem 100] 
+
+end

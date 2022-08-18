@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba ;     boolean array abba , abba , abba ;     leave 
+; put "hello" 
+
+end

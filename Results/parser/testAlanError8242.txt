@@ -1,0 +1,1 @@
+alanc: testAlanError8242.alan:3:10: error: expected ':=', but found ','

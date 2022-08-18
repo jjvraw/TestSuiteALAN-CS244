@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    boolean abba ;     boolean abba ;     relax 
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; put "hello" ."hello" ."hello" 
+
+end

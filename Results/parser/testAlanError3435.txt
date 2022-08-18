@@ -1,0 +1,1 @@
+alanc: testAlanError3435.alan:3:81: error: expected factor, but found ']'

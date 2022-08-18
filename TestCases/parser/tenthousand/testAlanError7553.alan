@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean array abba ;     boolean abba , abba ;     leave 
+; call abba () 
+; leave 
+
+end

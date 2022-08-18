@@ -1,0 +1,16 @@
+source abba function abba () to boolean array 
+begin
+    boolean array abba ;     relax 
+end
+function abba (integer array abba ) to integer 
+begin
+    call abba () 
+leave 
+
+end
+
+begin
+    integer abba , abba , abba ;     while true / not abba (and 100- false or not false rem false * not not true do     relax 
+; get abba 
+
+end

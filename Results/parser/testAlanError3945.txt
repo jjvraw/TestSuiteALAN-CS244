@@ -1,0 +1,1 @@
+alanc: testAlanError3945.alan:8:68: error: expected ']', but found ':='

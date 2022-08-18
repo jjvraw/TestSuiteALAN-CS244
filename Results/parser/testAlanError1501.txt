@@ -1,0 +1,1 @@
+alanc: testAlanError1501.alan:4:94: error: expected 'then', but found 'call'

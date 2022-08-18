@@ -1,0 +1,15 @@
+source abba function abba () to boolean 
+begin
+    boolean abba ;     abba [-100rem 100+ 100not true / abba ] := array not false / abba + true 
+; put "hello" 
+
+end
+
+begin
+    put "hello" 
+; leave 
+; if not not not not false and rem false + not abba and 100/ true - not 100* not not 100rem not false then
+    leave 
+
+
+end

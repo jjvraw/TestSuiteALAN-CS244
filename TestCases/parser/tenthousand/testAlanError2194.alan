@@ -1,0 +1,13 @@
+source abba function abba () to integer array 
+begin
+    while 100and not not 100/ true - 100/ not true * true or do     relax 
+end
+
+; abba := array abba - 100and abba () and not not true 
+
+end
+
+begin
+leave 
+; call abba () 
+end

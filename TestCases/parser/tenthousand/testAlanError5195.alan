@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean abba ;     integer abba ;     put "hello" ."hello" ."hello" 
+; leave 
+; call abba () 
+
+end

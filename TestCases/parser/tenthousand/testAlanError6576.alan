@@ -1,0 +1,10 @@
+source abba function abba () to boolean 
+begin
+    call abba () 
+; abba := array 100/ false 
+
+end
+
+begin
+    boolean array abba , abba ;     
+end

@@ -1,0 +1,13 @@
+source abba function abba () to boolean array 
+begin
+    leave 
+; put "hello" ."hello" 
+; while 100rem 100+ 100or abba / not true = -100true + not false / not abba [100+ true / false and abba () ] and false + true / abba and not false do     relax 
+end
+
+
+end
+
+begin
+    relax 
+end

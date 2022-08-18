@@ -1,0 +1,16 @@
+source abba function abba () to integer 
+begin
+    get abba ; get abba [-not abba * true ] 
+; get abba 
+
+end
+function abba () integer 
+begin
+    integer array abba ;     relax 
+end
+
+begin
+    boolean array abba , abba ;     integer array abba , abba ;     leave 
+; leave 
+
+end

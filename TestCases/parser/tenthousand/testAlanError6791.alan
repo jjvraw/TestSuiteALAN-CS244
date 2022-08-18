@@ -1,0 +1,12 @@
+source abba function abba () 
+begin
+    if rem abba [not false / not not 100] - abba [-false or true and true * 100] then
+    relax else     relax 
+end
+
+
+end
+
+begin
+    relax 
+end

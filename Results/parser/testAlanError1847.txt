@@ -1,0 +1,1 @@
+alanc: testAlanError1847.alan:7:95: error: expected factor, but found 'rem'

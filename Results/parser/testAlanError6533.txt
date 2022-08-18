@@ -1,0 +1,1 @@
+alanc: testAlanError6533.alan:3:91: error: expected 'then', but found numeric literal

@@ -1,0 +1,7 @@
+source abba 
+begin
+    boolean array abba ;     abba := array -true / true * true 
+; get abba [-false ] 
+; call abba () 
+
+end

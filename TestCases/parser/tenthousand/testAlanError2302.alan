@@ -1,0 +1,11 @@
+abba abba () to integer array 
+begin
+    call abba () 
+
+end
+function abba () to integer     relax 
+end
+
+begin
+    integer array abba ;     put "hello" 
+end

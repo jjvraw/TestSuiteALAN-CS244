@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+    boolean array abba ;     relax 
+end
+
+begin
+    boolean array abba , abba ;     abba := array false rem not not not abba () * abba 
+; get abba [-true ] 
+; leave 
+
+end

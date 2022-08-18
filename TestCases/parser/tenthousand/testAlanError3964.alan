@@ -1,0 +1,15 @@
+source abba function (boolean array abba ) 
+begin
+    get abba [100] 
+; get abba 
+; leave 
+
+end
+function abba (integer abba ) 
+begin
+    relax 
+end
+
+begin
+    integer abba , abba ;     integer array abba ;     relax 
+end

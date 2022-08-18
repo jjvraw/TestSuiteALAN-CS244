@@ -1,0 +1,1 @@
+alanc: testAlanError1612.alan:5:57: error: expected 'end', but found ':='

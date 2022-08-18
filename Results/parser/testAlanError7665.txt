@@ -1,0 +1,1 @@
+alanc: testAlanError7665.alan:1:12: error: expected identifier, but found 'boolean'

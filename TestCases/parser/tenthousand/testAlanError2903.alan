@@ -1,0 +1,7 @@
+source abba 
+begin
+    leave 
+; abba array true * abba - 100
+; get abba 
+
+end

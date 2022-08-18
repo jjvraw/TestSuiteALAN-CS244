@@ -1,0 +1,15 @@
+source abba function abba (boolean abba , integer array abba , boolean array ) to integer 
+begin
+    put "hello" ."hello" ."hello" 
+; get abba 
+; get abba [false * abba or not false * 100/ ] 
+
+end
+function abba (integer , boolean array abba , boolean array abba ) to integer array 
+begin
+    relax 
+end
+
+begin
+    boolean array abba ;     relax 
+end

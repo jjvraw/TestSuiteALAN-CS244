@@ -1,0 +1,21 @@
+source abba function abba () 
+begin
+    call abba () 
+
+end
+function abba () 
+begin
+abba [-not false and not abba ] := array -false + not abba [-abba () * not abba and true + abba / false * abba () - not abba rem true ] rem not not false / not not true 
+; -not abba or not not 100+ true / not not abba -not not 100rem not not false abba () * true / not 100] then
+    relax else     relax 
+end
+
+
+end
+
+begin
+    put "hello" ."hello" ."hello" 
+; leave 
+; call abba () 
+
+end

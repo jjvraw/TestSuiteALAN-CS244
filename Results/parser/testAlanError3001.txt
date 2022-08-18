@@ -1,0 +1,1 @@
+alanc: testAlanError3001.alan:7:29: error: expected ';', but found 'while'

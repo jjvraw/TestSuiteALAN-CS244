@@ -1,0 +1,11 @@
+abba 
+begin
+    put "hello" ."hello" 
+; while -100* abba () rem not abba [-not abba [true rem 100* false + not not not true + false / 100] rem not false rem not abba () ] do put "hello" 
+; abba := array 100100or false * true 
+; leave 
+
+end
+
+
+end

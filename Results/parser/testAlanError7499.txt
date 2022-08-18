@@ -1,0 +1,1 @@
+alanc: testAlanError7499.alan:5:79: error: expected ']', but found 'not'

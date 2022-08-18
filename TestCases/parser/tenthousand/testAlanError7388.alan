@@ -1,0 +1,17 @@
+source abba function abba () 
+begin
+    put "hello" 
+; leave 
+; if false then
+    get abba [-abba / abba (] 
+; leave 
+else     get abba 
+
+end
+
+
+end
+
+begin
+    boolean abba , abba , abba ; boolean array abba , abba , abba ;     relax 
+end

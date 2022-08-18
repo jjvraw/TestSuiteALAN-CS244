@@ -1,0 +1,7 @@
+source abba 
+begin
+boolean array abba ;     get abba [-false / abba 
+; abba := array not abba 
+; leave 
+
+end

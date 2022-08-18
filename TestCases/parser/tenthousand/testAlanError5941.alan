@@ -1,0 +1,14 @@
+source abba function abba (integer array abba ) to integer 
+begin
+    boolean abba , abba ;     relax 
+end
+function abba () to integer 
+begin
+    boolean abba , abba ;     leave 
+; call abba (
+
+end
+
+begin
+    integer abba ;     boolean abba , abba , abba ;     relax 
+end

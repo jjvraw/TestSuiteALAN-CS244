@@ -1,0 +1,1 @@
+alanc: testAlanError149.alan:6:5: error: expected 'begin', but found 'array'

@@ -1,0 +1,17 @@
+source abba (boolean array abba , integer array abba ) to integer array 
+begin
+    integer abba , abba ;     integer array abba , abba , abba ;     relax 
+end
+function abba (boolean abba , integer array abba ) 
+begin
+    boolean abba ;     relax 
+end
+
+begin
+    if abba [-abba / not false - true ] * false and 100or true * not true or abba [not not abba or false ] rem not not false < -100rem true then
+    get abba 
+
+end
+
+
+end

@@ -1,0 +1,13 @@
+source abba function abba () 
+begin
+    relax 
+end
+function abba () 
+begin
+    relax 
+end
+
+begin
+    boolean abba ,     abba := array -false rem not false or not 100or not not 100rem 100
+
+end

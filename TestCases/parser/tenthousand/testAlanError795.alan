@@ -1,0 +1,6 @@
+source abba 
+begin
+    abba := array true rem false rem not false 
+; abba [-abba [false ] - false and abba or not not abba [true and false * true + 100/ true and false or true ] rem false ] := array false / abba () 
+
+end

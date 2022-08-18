@@ -1,0 +1,1 @@
+alanc: testAlanError2696.alan:3:39: error: expected 'do', but found ')'

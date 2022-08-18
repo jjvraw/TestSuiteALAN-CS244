@@ -1,0 +1,12 @@
+source abba 
+begin
+    integer array abba ;     get abba [-true or true and / not not false ] 
+; if not true or abba () rem false + true rem abba () then
+    leave 
+; call abba () 
+
+end
+
+; get abba 
+
+end

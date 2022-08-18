@@ -1,0 +1,1 @@
+alanc: testAlanError2141.alan:1:8: error: expected identifier, but found 'function'

@@ -1,0 +1,13 @@
+source abba function abba () to boolean 
+begin
+    abba [-100and abba () and not true ] array -not true rem false + abba [true and 100rem 100] / true + true 
+; if -100and true + false and false then
+    relax else     relax 
+end
+
+
+end
+
+begin
+    boolean abba , abba , abba ;     boolean abba , abba ;     relax 
+end

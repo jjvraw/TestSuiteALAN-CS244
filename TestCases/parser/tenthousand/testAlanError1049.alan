@@ -1,0 +1,10 @@
+source abba function () to boolean array 
+begin
+    leave 
+; abba [-true * not not true rem true ] := array -not abba 
+
+end
+
+begin
+    integer , abba ; integer array abba , abba , abba ;     relax 
+end

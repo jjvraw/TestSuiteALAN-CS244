@@ -1,0 +1,6 @@
+source abba 
+begin
+    while -true <> -not 100do put "hello" ."hello" ."hello" 
+; abba [not true ] array abba () rem not false * not abba + not 100rem true rem false + abba [-abba / not 100/ not abba - 100* abba - false rem true rem false ] / abba [-100- not abba and true or not not false / true / not false ] abba 
+
+end

@@ -1,0 +1,11 @@
+source abba function abba (boolean abba , integer abba , integer abba ) to 
+begin
+    relax 
+end
+
+begin
+    while not 100and not true rem 100- true + false do     relax 
+end
+
+
+end

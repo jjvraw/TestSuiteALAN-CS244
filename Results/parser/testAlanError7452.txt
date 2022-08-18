@@ -1,0 +1,1 @@
+alanc: testAlanError7452.alan:4:217: error: expected ']', but found 'then'

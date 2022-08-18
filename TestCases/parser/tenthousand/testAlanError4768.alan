@@ -1,0 +1,8 @@
+source abba function abba () 
+begin
+    relax 
+end
+    put "hello" ."hello" 
+; abba [-false / false * not not false ] := array -not false / not not 100or not not abba 
+
+end

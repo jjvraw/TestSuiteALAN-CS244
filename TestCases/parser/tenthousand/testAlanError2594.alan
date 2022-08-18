@@ -1,0 +1,10 @@
+source abba function abba (integer array abba , boolean abba , integer array abba ) to integer array 
+begin
+    relax 
+end
+
+begin
+    get abba [-true and false ] 
+; get abba [not false or not not abba () rem not true * true ] 
+
+end

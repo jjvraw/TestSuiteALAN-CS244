@@ -1,0 +1,9 @@
+source abba 
+begin
+    while not false / false do     relax 
+end
+
+; call abba () 
+; abba := array true + not not / not false - 100and true and true 
+
+end

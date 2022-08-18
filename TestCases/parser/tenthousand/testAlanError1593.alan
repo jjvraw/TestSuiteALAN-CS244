@@ -1,0 +1,21 @@
+source abba function abba ()     relax 
+end
+function abba () to boolean 
+begin
+    call abba () 
+; if false and 100<> not not abba * not not not false / not 100- not false then
+    while -not abba [-not not not not true not not not 100] * not abba () rem false do     while -abba + true / true and true or true do     relax 
+end
+
+
+end
+
+
+end
+
+
+end
+
+begin
+    integer array abba , ;     relax 
+end

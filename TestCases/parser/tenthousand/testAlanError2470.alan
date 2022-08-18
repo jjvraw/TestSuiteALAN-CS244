@@ -1,0 +1,18 @@
+source abba function abba () to integer 
+begin
+    while false and true abba or 100and 100not false + false do     call abba () 
+; call () ; put "hello" 
+
+end
+
+; get abba 
+
+end
+function abba () to boolean array 
+begin
+    relax 
+end
+
+begin
+    integer array abba ; boolean array abba , abba , abba ;     relax 
+end

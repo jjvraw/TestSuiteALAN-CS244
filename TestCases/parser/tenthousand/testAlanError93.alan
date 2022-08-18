@@ -1,0 +1,6 @@
+source abba 
+begin
+    boolean array abba ;     integer array abba , abba ;     put "hello" 
+; abba [true ] := array -100+ abba [100and false rem not 100- abba [not 100* not not not 100rem false + true / false and abba - true and false rem not not 100] * false ] * 100
+
+end

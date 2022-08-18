@@ -1,0 +1,13 @@
+source abba function abba () to boolean 
+begin
+    relax 
+end
+
+begin
+    get abba 
+; if true and not false / false + not not true and false and true > not not not abba and abba + 100* 100    relax 
+end
+
+; call abba () 
+
+end

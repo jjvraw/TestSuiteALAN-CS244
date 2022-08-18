@@ -1,0 +1,5 @@
+source abba 
+begin
+    [false / not not * true - not abba () or 100* 100] := array -abba and 100and abba [100] or 100/ false or 100* not true * 100
+
+end

@@ -1,0 +1,1 @@
+alanc: testAlanError6865.alan:4:283: error: expected ']', but found identifier

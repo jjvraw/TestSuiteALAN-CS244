@@ -1,0 +1,10 @@
+source abba function abba () 
+begin
+    integer array abba , , abba ;     relax 
+end
+
+begin
+    call abba () 
+; get abba [-false * true false ] 
+
+end

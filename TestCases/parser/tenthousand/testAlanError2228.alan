@@ -1,0 +1,10 @@
+source abba function abba () to integer 
+begin
+    leave 
+; abba := array 100
+
+end
+
+begin
+    integer abba , abba , abba     relax 
+end

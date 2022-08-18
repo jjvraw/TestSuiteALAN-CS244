@@ -1,0 +1,11 @@
+source abba 
+begin
+    put "hello" ."hello" 
+; if not abba [not not abba / not not not not true and not not false ] then
+    get abba [-false rem not abba / 100+ true * true rem not false or false * not 100] 
+else     relax 
+end
+
+; call abba () 
+
+end

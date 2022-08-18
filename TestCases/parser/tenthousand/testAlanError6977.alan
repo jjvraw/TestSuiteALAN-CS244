@@ -1,0 +1,20 @@
+source abba function abba (to boolean 
+begin
+    put "hello" ."hello" ."hello" 
+; while not not abba [-abba * not 100or 100and true * not abba - false ] * not abba * not abba do     leave 
+
+end
+
+
+end
+function abba () 
+begin
+    boolean array abba , abba ;     call abba () ; put "hello" 
+
+end
+
+begin
+    boolean abba ;     leave 
+; get abba [-not not not not not not abba [-100/ false * abba [100or not not false or false true ] or not false rem true * 100] * not not not abba () rem true + not [false and abba or true and ] rem true and 100+ / abba [false - 100rem abba - 100] ] 
+
+end

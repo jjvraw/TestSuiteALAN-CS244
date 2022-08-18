@@ -1,0 +1,1 @@
+alanc: testAlanError4712.alan:7:29: error: expected ';', but found 'array'

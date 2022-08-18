@@ -1,0 +1,7 @@
+source abba 
+begin
+    integer array abba , abba , abba ;     call abba () 
+; put "hello" ."hello" 
+; abba [] := array -100rem abba () 
+
+end

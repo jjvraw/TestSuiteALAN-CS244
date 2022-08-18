@@ -1,0 +1,1 @@
+alanc: testAlanError5929.alan:7:88: error: expected 'end', but found end-of-file

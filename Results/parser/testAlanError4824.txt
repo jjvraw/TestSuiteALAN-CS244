@@ -1,0 +1,1 @@
+alanc: testAlanError4824.alan:5:1: error: expected ')', but found 'end'

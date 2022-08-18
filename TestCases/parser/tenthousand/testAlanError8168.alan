@@ -1,0 +1,11 @@
+source abba function abba () 
+begin
+integer abba ;     integer array abba , abba , abba ;     relax 
+end
+
+begin
+    put "hello" 
+; put "hello" ."hello" 
+; leave 
+
+end
