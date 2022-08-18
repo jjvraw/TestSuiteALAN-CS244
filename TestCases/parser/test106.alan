@@ -1,0 +1,10 @@
+source src_call
+
+function fun1()
+begin
+    relax
+end
+
+begin
+    fun1();
+end

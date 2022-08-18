@@ -1,0 +1,10 @@
+source src_comma
+
+function fun1(integer a, integer b)
+begin
+    relax
+end
+
+begin
+    call fun1(5 5);
+end

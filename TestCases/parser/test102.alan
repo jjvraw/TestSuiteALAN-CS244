@@ -1,0 +1,10 @@
+source bgn
+
+function a()
+    relax
+end
+
+begin
+    relax
+end
+

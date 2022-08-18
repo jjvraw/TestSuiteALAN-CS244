@@ -27,7 +27,7 @@ class Difference:
         for file in l:
             s1 = file[1].splitlines()
             print("\033[1;30;41m%s%s\033[0m" % ("DIFFERENCES IN FILE: ", file[0]))
-            with open('./Results/' + file[0] + '.txt') as f:
+            with open('./Results/parser/' + file[0] + '.txt') as f:
                 s2 = f.read().splitlines()
             for diff in dl.context_diff(s1, s2):
                 print(diff)
@@ -52,7 +52,7 @@ class ScannerTest:
         for i in self.list:
             i = i.replace(".alan", "")
             self.out = subprocess.run(['../alan/bin/alanc', './TestCases/parser/' + "/" + i + '.alan'], capture_output=True)
-            with open('./Results/' + i + '.txt') as f:
+            with open('./Results/parser/' + i + '.txt') as f:
                 result = f.read()
             self.display_result(i + '.alan', result == (self.out.stdout.decode() + self.out.stderr.decode()))
 

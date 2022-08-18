@@ -1,0 +1,7 @@
+source comma_id
+
+begin
+    integer a, ;
+    relax
+end
+

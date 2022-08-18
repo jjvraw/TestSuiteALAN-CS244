@@ -1,0 +1,8 @@
+source body
+
+function fun(integer a, integer b)
+end
+
+begin
+	relax
+end

@@ -1,0 +1,6 @@
+source src_close_bracket
+
+begin
+integer array arr;
+	get arr [a
+end

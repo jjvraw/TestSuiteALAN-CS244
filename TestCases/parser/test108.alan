@@ -1,0 +1,5 @@
+source src_close_bracket
+
+begin
+    a[5 := 5 + 5;
+end

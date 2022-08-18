@@ -1,0 +1,85 @@
+source complex
+
+function length(integer array a, integer final_value) to integer
+	begin
+		integer i; 
+
+		while (a[i] <> final_value) do
+			i := i + 1
+		end;
+
+		leave i
+	end
+
+function mergesort(integer array a, integer n)
+	begin	
+		integer mid, i, j;
+		integer array l, r;
+		mid := n/2;
+		i := 0;
+		j := mid;
+		l := array mid;
+		r := array n - mid;
+		
+		if (n < 2) then
+			leave
+		end;
+
+		while (i < mid) do
+			l[i] := a[i];
+			i := i + 1
+		end;
+
+		while (j < n) do
+			r[j-mid] := a[j];
+			j := j + 1
+		end;
+
+		call mergesort(l, mid);
+		call mergesort(r, n - mid);
+
+		call merge(a, l, r, mid, n - mid)
+	end
+
+function merge(integer array a, integer array l, integer array r, integer left,
+				integer right)
+	begin 
+		integer i, j , k, c1, c2;
+
+		i := 0;
+		j := 0;
+		k := 0;
+
+		while (i < left) and (j < right) do
+			if (l[i] <= r[j]) then
+				a[k+1] := l[i+1]
+			else
+				a[k+1] := l[j+1]
+			end
+		end;
+
+		while (i < left) do
+			a[k+1] := l[i+1]
+		end;
+
+		while (j < right) do
+			a[k+1] := r[j+1]
+		end
+	end
+
+begin
+	integer array list;
+	integer array_size, i;
+	list := array 20;
+	array_size := 20;
+	i := 0;
+
+	while (array_size >= 0) do
+		list[array_size - 1] := i;
+		i := i + 1;
+		array_size := array_size - 1
+	end;
+	
+	call mergesort(list, array_size)
+	
+end

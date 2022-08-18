@@ -1,0 +1,1 @@
+alanc: test104.alan:4:1: error: expected 'begin', but found 'end'

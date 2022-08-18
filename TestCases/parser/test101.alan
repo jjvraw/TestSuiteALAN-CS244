@@ -1,0 +1,5 @@
+source src_array_simple
+
+begin
+    a:= array;
+end

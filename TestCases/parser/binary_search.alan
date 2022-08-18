@@ -1,0 +1,17 @@
+source binary_search
+function binary_search(integer array vals,integer l,integer h,integer key)
+to boolean
+begin
+	integer mid;
+	mid := l + h;
+	mid := mid/2;
+	if vals[mid] = key then
+		put true
+	elsif vals[mid] > key then
+		call binary_search(vals,l,mid-1)
+	else
+		call binary_search(vals,mid+1,h)
+	end
+end
+begin relax
+end

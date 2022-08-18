@@ -1,0 +1,6 @@
+source comma
+
+begin
+    integer a b;
+    relax
+end
