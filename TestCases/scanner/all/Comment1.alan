@@ -1,7 +1,5 @@
-source commment {comment testing} {te {st 1233vedf /asd32489457^&)*#@$)(*^$#*&)^} sda
-not cool
-neighbors are loud }
-begin
-        relax
-end 
-
+'source'
+Identifier: 'commment'
+'begin'
+'relax'
+'end'

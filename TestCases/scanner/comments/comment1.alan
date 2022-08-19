@@ -1,9 +1,5 @@
-comment
-{ n { e { s { ted } c } o } m } 
-{ normal }
-{ multi line 
-com
-ment
-s
-}
-
+'source'
+Identifier: 'commment'
+'begin'
+'relax'
+'end'
