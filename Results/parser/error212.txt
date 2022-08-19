@@ -1,0 +1,1 @@
+alanc: error212.alan:2:1: error: expected identifier, but found 'begin'

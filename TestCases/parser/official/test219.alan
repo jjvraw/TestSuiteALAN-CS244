@@ -1,0 +1,20 @@
+source test219
+
+    function fib(integer cur) to integer
+    begin
+        integer prev1, prev2;
+        if (cur = 0) or (cur = 1) then
+            leave 1
+        else
+            prev1 := cur - 1;
+            prev2 := cur - 2;
+            leave fib(prev1) + fib(prev2)
+        end
+    end
+
+begin
+    integer n, f;
+    get n;
+    f := fib(n);
+    put f
+end

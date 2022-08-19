@@ -1,0 +1,10 @@
+source test209
+begin
+    integer i, j;
+    boolean b, c;
+
+    j := 13;
+    i := 107;
+    b := ((i = 100) or (i <= j) and (7 > 10));
+    c := (false)
+end

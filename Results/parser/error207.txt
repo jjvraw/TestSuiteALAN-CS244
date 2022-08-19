@@ -1,0 +1,1 @@
+alanc: error207.alan:6:1: error: expected array allocation or expression, but found 'end'

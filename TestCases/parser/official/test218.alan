@@ -1,0 +1,36 @@
+source test218
+    function reverse(integer array L, integer N)
+    begin
+        integer i, tmp, n, pos;
+        n := N/2;
+        i := 0;
+        while i < n do
+            pos := N-1-i;
+            tmp := L[pos];
+            L[pos] := L[i];
+            L[i] := tmp;
+            i := i + 1
+        end
+    end
+begin
+    integer i, N;
+    integer array L;
+    get N;
+    L := array N;
+    i := 0;
+    while i < N do
+        get L[i];
+        i := i + 1
+    end;
+    call reverse(L, N);
+    put "[";
+    i := 0;
+    while i < N do
+        put L[i];
+        i := i + 1;
+        if i <> N then
+            put ", "
+        end
+    end;
+    put "]\n"
+end

@@ -1,0 +1,7 @@
+source error214
+begin
+    integer i j;
+    boolean a, b, c;
+
+    relax
+end

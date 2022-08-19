@@ -1,0 +1,4 @@
+source error224
+begin
+    put 4 <
+end

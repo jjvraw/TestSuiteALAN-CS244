@@ -1,0 +1,7 @@
+source error219
+begin
+    integer x;
+
+    if true then
+    end
+end

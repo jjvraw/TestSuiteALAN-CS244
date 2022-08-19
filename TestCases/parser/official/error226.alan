@@ -1,0 +1,4 @@
+source error226
+begin
+    put 4 *
+end

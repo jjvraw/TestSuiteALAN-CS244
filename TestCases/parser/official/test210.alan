@@ -1,0 +1,13 @@
+source test210
+begin
+    integer i;
+
+    i := 7;
+    if i < 10 then
+        put -1
+    elsif i > 0 then
+        put 1
+    else
+        put 0
+    end
+end

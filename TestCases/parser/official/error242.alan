@@ -1,0 +1,8 @@
+source test242
+    function f(integer i) integer 
+    begin
+        relax
+    end
+begin
+    relax
+end

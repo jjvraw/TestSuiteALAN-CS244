@@ -1,0 +1,10 @@
+source test203
+begin
+    integer i;
+    boolean b;
+
+    b := false;
+    i := 0;
+    b := true;
+    i := 32767
+end

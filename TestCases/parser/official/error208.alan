@@ -1,0 +1,15 @@
+source error208
+begin
+    integer i;
+    integer array j;
+    boolean b;
+    boolean array c;
+
+    i := 0;
+    j[0] := i;
+    j[1] := i + 1;
+    j[2] := -i;
+    b := false {;
+    c := [b (i < 0) not true] }
+    put i
+end

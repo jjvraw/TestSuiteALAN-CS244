@@ -1,0 +1,11 @@
+source test205
+begin
+    integer array i;
+
+    i[0] := 2;
+    i[1] := 3;
+    i[2] := 5;
+    put i[1];
+    put i[2];
+    put i[0]
+end

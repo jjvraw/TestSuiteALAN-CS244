@@ -1,0 +1,7 @@
+source error204
+begin
+    integer i, ;
+    boolean a, b, c;
+
+    relax
+end

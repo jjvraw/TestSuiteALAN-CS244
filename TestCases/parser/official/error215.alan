@@ -1,0 +1,4 @@
+source error215
+begin
+    integer x;
+end

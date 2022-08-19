@@ -1,0 +1,1 @@
+alanc: error234.alan:5:10: error: expected 'end', but found ';'

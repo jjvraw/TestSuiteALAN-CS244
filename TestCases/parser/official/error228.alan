@@ -1,0 +1,4 @@
+source error228
+begin
+    put true or
+end

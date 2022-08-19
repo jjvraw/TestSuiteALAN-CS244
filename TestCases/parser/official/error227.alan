@@ -1,0 +1,4 @@
+source error227
+begin
+    put true and
+end

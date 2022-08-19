@@ -1,0 +1,5 @@
+source error222
+begin
+    while true do
+    end
+end

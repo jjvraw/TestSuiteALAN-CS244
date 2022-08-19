@@ -1,0 +1,9 @@
+source error238
+begin
+    integer array x;
+
+    x[0] := 0
+    begin
+        relax
+    end
+end

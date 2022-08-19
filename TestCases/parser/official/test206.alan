@@ -1,0 +1,17 @@
+source test206
+begin
+    integer i;
+    integer array a;
+
+    i := -2;
+    while i + 2 < 7 do
+        a[i + 2] := i * 17;
+        i := i + 1
+    end;
+
+    i := 0;
+    while i < 7 do
+        put a[i];
+        i := i + 1
+    end
+end

@@ -1,0 +1,12 @@
+source error244
+    f(integer i) to boolean
+    begin
+        k := i = 1;
+        leave k
+    end
+begin
+    integer x, y;
+
+    x := 3;
+    y := f(x)
+end

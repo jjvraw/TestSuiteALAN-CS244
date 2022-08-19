@@ -1,0 +1,11 @@
+source error217
+begin
+    integer i;
+    integer array j;
+    boolean b;
+    boolean array c;
+
+    if (7 < i)
+        relax
+    end
+end

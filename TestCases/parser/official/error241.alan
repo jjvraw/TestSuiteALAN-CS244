@@ -1,0 +1,17 @@
+source error241
+begin
+    integer i, j;
+    
+    i := 0;
+    j := 5;
+    while i < 5 do
+        while j > 0 do
+            j := 1;
+            put i;
+            put j
+        end;
+        i := i + 1
+    end;
+    put i;
+    put j . "hello" "\n"
+end

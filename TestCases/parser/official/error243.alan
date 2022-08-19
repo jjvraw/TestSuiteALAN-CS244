@@ -1,0 +1,9 @@
+source test243
+    function f(integer i) to integer
+    begin
+        relax
+    end
+begin
+    relax;
+    integer s
+end

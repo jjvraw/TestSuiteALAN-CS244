@@ -1,0 +1,8 @@
+source test240
+    function f(int i) to
+    begin
+        relax
+    end
+begin
+    relax
+end

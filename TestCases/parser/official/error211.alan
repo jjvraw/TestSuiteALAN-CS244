@@ -1,0 +1,9 @@
+source error211
+begin
+    integer i;
+    integer array j;
+    boolean b;
+    boolean array c;
+
+    j[1 < 2] := 1
+end

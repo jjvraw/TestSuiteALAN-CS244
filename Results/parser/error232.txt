@@ -1,0 +1,1 @@
+alanc: error232.alan:6:1: error: expected factor, but found 'end'

@@ -1,0 +1,6 @@
+source test202
+begin
+    integer i, j;
+    boolean a, b, c;
+    relax
+end

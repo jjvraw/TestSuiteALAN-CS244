@@ -89,6 +89,7 @@ if __name__ == '__main__':
 
     if arg == "" :
         directory.remove("tenthousand")
+        directory.remove("official")
 
     Util.make()
 

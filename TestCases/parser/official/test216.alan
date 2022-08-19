@@ -1,0 +1,11 @@
+source test216
+    function inc(integer i) to integer
+    begin
+        leave i + 1
+    end
+begin
+    integer i;
+
+    i := inc(i);
+    put i
+end

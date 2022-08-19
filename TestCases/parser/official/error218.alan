@@ -1,0 +1,8 @@
+source error218
+begin
+    integer x;
+
+    if then
+        relax
+    end
+end

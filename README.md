@@ -14,7 +14,10 @@ Go into the directory/folder which holds your alan folder.
 
 2. **Run 10k generated test cases**
 `python3 parser.py tenthousand`
-	- thanks Ian.
+	- thanks Iain.
+
+3. **Run offical tests**
+`python3 parser.py offical`
 
 ---
 

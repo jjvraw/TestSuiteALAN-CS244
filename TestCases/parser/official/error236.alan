@@ -1,0 +1,6 @@
+source error236
+begin
+    integer x;
+
+    x := ((((((((((((((1+())))))))))))))
+end

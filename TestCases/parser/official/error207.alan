@@ -1,0 +1,6 @@
+source error207
+begin
+    integer x;
+
+    x :=
+end

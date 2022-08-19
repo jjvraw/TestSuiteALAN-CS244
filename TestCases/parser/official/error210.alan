@@ -1,0 +1,9 @@
+source error210
+begin
+    integer i;
+    integer array j;
+    boolean b;
+    boolean array c;
+
+    j[j[j[j[j[j[j[5]]]]]] := 7
+end

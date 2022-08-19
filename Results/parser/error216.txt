@@ -1,0 +1,1 @@
+alanc: error216.alan:5:7: error: expected ':=', but found numeric literal

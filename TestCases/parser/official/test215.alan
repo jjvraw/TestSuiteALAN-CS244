@@ -1,0 +1,15 @@
+source test215
+begin
+    integer i;
+
+    put "Please enter a positive integer: ";
+    get i;
+    if i > 0 then
+        while i >= 0 do
+            put "There are " . i - 1 . " repetisions left.\n";
+            i := i - 1
+        end
+    else
+        put i . " is not a positive integer!\n"
+    end
+end

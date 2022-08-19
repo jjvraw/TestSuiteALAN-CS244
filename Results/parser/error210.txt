@@ -1,0 +1,1 @@
+alanc: error210.alan:8:27: error: expected ']', but found ':='

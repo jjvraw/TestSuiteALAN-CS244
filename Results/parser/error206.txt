@@ -1,0 +1,1 @@
+alanc: error206.alan:8:5: error: expected ':=', but found 'relax'

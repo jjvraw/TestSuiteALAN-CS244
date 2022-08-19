@@ -1,0 +1,1 @@
+alanc: error246.alan:15:22: error: expected expression or string, but found ';'
