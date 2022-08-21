@@ -1,5 +1,5 @@
-'source'
-Identifier: 'commment'
-'begin'
-'relax'
-'end'
+source
+commment {hello}
+begin
+relax
+end
