@@ -1,0 +1,6 @@
+source test357
+begin
+    boolean array b_arr;
+
+    put b_arr + b_arr;
+end

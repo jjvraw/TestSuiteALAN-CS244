@@ -1,0 +1,1 @@
+alanc: error339.alan:8:11: error: incompatible types (expected boolean, found integer) for 'elsif' guard

@@ -1,0 +1,9 @@
+source error308
+begin
+    integer i;
+
+    i := 10;
+    while i do
+        relax
+    end
+end

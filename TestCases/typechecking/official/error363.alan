@@ -1,0 +1,11 @@
+source error363
+    function proc(integer i) to integer
+    begin
+        leave true
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

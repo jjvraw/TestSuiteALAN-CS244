@@ -1,0 +1,1 @@
+alanc: error326.alan:6:10: error: incompatible types (expected integer, found boolean) for unary minus

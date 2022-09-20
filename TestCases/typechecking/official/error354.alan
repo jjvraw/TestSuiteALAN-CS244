@@ -1,0 +1,7 @@
+source error354
+begin
+    boolean b;
+    integer i;
+
+    i := i / b;
+end

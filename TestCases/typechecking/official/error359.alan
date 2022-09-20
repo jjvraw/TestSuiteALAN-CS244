@@ -1,0 +1,11 @@
+source error359
+    function proc(integer i)
+    begin
+        leave i + 1
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

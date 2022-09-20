@@ -1,0 +1,1 @@
+alanc: error336.alan:28:34: error: incompatible types (expected integer, found integer array) for parameter 3 of 'findmin'

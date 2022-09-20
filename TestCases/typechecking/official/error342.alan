@@ -1,0 +1,6 @@
+source error342
+begin
+    integer array i_arr;
+
+    put -i_arr
+end

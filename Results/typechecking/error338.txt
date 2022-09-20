@@ -1,0 +1,1 @@
+alanc: error338.alan:10:5: error: 'dummy' is not a variable

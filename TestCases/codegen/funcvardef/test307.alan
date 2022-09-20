@@ -1,0 +1,7 @@
+source test307
+begin
+    integer array iarr;
+
+    iarr := array 10;
+    put iarr[5] + 10
+end

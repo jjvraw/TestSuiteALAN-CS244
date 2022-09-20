@@ -1,0 +1,1 @@
+alanc: error346.alan:6:15: error: '=' is an illegal array operation

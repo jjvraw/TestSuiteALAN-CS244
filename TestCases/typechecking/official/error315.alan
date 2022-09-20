@@ -1,0 +1,9 @@
+source error315
+begin
+    integer array iarr;
+    boolean array barr;
+    
+    barr := array 10;
+    iarr := array 10;
+    barr[1] := iarr[1]
+end

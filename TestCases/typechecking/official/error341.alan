@@ -1,0 +1,6 @@
+source error341
+begin
+    boolean array b_arr;
+
+    put b_arr[0] + b_arr;
+end

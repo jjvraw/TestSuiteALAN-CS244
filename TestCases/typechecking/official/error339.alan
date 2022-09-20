@@ -1,0 +1,13 @@
+source error340
+begin
+    integer i;
+
+    get i;
+    if i > 1 then
+        relax
+    elsif i then
+        relax
+    else
+        relax
+    end
+end

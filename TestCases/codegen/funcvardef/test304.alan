@@ -1,0 +1,8 @@
+source test304
+begin
+    boolean array barr;
+    integer N;
+    N := 5;
+    barr := array N;
+    barr[1] := true
+end

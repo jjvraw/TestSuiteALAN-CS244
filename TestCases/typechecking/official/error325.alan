@@ -1,0 +1,8 @@
+source error325
+begin
+    boolean array barr;
+
+    while (barr) do
+        relax
+    end
+end

@@ -1,0 +1,1 @@
+alanc: error323.alan:6:10: error: incompatible types (expected integer, found boolean) for array index of 'barr'

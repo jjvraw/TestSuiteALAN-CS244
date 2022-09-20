@@ -1,0 +1,11 @@
+source test301
+begin
+    integer i, j;
+
+    i := (107);
+    j := -i;
+    i := j - i;
+    j := -3 * j;
+    i := 23;
+    i := 100 + (j/1000 + 20*i)/200
+end

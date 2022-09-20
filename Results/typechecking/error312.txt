@@ -1,0 +1,1 @@
+alanc: error312.alan:6:13: error: incompatible types (expected integer array, found integer) for assignment to 'iarr'

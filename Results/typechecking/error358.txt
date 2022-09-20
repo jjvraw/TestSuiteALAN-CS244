@@ -1,0 +1,1 @@
+alanc: error358.alan:6:9: error: expected scalar variable instead of 'i'

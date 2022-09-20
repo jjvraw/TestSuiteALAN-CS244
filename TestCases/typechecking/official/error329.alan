@@ -1,0 +1,7 @@
+source error329
+begin
+    integer a;
+    boolean b;
+    
+    b := b and a
+end

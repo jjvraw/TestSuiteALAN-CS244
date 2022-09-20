@@ -1,0 +1,1 @@
+alanc: error329.alan:6:12: error: incompatible types (expected integer, found boolean) for operator 'and'

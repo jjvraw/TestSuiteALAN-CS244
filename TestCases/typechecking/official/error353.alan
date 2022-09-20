@@ -1,0 +1,7 @@
+source error353
+begin
+    boolean b;
+    integer i;
+
+    b := i and b;
+end

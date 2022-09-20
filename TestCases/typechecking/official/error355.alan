@@ -1,0 +1,10 @@
+source error355
+    function dummy()
+    begin
+        relax
+    end
+begin
+    integer i;
+
+    i := 1 + dummy()
+end

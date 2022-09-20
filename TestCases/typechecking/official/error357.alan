@@ -1,0 +1,6 @@
+source error357
+begin
+    integer array a;
+
+    a[1] := array 13
+end

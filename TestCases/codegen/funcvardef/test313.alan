@@ -1,0 +1,11 @@
+source test313
+    function inc(integer i) to integer
+    begin
+        relax
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

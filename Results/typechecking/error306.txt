@@ -1,0 +1,1 @@
+alanc: error306.alan:8:12: error: incompatible types (expected integer, found boolean) for operator 'or'

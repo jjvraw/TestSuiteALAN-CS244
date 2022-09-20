@@ -1,0 +1,1 @@
+alanc: error345.alan:7:12: error: incompatible types (expected boolean, found integer) for operator '>'

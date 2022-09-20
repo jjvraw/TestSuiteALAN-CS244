@@ -1,0 +1,1 @@
+alanc: error356.alan:7:10: error: 'inc' is not a procedure

@@ -1,0 +1,7 @@
+source test308
+begin
+    boolean array barr;
+
+    barr := array 10;
+    put barr[5] or true
+end

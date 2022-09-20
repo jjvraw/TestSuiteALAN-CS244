@@ -1,0 +1,9 @@
+source error309
+begin
+    integer i;
+
+    i := 10;
+    if i then
+        relax
+    end
+end

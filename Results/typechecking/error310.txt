@@ -1,0 +1,1 @@
+alanc: error310.alan:8:10: error: incompatible types (expected integer, found boolean) for array index of 'iarr'

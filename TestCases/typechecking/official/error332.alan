@@ -1,0 +1,12 @@
+source error332
+    function inc(integer i, integer j, boolean k) to integer
+    begin
+        integer j;
+        relax
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

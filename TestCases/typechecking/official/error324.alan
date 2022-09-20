@@ -1,0 +1,7 @@
+source error324
+begin
+    integer array iarr;
+    integer i;
+    
+    iarr[i] := array 9;
+end

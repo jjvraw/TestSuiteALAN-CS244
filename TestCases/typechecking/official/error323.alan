@@ -1,0 +1,7 @@
+source error323
+begin
+    boolean b;
+    boolean array barr;
+    
+    barr[b] := true
+end

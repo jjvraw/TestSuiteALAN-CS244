@@ -1,0 +1,11 @@
+source error361
+    function proc(integer i) to integer
+    begin
+        leave
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

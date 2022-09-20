@@ -1,0 +1,13 @@
+source error319
+begin
+    integer array iarr;
+    
+    iarr := array 10;
+    if iarr[1] then
+        relax
+    elsif iarr[2] then
+        relax
+    else
+        relax
+    end
+end

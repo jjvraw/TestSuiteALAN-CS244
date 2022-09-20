@@ -1,0 +1,1 @@
+alanc: error302.alan:4:13: error: multiple definition of 'i'

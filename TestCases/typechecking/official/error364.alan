@@ -1,0 +1,19 @@
+source error364
+    function proc(integer i) to integer
+    begin
+        leave i + 2 + 1
+    end
+    function proc2(integer i, integer j) to integer
+    begin
+        boolean k;
+        if 1 < 2
+        then
+            leave k
+        end
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

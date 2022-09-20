@@ -1,0 +1,9 @@
+source error306
+begin
+    boolean b;
+    integer i;
+
+    i := 42;
+    b := true;
+    b := b or i < 3
+end

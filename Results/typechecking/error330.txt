@@ -1,0 +1,1 @@
+alanc: error330.alan:6:14: error: incompatible types (expected boolean, found integer) for 'not'

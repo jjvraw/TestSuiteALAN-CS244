@@ -1,0 +1,7 @@
+source error328
+begin
+    integer a, c;
+    boolean b;
+    
+    c :=  a / b
+end

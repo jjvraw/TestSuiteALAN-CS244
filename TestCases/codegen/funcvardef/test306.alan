@@ -1,0 +1,11 @@
+source test306
+begin
+    boolean b, c;
+    integer i, j;
+    j := 13;
+    i := 107;
+    b := i = 10;
+    c := not b;
+    put i + j;
+    put b or c
+end

@@ -1,0 +1,8 @@
+source test311
+begin
+    boolean array barr;
+
+    while (barr[1]) do
+        relax
+    end
+end

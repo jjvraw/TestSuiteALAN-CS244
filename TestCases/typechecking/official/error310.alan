@@ -1,0 +1,9 @@
+source error310
+begin
+    integer array iarr;
+    integer N;
+    
+    N := 5;
+    iarr := array N;
+    iarr[true] := 4;
+end

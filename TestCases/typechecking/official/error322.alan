@@ -1,0 +1,6 @@
+source error322
+begin
+    boolean b;
+    boolean array barr;
+    b := barr
+end

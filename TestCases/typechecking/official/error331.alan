@@ -1,0 +1,11 @@
+source error331
+    function inc(integer i, integer j, boolean i) to integer
+    begin
+        relax
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

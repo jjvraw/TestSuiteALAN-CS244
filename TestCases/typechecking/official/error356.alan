@@ -1,0 +1,8 @@
+source error356
+    function inc(integer i) to integer
+    begin
+        leave i + 1
+    end
+begin
+    call inc(1)
+end

@@ -1,0 +1,9 @@
+source error311
+begin
+    boolean array barr;
+    integer N;
+    
+    N := 5;
+    barr := array N;
+    barr[1] := 1
+end

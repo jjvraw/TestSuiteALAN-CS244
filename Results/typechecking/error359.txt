@@ -1,0 +1,1 @@
+alanc: error359.alan:4:15: error: a leave expression is not allowed for a procedure

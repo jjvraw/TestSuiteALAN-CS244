@@ -1,0 +1,1 @@
+alanc: error363.alan:4:15: error: incompatible types (expected integer, found boolean) for 'leave' statement

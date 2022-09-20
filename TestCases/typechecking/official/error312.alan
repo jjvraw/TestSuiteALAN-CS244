@@ -1,0 +1,7 @@
+source error312
+begin
+    integer array iarr;
+
+    iarr := array 10;
+    iarr := 10
+end

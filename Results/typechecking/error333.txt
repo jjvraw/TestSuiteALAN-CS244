@@ -1,0 +1,1 @@
+alanc: error333.alan:28:32: error: too few arguments for call to 'findmin'

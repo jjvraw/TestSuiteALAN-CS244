@@ -1,0 +1,1 @@
+alanc: error342.alan:5:9: error: unary minus is an illegal array operation

@@ -1,0 +1,9 @@
+source error344
+begin
+    integer i, j;
+    boolean b;
+
+    i := 1;
+    j := 2;
+    j := b or i;
+end

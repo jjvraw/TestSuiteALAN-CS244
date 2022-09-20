@@ -1,0 +1,8 @@
+source error343
+begin
+    integer i, j;
+
+    i := 1;
+    j := 2;
+    j := i or j;
+end

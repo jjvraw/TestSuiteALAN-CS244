@@ -1,0 +1,13 @@
+source test309
+begin
+    boolean array barr;
+
+    barr := array 10;
+    if barr[1] then
+        relax
+    elsif barr[2] then
+        relax
+    else
+        relax
+    end
+end

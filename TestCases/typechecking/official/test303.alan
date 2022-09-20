@@ -1,0 +1,10 @@
+source test303
+begin
+    integer array iarr;
+    integer N;
+
+    N := 5;
+    iarr := array N;
+    iarr[1] := 4;
+    iarr[4] := 1
+end

@@ -1,0 +1,67 @@
+source error336
+
+    function findmin(integer array L, integer N, integer i) to integer
+    { find minimum element in array L of length N, starting the search from
+      index i }
+    begin
+        integer j, min;
+
+        j := i;
+        min := i;
+        while j < N do
+            if L[j] > L[min] then
+                min := j
+            end
+        end;
+
+        leave min
+    end
+
+    function sort(integer array L, integer N)
+    { perform selection sort on array L of length N }
+    begin
+        integer i, min, tmp;
+
+        i := 0;
+        while i < N do
+            { find index of minimum element in unsorted sublist }
+            min := findmin(L, N, L);
+
+            { swap elements }
+            tmp := L[min];
+            L[min] := L[i];
+            L[i] := tmp;
+
+            { increment counter }
+            i := i + 1
+        end
+    end
+
+begin
+    integer i, N;
+    integer array L;
+
+    { get length of and create array }
+    get N;
+    L := array N;
+
+    { get array elements }
+    i := 0;
+    while i < N do
+        get L[i];
+        i := i + 1
+    end;
+
+    { sort and print out }
+    call sort(L, N);
+    put "[";
+    i := 0;
+    while i < N do
+        put L[i];
+        i := i + 1;
+        if i <> N then
+            put ", "
+        end
+    end;
+    put "]\n"
+end

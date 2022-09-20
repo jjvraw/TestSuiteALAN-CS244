@@ -1,0 +1,1 @@
+alanc: error354.alan:6:12: error: incompatible types (expected boolean, found integer) for operator '/'

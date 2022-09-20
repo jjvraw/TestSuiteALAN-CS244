@@ -1,0 +1,8 @@
+source error314
+begin
+    boolean array barr, barrtwo;
+
+    barr := array 10;
+    barrtwo := array 2;
+    barrtwo := barr[2]
+end

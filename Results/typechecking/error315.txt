@@ -1,0 +1,1 @@
+alanc: error315.alan:8:16: error: incompatible types (expected boolean, found integer) for assignment to 'barr'

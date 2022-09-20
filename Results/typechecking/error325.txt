@@ -1,0 +1,1 @@
+alanc: error325.alan:5:11: error: incompatible types (expected boolean, found boolean array) for 'while' guard

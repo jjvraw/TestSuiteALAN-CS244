@@ -1,0 +1,11 @@
+source error338
+    function dummy()
+    begin
+        relax
+    end
+begin
+    integer i;
+
+    i := 1;
+    dummy := 1
+end

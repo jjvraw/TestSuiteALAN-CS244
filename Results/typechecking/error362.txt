@@ -1,0 +1,1 @@
+alanc: error362.alan:10:13: error: missing leave expression for a function

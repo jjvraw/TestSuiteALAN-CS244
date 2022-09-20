@@ -1,0 +1,8 @@
+source test305
+begin
+    integer array iarr, iarrtwo;
+
+    iarr := array 10;
+    iarrtwo := array 2;
+    iarrtwo := iarr
+end

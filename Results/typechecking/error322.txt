@@ -1,0 +1,1 @@
+alanc: error322.alan:5:10: error: incompatible types (expected boolean, found boolean array) for assignment to 'b'

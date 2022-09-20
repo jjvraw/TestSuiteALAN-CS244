@@ -1,0 +1,1 @@
+alanc: error352.alan:6:13: error: '*' is an illegal array operation

@@ -1,0 +1,7 @@
+source error348
+begin
+    boolean b;
+    boolean array arr1, arr2;
+
+    b := b = arr1;
+end

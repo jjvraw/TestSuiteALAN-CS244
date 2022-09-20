@@ -1,0 +1,7 @@
+source error349
+begin
+    boolean b;
+    integer i;
+
+    b := i = b;
+end

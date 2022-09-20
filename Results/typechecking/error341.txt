@@ -1,0 +1,1 @@
+alanc: error341.alan:5:18: error: '+' is an illegal array operation

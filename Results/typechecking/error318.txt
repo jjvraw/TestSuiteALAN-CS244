@@ -1,0 +1,1 @@
+alanc: error318.alan:6:8: error: incompatible types (expected boolean, found integer array) for 'if' guard

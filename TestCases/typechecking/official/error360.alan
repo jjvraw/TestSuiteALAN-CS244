@@ -1,0 +1,18 @@
+source error360
+    function proc(integer i)
+    begin
+        relax
+    end
+    function proc2(integer i, integer j)
+    begin
+        if 1 < 2
+        then
+            leave i   
+        end
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end

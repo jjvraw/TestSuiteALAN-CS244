@@ -1,0 +1,1 @@
+alanc: error355.alan:9:14: error: 'dummy' is not a function

@@ -1,0 +1,7 @@
+source error305
+begin
+    integer i, j;
+
+    i := 11;
+    j := i < 29
+end

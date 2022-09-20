@@ -1,0 +1,7 @@
+source error351
+begin
+    integer i;
+    integer array a1, a2;
+
+    i := a1 * i
+end

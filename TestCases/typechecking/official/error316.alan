@@ -1,0 +1,12 @@
+source error316
+begin
+    boolean b, c;
+    integer i, j;
+    
+    j := 13;
+    i := 107;
+    b := i = 10;
+    c := not b;
+    put i + b;
+    put j or c
+end

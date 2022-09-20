@@ -1,0 +1,7 @@
+source error337
+begin
+    integer array iarr;
+    integer i;
+    
+    iarr := array true
+end

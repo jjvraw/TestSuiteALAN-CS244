@@ -1,0 +1,7 @@
+source error358
+begin
+    integer array i;
+
+    i := array 10;
+    get i
+end

@@ -1,0 +1,8 @@
+source error307
+begin
+    boolean a, b;
+
+    a := true;
+    b := false;
+    b := b + a
+end

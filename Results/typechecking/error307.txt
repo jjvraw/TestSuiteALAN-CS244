@@ -1,0 +1,1 @@
+alanc: error307.alan:7:12: error: incompatible types (expected integer, found boolean) for operator '+'

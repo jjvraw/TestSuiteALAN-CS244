@@ -1,0 +1,18 @@
+source test315
+    function inc(integer i) to integer
+    begin
+        integer r;
+        r := i + 1
+    end
+    function dec(integer i) to integer
+    begin
+        integer r;
+        r := i - 1
+    end
+begin
+    integer i;
+
+    get i;
+    put inc(i);
+    put dec(i)
+end

@@ -1,0 +1,13 @@
+source error317
+begin
+    boolean array barr;
+
+    barr := array 10;
+    if barr then
+        relax
+    elsif barr then
+        relax
+    else
+        relax
+    end
+end

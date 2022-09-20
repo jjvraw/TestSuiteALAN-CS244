@@ -1,0 +1,18 @@
+source error362
+    function proc(integer i) to integer
+    begin
+        leave i + 2 + 1
+    end
+    function proc2(integer i, integer j) to integer
+    begin
+        if 1 < 2
+        then
+            leave
+        end
+    end
+begin
+    integer i;
+    integer j;
+
+    relax
+end
