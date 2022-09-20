@@ -1,14 +1,14 @@
 # TestSuiteALAN
 
 ## Cloning
-1.`clone https://github.com/jjvraw/TestSuiteALAN.git` into the directory/folder which holds your alan folder.
+1. `clone https://github.com/jjvraw/TestSuiteALAN.git` into the directory/folder which holds your alan folder.
 2. Navigate to directory `cd TestSuiteALAN`
 3. Run a script `python3 test.py xxx`
 
 ---
 ## Testing CodeGen
 1.**Test funcdef and vardef**
-`python3 test.py funcdef`
+`python3 test.py codegen funcvardef`
 	- all official testcases without any errors 
 > (1) should run without any errors to continue with codegen
 
@@ -17,7 +17,7 @@
 1. **Test HashTable**
 `python3 test.py hash`
 	- should run without any problems
-	- inserts 100,000+ random strings in hashtable
+	- inserts 100,196 random strings in hashtable
 
 ---
 ## Testing Type Checking 

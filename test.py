@@ -131,6 +131,7 @@ if __name__ == '__main__':
 
     elif argument[1] == 'hash': 
         Util.make('testhashtable')
+        os.system('cc -o hash hash.c ../alan/src/error.o ../alan/src/hashtable.o   ')
         os.system('./hash')
 
     elif argument[1] == 'codegen': 
