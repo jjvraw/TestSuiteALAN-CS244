@@ -1,0 +1,5 @@
+source test11
+begin
+	put not(true) ."\t false\n";
+	put not(not(not(not(not(not(not(not(not(not(not(not(not(not(false)))))))))))))) ."\t false\n"
+end

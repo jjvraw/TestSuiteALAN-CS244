@@ -1,0 +1,15 @@
+source test29                                                                    
+begin                                                                            
+    integer i1, i2;                                                                  
+    i1 := 0;                                                                     
+    while (i1 <> 30) do                                                          
+        put i1."\n";                                                             
+        i1 := i1 +1                                                           ;
+		i2 := 0;
+		while i2 <30 do
+			put "i2=".i2. "\n";
+			i2 := i2 +1
+		end   
+    end                                                                          
+                                                                                 
+end

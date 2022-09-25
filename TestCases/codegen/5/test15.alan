@@ -1,0 +1,17 @@
+source test15
+begin
+	boolean b1,b2,b3,b4,b5;
+	
+	b1:= true;
+	b2 :=false; 
+	b3:=true;
+	b4 := false;
+	b5:=true;
+	
+	put b1."\n";
+	put b2."\n";
+	put b3."\n";
+	put b4."\n";
+	put b5."\n"
+	
+end

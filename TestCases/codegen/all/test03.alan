@@ -1,0 +1,4 @@
+source test03
+begin
+	put "\"Fancy Hello, World \""
+end

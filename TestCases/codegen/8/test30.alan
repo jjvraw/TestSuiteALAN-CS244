@@ -1,0 +1,18 @@
+source test30
+begin
+	boolean b1,b2,b3;
+	
+	put "Boolean input: \n";
+	get b1;
+	put b1."\n";
+
+    put "Boolean input: \n";                                                        
+    get b2;                                                                         
+    put b2."\n";
+
+    put "Boolean input: \n";                                                        
+    get b3;                                                                         
+    put b3."\n"
+
+  
+end

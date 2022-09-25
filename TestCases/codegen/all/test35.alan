@@ -1,0 +1,27 @@
+source test35
+function rickyrect(integer depth, integer curr_depth)
+begin
+	integer i;
+
+	i := 0;
+	
+	if (depth <= curr_depth) then
+		leave
+	end;
+	
+	while (i <> curr_depth) do
+		put "-";
+		i := i +1
+	end;
+
+	put "\n";
+	curr_depth := curr_depth+1;
+	call rickyrect(depth, curr_depth)
+
+end
+
+begin
+	
+	call rickyrect(2000, 1)
+
+end

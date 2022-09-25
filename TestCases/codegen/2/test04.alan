@@ -1,0 +1,4 @@
+source test04
+begin
+	put "\n"."This is a multi liner"."\n\n"
+end

@@ -1,0 +1,8 @@
+source test08
+begin
+	put 10*10."\t 100\n";
+	put 10/10. "\t 1\n";
+	put 42*10. "\t 420\n";
+	put 420 rem 69 ."\t 6\n";
+	put 3 rem 2."\t 1\n"
+end

@@ -1,0 +1,10 @@
+source test27
+begin
+	integer i1;
+	i1 := 0;
+	while (i1 <> 30) do
+		put i1."\n";
+		i1 := i1 +1
+	end
+
+end

@@ -1,0 +1,4 @@
+source test02
+begin
+	put "Hello, World!"
+end

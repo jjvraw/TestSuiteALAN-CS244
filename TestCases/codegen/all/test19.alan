@@ -1,0 +1,13 @@
+source test19
+begin
+	boolean array a1;
+
+	a1 := array 5;
+
+	a1[3] := true;
+
+
+	put a1[3]."\n"
+
+
+end

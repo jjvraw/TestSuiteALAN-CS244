@@ -62,7 +62,6 @@ class Test:
 
     def test_codegen(self, arg):
         os.chdir('../alan/bin')
-        Util.export_jasmin()
         self.list.sort()
         for i in self.list: 
             i = i.replace(".alan", "")

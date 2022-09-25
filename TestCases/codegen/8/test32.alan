@@ -1,0 +1,20 @@
+source test32                                                                    
+begin                                                                            
+    boolean array b1;
+
+	b1 := array 5                                                           ; 
+                 	                                                                
+    put "Boolean input: \n";                                                     
+    get b1[0];                                                                      
+    put b1[0]."\n";                                                                 
+                                                                                    
+    put "Boolean input: \n";                                                        
+    get b1[1];                                                                      
+    put b1[1]."\n";                                                                 
+                                                                                 
+    put "Boolean input: \n";                                                     
+    get b1[2];                                                                      
+    put b1[2]."\n"                                                                  
+                                                                                 
+                                                                                 
+end

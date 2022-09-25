@@ -1,0 +1,6 @@
+source test06
+begin
+	put "Mathematical expressions\n";
+	put 6 + 10."\t 16\n";
+	put 6+10 ."\t 16\n"
+end

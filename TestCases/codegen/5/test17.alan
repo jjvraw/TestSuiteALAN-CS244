@@ -1,0 +1,28 @@
+source test17
+begin
+	boolean b1,b2,b3,b4,b5;                                                      
+                                                                                 
+    b1:= true;                                                                   
+    b2 :=false;                                                                  
+    b3:=true;                                                                    
+    b4 := false;                                                                 
+    b5:=true;                                                                    
+                                                                                 
+    put b1 and b3."\n";                                                                 
+    put b2 or b5."\n";                                                                 
+    put (not(b3) or b5) ."\n";                                                                 
+    put not(not(not(not(not(not(not(not(not(not(not(b4)))))))))))."\n"; 
+ 	put not(b1)."\n";
+	put b5 and b5."\n";
+	put b1 and b1."\n";
+	put b2 and b2."\n";
+	put b3 or b3."\n";
+	put b5 or b4."\n";
+	put b1 or not(b2)."\n";
+	put not(b1)."\n";
+	put b2 and b4."\n";
+	put "normal strings\n";
+	put 1221333345. "\n";
+	put 6+6. "\n";
+	put true."\n"
+end

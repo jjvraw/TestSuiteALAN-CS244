@@ -1,0 +1,10 @@
+source test18
+begin 
+	integer array a1,a2	;
+
+	a1 := array 5;
+
+	a1[3] := 4;
+
+	put a1[3]."\n"
+end

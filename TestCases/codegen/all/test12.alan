@@ -1,0 +1,12 @@
+source test12
+begin
+	put true or false."\t true\n";
+	put true or true. "\t true\n";
+	put false or false. "\t false\n";
+	put "\n";
+
+	put true and false. "\t false\t";
+	put true and true. "\t true\n";
+	put false and true. "\t false";
+	put "\n"
+end 

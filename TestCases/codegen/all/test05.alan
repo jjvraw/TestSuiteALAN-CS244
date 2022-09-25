@@ -1,0 +1,4 @@
+source test05
+begin 
+	put "\" Double quote"."\n NewLine"."\t Tabspace"."\\ Backslash\n"
+end

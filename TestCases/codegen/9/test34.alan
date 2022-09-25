@@ -1,0 +1,30 @@
+source test34
+function foo(integer a, boolean b) to integer array
+begin
+	integer array ia1;
+	
+	ia1 := array (a+1);
+
+	while (a <> 0) and not(b) do
+		ia1[a] := a;
+		a := a-1
+	end		;
+
+	leave ia1
+end
+
+begin 
+	integer array intarr;
+	integer var;
+	
+	var := 10000;
+	
+	intarr := foo(var ,false);
+
+	while (var <> 0) do
+		put intarr[var]. "\n";
+		var := var -1
+	end
+
+
+end

@@ -1,0 +1,30 @@
+source test13
+begin
+	
+	put "Relop\t \n";
+	put "-----\t -----\n";
+
+
+	put 48<> 19."\t true\n";	
+	put 48 <>48."\t false\n"
+;
+
+	put 48< 59."\t true\n";
+	put 109 <86."\t false\n"
+;
+
+	put 45= 50."\t false\n";
+	put 50 =50."\t true\n";
+
+	put 78> 23."\t true\n";
+	put 100 >1000."\t false\n"
+;
+
+	put 169>= 169."\t true\n";
+	put 150 >=175."\t false\n"
+;
+	
+	put  810<=180."\t false\n";
+	put 21<=21."\t true\n"
+
+end

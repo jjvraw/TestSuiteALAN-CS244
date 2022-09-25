@@ -1,0 +1,4 @@
+source test01
+begin
+	relax
+end

@@ -1,0 +1,18 @@
+source test31                                                                    
+begin                                                                            
+    integer b1,b2,b3;                                                            
+                                                                                 
+    put "Integer input: \n";                                                     
+    get b1;                                                                      
+    put b1."\n";                                                                 
+                                                                                    
+    put "Integer input: \n";                                                        
+    get b2;                                                                      
+    put b2."\n";                                                                 
+                                                                                 
+    put "Integer input: \n";                                                     
+    get b3;                                                                      
+    put b3."\n"                                                                  
+                                                                                 
+                                                                                 
+end

@@ -1,0 +1,6 @@
+source test10
+begin
+	put "Boolean testing \n";
+	put true."\t true \n";
+	put false. "\t false\n"
+end

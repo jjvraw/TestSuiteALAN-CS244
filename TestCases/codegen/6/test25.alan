@@ -1,0 +1,31 @@
+source test25                                                                    
+begin                                                                               
+    boolean array ba1,ba2;                                                          
+    boolean b1,b2,b3;                                                               
+                                                                                    
+    b1 := true;                                                                     
+    b2 := true;                                                                     
+    b3 := false;                                                                    
+                                                                                    
+    ba1 := array 10;                                                                
+    ba2 := array 10;                                                                
+                                                                                    
+    ba1[1]:= b1;                                                                    
+    ba1[2]:=b2;                                                                     
+    ba1[3]:=b3;                                                                     
+                                                                                    
+    ba2:=ba1;                                                                       
+                                                                                    
+                                                                                    
+    if (false) then                                                                 
+        put "if1 \n"                                                                
+    elsif (b3) then                                                                 
+        put "if2 \n"                                                                
+    elsif (b3) then                                                                 
+        put "if3 \n"                                                                
+    elsif (false) then                                                              
+        put "if4 \n"                                                                
+    end;                                                                             
+                                                                                    
+   put "done \n"                                                                 
+end     

@@ -1,0 +1,42 @@
+source test20
+begin
+	boolean array ba1,ba2;
+	integer array ia1,ia2;
+	
+	integer i1, i2, i3;
+	boolean b1,b2,b3;
+
+	i1 := 59;
+	i2 := 420;
+	i3 := 69;
+	
+	b1 := true ;
+	b2 := true;
+	b3 := false;
+
+	ba1 := array 10;
+	ba2 := array 10;
+	
+	ia1 := array 10;
+	ia2 := array 10;
+
+
+	ia1[1] := i1;
+	ia1[2] := i2;
+	ia1[3] := i3;
+
+	ba1[1]:= b1;
+	ba1[2]:=b2;
+	ba1[3]:=b3;
+
+	ba2:=ba1;
+	ia2:=ia1;
+
+	put ba2[1]."\n";
+	put ba2[2]."\n";	
+	put ba2[3]."\n";
+
+	put ia2[1]."\n";
+	put ia2[2]."\n";
+	put ia2[3]."\n"
+end 	

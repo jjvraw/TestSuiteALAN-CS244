@@ -1,0 +1,4 @@
+source test09
+begin
+	put "String then math...".10 rem 69."\t 10\n"
+end

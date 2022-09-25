@@ -1,0 +1,6 @@
+source test07
+begin
+	put -6. "\t -5\n";                                                             
+	put 9-5. "\t 5\n";                                                             
+	put -16+10. "\t -5\n"
+end 
