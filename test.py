@@ -1,6 +1,8 @@
 import os
 from re import U
 import subprocess
+from contextlib import redirect_stdout
+import io
 import sys
 from dataclasses import dataclass
 import difflib as dl
@@ -20,10 +22,13 @@ class Util:
     def make(test):
         os.chdir("../alan/src")
         print("--- make " + test + " " + ("-" * 63))
+        os.system("make clean")
         os.system("make " + test)
         print("-" * 80)
         os.chdir("../../TestSuiteALAN")
 
+    def export_jasmin():
+        os.environ["JASMIN_JAR"] = "../../TestSuiteALAN/jasmin.jar"
 
 class Difference:
     results_folder = ''
@@ -55,6 +60,25 @@ class Test:
     def __init__(self, directory):
         self.list = directory
 
+    def test_codegen(self, arg):
+        os.chdir('../alan/bin')
+        Util.export_jasmin()
+        self.list.sort()
+        for i in self.list: 
+            i = i.replace(".alan", "")
+            subprocess.run(
+                ['./alanc', '../../TestSuiteALAN/TestCases/codegen/' + arg + '/' + i + '.alan'],
+                capture_output=False)
+
+            java = "java " + str(i)
+            self.out = subprocess.check_output(java, shell=True)
+            self.out = str(self.out, "UTF-8")
+            with open('../../TestSuiteALAN/Results/codegen/' + i + '.txt') as f:
+                result = f.read()
+            self.display_result_codegen(i + '.alan', result == self.out)
+        os.chdir("../../TestSuiteALAN")
+
+
     def test(self, bin_file, type, arg):
         self.list.sort()
         for i in self.list:
@@ -76,6 +100,18 @@ class Test:
             self.fails.insert(self.CurrentResult.failures - 1,
                               [file.replace(".alan", ""), self.out.stdout.decode() + self.out.stderr.decode()])
             self.CurrentResult.failures += 1
+
+    def display_result_codegen(self, file, res):
+        self.CurrentResult.tests += 1
+        if res:
+            print("\033[1;30;42m%-30s %9s\033[0m" % (file, "PASS"))
+            self.CurrentResult.passes += 1
+        else:
+            print("\033[1;30;41m%-30s %9s\033[0m" % (file, "FAIL"))
+            self.fails.insert(self.CurrentResult.failures - 1,
+                              [file.replace(".alan", ""), self.out])
+            self.CurrentResult.failures += 1
+    
 
     def display_stats(self):
         print("%i TESTS: %i PASSES and %i FAILS" % (
@@ -136,16 +172,22 @@ if __name__ == '__main__':
 
     elif argument[1] == 'codegen': 
         directory = Util.get_directory('codegen/', argument[2])
-        test = 'testtypechecking'
+        test = 'alanc'
         bin_file = 'alanc'
         diff = 'codegen'
 
 
-    if argument[1] != 'hash':
+
         Util.make(test)
         test = Test(directory)
-        test.test(bin_file, argument[1], argument[2])
-        test.display_stats()
+
+        if argument[2] != 'codegen':
+                test.test_codegen(argument[2])
+        else: 
+            test.test(bin_file, argument[1], argument[2])
+            test.display_stats()
+            
+        
 
         print("-" * 80)
         print("Enter 0 to exit, or 1 to display differences in failed cases: ")
