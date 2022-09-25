@@ -1,4 +1,2 @@
-source trivial
-begin 
-	relax
-end
+iaload used in factor
+iastore used in assign

@@ -1,8 +1,0 @@
-source test317
-begin
-    boolean b, c, d;
-
-    c := true;
-    d := false;
-    b := c = d
-end
