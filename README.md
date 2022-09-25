@@ -7,10 +7,10 @@
 
 ---
 ## Testing CodeGen
-1.**Test funcdef and vardef**
-`python3 test.py codegen funcvardef`
-	- all official testcases without any errors 
-> (1) should run without any errors to continue with codegen
+1. **Test funcdef and vardef**
+`python3 test.py codegen all` 
+	- runs all testcases
+> need to first export jasmin environment variable before running
 
 ---
 ## Testing HashTable
